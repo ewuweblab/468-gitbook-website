@@ -8,10 +8,6 @@
 
 
 
-## _git_ vs. GitHub
-
-
-
 ## Folder vs. Repository
 
 

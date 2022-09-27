@@ -14,8 +14,6 @@ Create, validate, and very the following accounts are active.
 
 ### Code Playground is: CodePen <a href="#code-playground-is-codepen" id="code-playground-is-codepen"></a>
 
-CodePen is for _Peer Programming,_ practice, Lectures, and more practice.
-
 CodePen is an interactive-playground for practicing coding, _forking_ other code, and following in class Lecture. Students will use CodePen under the umbrella of the Department — and have access to the paid _Developer Team plan_. Again, do not upgrade.
 
 {% embed url="https://codepen.io/" %}

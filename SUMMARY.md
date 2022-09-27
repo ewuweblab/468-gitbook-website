@@ -6,7 +6,10 @@
 
 * [Tools](tools-and-process/tools.md)
 * [Accounts](tools-and-process/accounts.md)
-* [Versus](tools-and-process/versus.md)
+* [Primer](tools-and-process/primer.md)
+* [Text Editor](tools-and-process/text-editor.md)
+* [Version Control](tools-and-process/version-control.md)
+* [Deployment](tools-and-process/deployment.md)
 
 ## Course Information
 
@@ -65,6 +68,7 @@
 
 ## ⭐ Class Roster API
 
+* [🎉 Ship. Revise. Restart](class-roster-api/ship.-revise.-restart.md)
 * [Setup](class-roster-api/setup/README.md)
   * [Data](class-roster-api/setup/data.md)
   * [HTML](class-roster-api/setup/html.md)
@@ -72,7 +76,6 @@
   * [JS](class-roster-api/setup/js.md)
   * [In Class Example](class-roster-api/setup/in-class-example.md)
 * [💯 Project Challenges](class-roster-api/project-challenges.md)
-* [🎉 Ship. Revise. Restart](class-roster-api/ship.-revise.-restart.md)
 
 ## ⭐ DIY Landing Page
 

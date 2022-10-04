@@ -22,26 +22,27 @@ You are encored to add additional content, links, images, etc.
 
 ### Design
 
+* [ ] Create _Style Tile_ in Figma
 * [ ] Design is reflective personal identity or brand
-* [ ] Remove boilerplate-starter “Sharpie” font
 * [ ] Find, and use a [Font Share](https://fontshare.com) font.
-* [ ] Find another design resource e.g. CodePen pen, resource, color palette, technique, etc., and apply to your Project
+* [ ] Find another design resource e.g. CodePen pen, YouTube video, color palette, technique, etc., and apply to your Project
 
 ### Code
 
-* [ ] Fork starter project from [https://github.com/ewuweblab/diy-landing-page-starter](https://github.com/ewuweblab/diy-landing-page-starter)
+* [ ] Setup boilerplate for web projects
 * [ ] Add custom content, design, and code with HTML, CSS, JS
+* [ ] Apply a-resource-you-found to your project e.g. e.g. CodePen pen, YouTube video, color palette, technique, etc., and apply to your Project
 
 ### Process
 
 * [ ] _Version Control_ is used with multiple commits, over multiple days
 * [ ] Project is stored on GitHub
 * [ ] Project is deployed via Netlify
-* [ ] Remove “Deploy with Netlify” button from `README.md`
 * [ ] `README.md` file edited with your-own-content e.g. name, citations, notes, links, or any relevant information
 
 ### Submission
 
+* [ ] Provide URL to your _Style Tile_ on __ Figma
 * [ ] Provide URL to your project _repo_ stored on _GitHub_
   * Example: _https://github.com/**YourUserName**/**RepoName**_
 * [ ] Provide URL to your project website deployed via _Netflify_

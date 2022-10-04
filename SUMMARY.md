@@ -11,6 +11,12 @@
 * [Version Control](tools-and-process/version-control.md)
 * [Deployment](tools-and-process/deployment.md)
 
+## ⭐ DIY Landing Page
+
+* [Overview](diy-landing-page/overview.md)
+* [💯 Project Challenges](diy-landing-page/project-challenges.md)
+* [🎉 Ship. Revise. Restart](diy-landing-page/ship.-revise.-restart.md)
+
 ## Course Information
 
 * [Syllabus](course-information/syllabus.md)
@@ -76,12 +82,6 @@
   * [JS](class-roster-api/setup/js.md)
   * [In Class Example](class-roster-api/setup/in-class-example.md)
 * [💯 Project Challenges](class-roster-api/project-challenges.md)
-
-## ⭐ DIY Landing Page
-
-* [Overview](diy-landing-page/overview.md)
-* [💯 Project Challenges](diy-landing-page/project-challenges.md)
-* [🎉 Ship. Revise. Restart](diy-landing-page/ship.-revise.-restart.md)
 
 ## 🗃 APIs
 

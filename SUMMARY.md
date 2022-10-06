@@ -1,15 +1,13 @@
 # Table of contents
 
 * [Homepage](README.md)
-
-## 🗃 Tools and Process
-
-* [Tools](tools-and-process/tools.md)
-* [Accounts](tools-and-process/accounts.md)
-* [Primer](tools-and-process/primer.md)
-* [Text Editor](tools-and-process/text-editor.md)
-* [Version Control](tools-and-process/version-control.md)
-* [Deployment](tools-and-process/deployment.md)
+* [⚙ Tools and Process](tools-and-process/README.md)
+  * [Tools](tools-and-process/tools.md)
+  * [Accounts](tools-and-process/accounts.md)
+  * [Primer](tools-and-process/primer.md)
+  * [Text Editor](tools-and-process/text-editor.md)
+  * [Version Control](tools-and-process/version-control.md)
+  * [Deployment](tools-and-process/deployment.md)
 
 ## ⭐ DIY Landing Page
 

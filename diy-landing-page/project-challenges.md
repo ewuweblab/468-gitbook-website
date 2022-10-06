@@ -18,14 +18,15 @@ Required content are:
 * Link to GitHub profile https://github.com/**YourUserName**
 * Link to CodePen profile https://codepen.io/**YourUserName**
 
-You are encored to add additional content, links, images, etc.
+You are encouraged to add additional content, links, images, etc.
 
 ### Design
 
 * [ ] Create _Style Tile_ in Figma
 * [ ] Design is reflective personal identity or brand
 * [ ] Find, and use a [Font Share](https://fontshare.com) font.
-* [ ] Find another design resource e.g. CodePen pen, YouTube video, color palette, technique, etc., and apply to your Project
+* [ ] Apply one-or-more of the layout techniques from [CSS Layout Code Challenges](https://www.linkedin.com/learning/css-layout-code-challenges)
+  * [https://www.linkedin.com/learning/css-layout-code-challenges](https://www.linkedin.com/learning/css-layout-code-challenges)
 
 ### Code
 
@@ -42,7 +43,7 @@ You are encored to add additional content, links, images, etc.
 
 ### Submission
 
-* [ ] Provide URL to your _Style Tile_ on __ Figma
+* [ ] Provide URL to your _Style Tile_ on __ Figma. Double check the Figma link is publicly accessible.
 * [ ] Provide URL to your project _repo_ stored on _GitHub_
   * Example: _https://github.com/**YourUserName**/**RepoName**_
 * [ ] Provide URL to your project website deployed via _Netflify_

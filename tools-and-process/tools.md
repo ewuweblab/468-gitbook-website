@@ -1,5 +1,7 @@
 # Tools
 
+>
+>
 > What you use, is less important, than what you made.
 
 Modern Web Design requires a lot of tools, services, and accounts. Stop looking for one-tool-to rule-them-all. Find the best-suited tool for each task. 🤔 __ Photoshop has a pen tool, why does Illustrator exist? Illustrator has UI Design features, but why does Figmaexist?
@@ -29,12 +31,6 @@ Mozilla's FireFox will be the primary browser. FireFox Dev Tools are included in
 Many (many) text editors exist to write code. _VS Code_ by Microsoft is the most popular, and is embedded into many services. Each text editor has its Pros/Cons. We will use what is available in the computer labs. Find one you like. Get proficient with it.
 
 [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
-
-### Optional Extension: GitHub CoPilot
-
-GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor. This is a paid extension, but is available to Students via the [https://education.github.com/pack](https://education.github.com/pack).
-
-[https://github.com/features/copilot](https://github.com/features/copilot)
 
 ### Vector Design is: _Figma_
 

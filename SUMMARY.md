@@ -9,7 +9,13 @@
   * [Version Control](tools-and-process/version-control.md)
   * [Deployment](tools-and-process/deployment.md)
 
-## ⭐ DIY Landing Page
+## ⭐ JS Libraries Are Fun
+
+* [Overview](js-libraries-are-fun/overview.md)
+* [Practice Pens](js-libraries-are-fun/practice-pens.md)
+* [💯 Project Challenges](js-libraries-are-fun/project-challenges.md)
+
+## DIY Landing Page
 
 * [Overview](diy-landing-page/overview.md)
 * [💯 Project Challenges](diy-landing-page/project-challenges.md)
@@ -30,12 +36,6 @@
 * [Properties vs. Methods](two.js-animation-library/properties-vs.-methods.md)
 * [Animate](two.js-animation-library/animate.md)
 * [💯 Project Challenges](two.js-animation-library/project-challenges.md)
-
-## JS Libraries Are Fun
-
-* [Overview](js-libraries-are-fun/overview.md)
-* [Practice Pens](js-libraries-are-fun/practice-pens.md)
-* [💯 Project Challenges](js-libraries-are-fun/project-challenges.md)
 
 ## ⭐ Giphy API
 

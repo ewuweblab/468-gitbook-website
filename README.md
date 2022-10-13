@@ -2,7 +2,9 @@
 
 ### Web 3 Professor Pen
 
-* [https://codepen.io/manikoth/professor/qBYgxJO](https://codepen.io/manikoth/professor/qBYgxJO)
+{% embed url="https://codepen.io/manikoth/professor/xxppzMb" %}
+Web 3 Professor Pen
+{% endembed %}
 
 ## Syllabus
 

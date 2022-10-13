@@ -1,8 +1,8 @@
 # 💯 Project Challenges
 
-{% hint style="info" %}
-NOTE: There is not framework to fork. Practice creating your own boilerplate framwork.
-{% endhint %}
+### Web 3 Boilerplate
+
+{% embed url="https://github.com/ewuweblab/web-3-boilerplate" %}
 
 ### Challenge 1: Understand Library
 

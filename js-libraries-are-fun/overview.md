@@ -1,6 +1,8 @@
 # Overview
 
-> JS Libraries are Fun.
+
+
+> JS Libraries are Fun, Helpful, and Saves Time.&#x20;
 
 ## Why JS Libraries?&#x20;
 
@@ -13,6 +15,13 @@ JavaScript cannot - _and should not_ - have everything. Slowly (very slowly) it 
 * If possible, find libraries that do not have dependencies - from other libraries:
   * Other libraries e.g GSAP
   * Other frameworks e.g React
+
+## Library vs. Plugin
+
+* Both terms are interchangable
+* A _plugin_ is typically smaller in files size, scope, and features
+* A _library_ is large in size, scope, and features -- and contain its own _plugins_
+  * For example, GSAP is a _library_ with an effects _plugin, a scrolling plugin, etc._
 
 ## Where to find Libraries?
 

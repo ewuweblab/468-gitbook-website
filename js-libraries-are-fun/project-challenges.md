@@ -1,31 +1,35 @@
 # 💯 Project Challenges
 
-### Web 3 Boilerplate
-
-{% embed url="https://github.com/ewuweblab/web-3-boilerplate" %}
-
-### Challenge 1: Understand Library
+### Challenge 1: Understand Circle Type Library
 
 {% hint style="info" %}
 Source Code for Plugin : [https://github.com/peterhry/CircleType/blob/master/dist/circletype.min.js](https://github.com/peterhry/CircleType/blob/master/dist/circletype.min.js)
 {% endhint %}
 
-* Review [Circle Type](https://circletype.labwire.ca/)
-* Option A: Download to Project as JS file
-* Option B: External CodePen **JS** Pen
-* Option C: [Use developer CDN file](https://circletype.labwire.ca/dist/circletype.min.js)
-
-### Challenge 2: Practice Pens
+### Challenge 2: Create Practice Pens
 
 * Use this content for sample pens
 
 `Decisions define the Direction of the Design. Design without Direction -- is just Decoration. Anyone who makes Decisions is a: Designer.`
 
 * Create three(3) practice pens
-* Install the Circle Type library to each pen
+* Install [Circle Type](https://circletype.labwire.ca/) plugin
+  * Option A: Download to Project as JS file
+  * Option B: External CodePen **JS** Pen
+  * Option C: [Use developer CDN file](https://circletype.labwire.ca/dist/circletype.min.js)
 * Create three(3) uniquely different pens utilizing Circle type methods and/or options
+* Submit three(3) Pens to Canvas
 
-### Challenge 3. Go Live
+### Challenge 3: Use Web 3 Boilerplate
+
+{% embed url="https://github.com/ewuweblab/web-3-boilerplate" %}
+
+### Challenge 4: Design & FontShare Font&#x20;
+
+* Find and install a Font Share font
+  * fontshare.com
+
+### Challenge 5: Go Live
 
 Pick ONE(1) pen from the three(3) _Practice Pens_ and apply our Process
 

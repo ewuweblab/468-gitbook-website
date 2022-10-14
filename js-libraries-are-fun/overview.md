@@ -1,8 +1,8 @@
 # Overview
 
-> JS Libraries are Fun (Colin is not).&#x20;
+> JS Libraries are Fun.
 
-### Why JS Libraries?&#x20;
+## Why JS Libraries?&#x20;
 
 JavaScript cannot - _and should not_ - have everything. Slowly (very slowly) it will become a standard in HTML and CSS. Libraries help push the web forward. E.g. [HTML dialog element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
 
@@ -10,13 +10,19 @@ JavaScript cannot - _and should not_ - have everything. Slowly (very slowly) it 
 * Extend JavaScript's built-in functionality
 * Pros: Write less code, do more, in less time.
 * Cons: Files size, trust, bugs, performance, flexibility, etc.
-* If possbible, find libraries that do not have dependencies - from other libraries:
+* If possible, find libraries that do not have dependencies - from other libraries:
   * Other libraries e.g GSAP
   * Other frameworks e.g React
 
-### Where to find Libraries?
+## Where to find Libraries?
 
-* Search Engines
+Curated collections like these.&#x20;
+
+{% embed url="https://vanillalist.top/" %}
+
+{% embed url="https://github.com/davidhund/awesome-vanilla-js" %}
+
+* Search Engine
 * Libaries CDNs
   * [NPM](https://www.npmjs.com/)
   * [Sky Pack](https://www.skypack.dev/)

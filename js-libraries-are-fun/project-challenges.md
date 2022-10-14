@@ -27,7 +27,8 @@ Source Code for Plugin : [https://github.com/peterhry/CircleType/blob/master/dis
 ### Challenge 4: Design & FontShare Font&#x20;
 
 * Find and install a Font Share font
-  * fontshare.com
+  * [https://fontshare.com](https://fontshare.com)
+* Add your own visual design elements
 
 ### Challenge 5: Go Live
 
@@ -38,6 +39,11 @@ Pick ONE(1) pen from the three(3) _Practice Pens_ and apply our Process
 * Project is deployed via Netlify
 * Remove “Deploy with Netlify” button from `README.md`
 * `README.md` file edited with your-own-content e.g. name, citations, notes, links, or any relevant information
+
+### Extra Credit: Lettering JS
+
+* Install and apply \*vanilla\* Lettering JS plugin from this source
+  * [https://gist.github.com/cferdinandi/68bae3f551d7daff8d442e232c499307](https://gist.github.com/cferdinandi/68bae3f551d7daff8d442e232c499307)
 
 ### Submission
 

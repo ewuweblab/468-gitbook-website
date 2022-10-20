@@ -9,7 +9,14 @@
   * [Version Control](tools-and-process/version-control.md)
   * [Deployment](tools-and-process/deployment.md)
 
-## ⭐ JS Libraries Are Fun
+## ⭐ VS Code Theme
+
+* [Colo(u)r Theory 101](vs-code-theme/colo-u-r-theory-101.md)
+* [The Why](vs-code-theme/the-why.md)
+* [The What](vs-code-theme/the-what.md)
+* [💯 The How (Challenges)](vs-code-theme/the-how-challenges.md)
+
+## JS Libraries Are Fun
 
 * [Overview](js-libraries-are-fun/overview.md)
 * [Practice Pens](js-libraries-are-fun/practice-pens.md)
@@ -41,12 +48,6 @@
 
 * [Practice Pens](giphy-api/practice-pens.md)
 * [💯 Project Challenges](giphy-api/project-challenges.md)
-
-## ⭐ VS Code Theme
-
-* [The Why](vs-code-theme/the-why.md)
-* [The What](vs-code-theme/the-what.md)
-* [💯 The How (Challenges)](vs-code-theme/the-how-challenges.md)
 
 ## ⭐ Dashboard Widgets
 

@@ -9,7 +9,15 @@
   * [Version Control](tools-and-process/version-control.md)
   * [Deployment](tools-and-process/deployment.md)
 
-## ⭐ VS Code Theme
+## ⭐ Sound Board
+
+* [Overview](sound-board/overview.md)
+* [Concepts](sound-board/concepts.md)
+* [Art Direction](sound-board/art-direction.md)
+* [Sounds](sound-board/sounds.md)
+* [Edit Sounds](sound-board/edit-sounds.md)
+
+## VS Code Theme
 
 * [Colo(u)r Theory 101](vs-code-theme/colo-u-r-theory-101.md)
 * [The Why](vs-code-theme/the-why.md)

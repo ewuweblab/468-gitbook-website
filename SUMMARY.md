@@ -12,11 +12,11 @@
 ## ⭐ Sound Board
 
 * [Overview](sound-board/overview.md)
-* [Art Direction](sound-board/art-direction.md)
-* [The Sounds](sound-board/the-sounds.md)
-* [Concepts](sound-board/concepts.md)
-* [Sounds](sound-board/sounds.md)
+* [Art Direction](<sound-board/art-direction (1).md>)
+* [The Sounds](sound-board/art-direction.md)
 * [Edit Sounds](sound-board/edit-sounds.md)
+* [Code Concepts](sound-board/code-concepts.md)
+* [💯 Challenges](sound-board/challenges.md)
 
 ## VS Code Theme
 

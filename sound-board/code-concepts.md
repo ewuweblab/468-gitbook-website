@@ -1,24 +1,29 @@
-# Concepts
+# Code Concepts
 
-[https://youtu.be/Bbua2TYB6mA](https://youtu.be/Bbua2TYB6mA)
-
-### Goals
+## Goals
 
 * Use Vanilla JS to make a soundboard via Wes Bos JavaScript 30 courses
 * Practice extending existing code
-* Work in Peer Programming groupsd
+* Work in Peer Programming groups
 * Refresh understanding of HTML, CSS, and JS layers
 * Make a fun soundboard. Unpack the concepts.
 
 ### Practice on CodePen
 
-***
+https://codepen.io/manikoth/pen/OJXyQNL
+
+https://codepen.io/manikoth/pen/GRqpQNV
+
+https://codepen.io/manikoth/pen/MWeaQEv
+
+https://codepen.io/manikoth/pen/ExyaVPV
 
 ### HTML
 
 * `audio` element
 * `kbd` element
-* create and change `data-` attribute elements
+* `data-` attribute elements
+* [_Shadow DOM_](https://javascript.info/shadow-dom)
 
 ### CSS
 
@@ -31,14 +36,5 @@
 * Template literals
 * `query` selector
 * `addEventListener`
-
-### Application on CodePen Projects
-
-Make it real. Make it your own.
-
-### Completed Soundboards
-
-Sample fully completed soundboards applying the concepts above.
-
-[https://codepen.io/manikoth/pen/WzRrNO](https://codepen.io/manikoth/pen/WzRrNO)
+* keyboard codes
 

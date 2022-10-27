@@ -12,8 +12,9 @@
 ## ⭐ Sound Board
 
 * [Overview](sound-board/overview.md)
-* [Concepts](sound-board/concepts.md)
 * [Art Direction](sound-board/art-direction.md)
+* [The Sounds](sound-board/the-sounds.md)
+* [Concepts](sound-board/concepts.md)
 * [Sounds](sound-board/sounds.md)
 * [Edit Sounds](sound-board/edit-sounds.md)
 

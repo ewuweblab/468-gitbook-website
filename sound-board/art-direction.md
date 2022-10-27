@@ -1,27 +1,19 @@
 # Art Direction
 
-* Create a new Figma file titled Sound Board
-* Think of theme, topics, idea, etc.&#x20;
-* Create a Style Tile for that theme
+### Setup
 
-{% hint style="danger" %}
-Do Not pay for any sounds.
-{% endhint %}
+* Create a new Figma file title: _Sound Board_
 
-### Found Sounds
+### Ideate
 
-Explore all the sound files resources listed here. See what sounds are already available for download. Note, some websites require a login.
+* Ideate 5 or more different topics or themes for your sound board.
+* Pick 1-single idea/theme to design for
 
-### Download Sounds
+### Content
 
-See the following links for free sounds. You may have to create a new account to download WAV files.
+* Create, or find 5 (or more) sounds for your topic/theme
+* Think about how each sounds reinforces the topic/theme
 
-[Freesound - Freesound](https://freesound.org/)
+### Design
 
-[BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/)
-
-[ZapSplat - Download Free Sound Effects & Royalty Free Music](https://www.zapsplat.com/)
-
-### Optionally, Make Sounds
-
-Optionally, record your own sounds. Mac/Windows, and iOS/Android all have voice recording software. There are also many websites to record sounds. That list will be provided in next section: \_Make Sounds. \_
+* Begin finding visuals: color, type, images, etc. that support this topic/theme

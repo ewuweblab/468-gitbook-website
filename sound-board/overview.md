@@ -14,7 +14,7 @@ Exceptional examples of websites applying the concepts of this project.
 
 {% embed url="https://www.patatap.com/" %}
 
-
+### [https://www.patatap.com/  https://coffitivity.com/  https://www.onlinepianist.com/virtual-piano  https://drumbit.app/  https://experiments.withgoogle.com/ai/drum-machine/view/  http://typedrummer.com/  https://neal.fun/ambient-chaos/](https://www.patatap.com/https://coffitivity.com/https://www.onlinepianist.com/virtual-pianohttps://drumbit.app/https://experiments.withgoogle.com/ai/drum-machine/view/http://typedrummer.com/https://neal.fun/ambient-chaos/)
 
 ### References
 

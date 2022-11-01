@@ -7,6 +7,10 @@ layout: editorial
 
 # 💯 The How (Challenges)
 
+### DESN Logo
+
+{% file src="../.gitbook/assets/DESN_Family.png" %}
+
 ### Design a Theme
 
 {% embed url="https://themes.vscode.one" %}

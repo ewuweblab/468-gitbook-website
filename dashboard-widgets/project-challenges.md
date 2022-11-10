@@ -7,8 +7,6 @@ coverY: 0
 
 # 💯 Project Challenges
 
-{% embed url="https://github.com/ewuweblab/dashboard-widgets" %}
-
 ### Challenge 1 : Content
 
 * [ ] Show current time in your preferred format e.g. _03:00_ vs _3:00_
@@ -28,7 +26,12 @@ coverY: 0
 
 * [ ] Create your own DIY custom layout with CSS, Flexbox and/or Grid
 
-[CSS Layouts via LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid)
+<!---->
+
+* [CSS Layout Challenges with Mort](https://www.linkedin.com/learning/css-layout-code-challenges/) via Linked In Learning
+* [CSS Layouts via LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid)
+
+
 
 #### Option B:
 
@@ -44,6 +47,7 @@ Use a generator OR alternative source. Apply it, then cite your source. E.g. Cod
 ### Challenge 4 : JavaScript
 
 * [ ] Use Open Weather API to display **ONE-or-more** additional data point(s) e.g. wind, humidity, pressure, etc.
+* [ ] Apply full screen video to your design
 
 ### Challenge 5 : Process
 

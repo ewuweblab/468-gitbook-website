@@ -9,6 +9,29 @@
   * [Version Control](tools-and-process/version-control.md)
   * [Deployment](tools-and-process/deployment.md)
 
+## ⭐ Dashboard Widgets
+
+* [Overview](dashboard-widgets/overview/README.md)
+  * [Setup](dashboard-widgets/overview/setup.md)
+  * [Data](dashboard-widgets/overview/data.md)
+  * [Clock Widget](dashboard-widgets/overview/clock-widget/README.md)
+    * [HTML](dashboard-widgets/overview/clock-widget/html.md)
+    * [CSS](dashboard-widgets/overview/clock-widget/css.md)
+    * [JS](dashboard-widgets/overview/clock-widget/js.md)
+  * [Date Widget](dashboard-widgets/overview/date-widget/README.md)
+    * [HTML](dashboard-widgets/overview/date-widget/html.md)
+    * [CSS](dashboard-widgets/overview/date-widget/css.md)
+    * [JS](dashboard-widgets/overview/date-widget/js.md)
+  * [Web Cam](dashboard-widgets/overview/web-cam.md)
+  * [Weather Widget](dashboard-widgets/overview/weather-widget/README.md)
+    * [Query Strings](dashboard-widgets/overview/weather-widget/query-strings.md)
+    * [Open Weather API](dashboard-widgets/overview/weather-widget/open-weather-api.md)
+    * [Fetch Weather](dashboard-widgets/overview/weather-widget/fetch-weather.md)
+    * [Icons](dashboard-widgets/overview/weather-widget/icons.md)
+    * [JS Concepts](dashboard-widgets/overview/weather-widget/js-concepts.md)
+* [💯 Project Challenges](dashboard-widgets/project-challenges.md)
+* [🎉 Ship. Revise. Restart](dashboard-widgets/ship.-revise.-restart.md)
+
 ## ⭐ Sound Board
 
 * [Overview](sound-board/overview.md)
@@ -57,29 +80,6 @@
 
 * [Practice Pens](giphy-api/practice-pens.md)
 * [💯 Project Challenges](giphy-api/project-challenges.md)
-
-## ⭐ Dashboard Widgets
-
-* [Overview](dashboard-widgets/overview/README.md)
-  * [Setup](dashboard-widgets/overview/setup.md)
-  * [Data](dashboard-widgets/overview/data.md)
-  * [Clock Widget](dashboard-widgets/overview/clock-widget/README.md)
-    * [HTML](dashboard-widgets/overview/clock-widget/html.md)
-    * [CSS](dashboard-widgets/overview/clock-widget/css.md)
-    * [JS](dashboard-widgets/overview/clock-widget/js.md)
-  * [Date Widget](dashboard-widgets/overview/date-widget/README.md)
-    * [HTML](dashboard-widgets/overview/date-widget/html.md)
-    * [CSS](dashboard-widgets/overview/date-widget/css.md)
-    * [JS](dashboard-widgets/overview/date-widget/js.md)
-  * [Web Cam](dashboard-widgets/overview/web-cam.md)
-  * [Weather Widget](dashboard-widgets/overview/weather-widget/README.md)
-    * [Query Strings](dashboard-widgets/overview/weather-widget/query-strings.md)
-    * [Open Weather API](dashboard-widgets/overview/weather-widget/open-weather-api.md)
-    * [Fetch Weather](dashboard-widgets/overview/weather-widget/fetch-weather.md)
-    * [Icons](dashboard-widgets/overview/weather-widget/icons.md)
-    * [JS Concepts](dashboard-widgets/overview/weather-widget/js-concepts.md)
-* [💯 Project Challenges](dashboard-widgets/project-challenges.md)
-* [🎉 Ship. Revise. Restart](dashboard-widgets/ship.-revise.-restart.md)
 
 ## ⭐ Class Roster API
 

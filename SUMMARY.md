@@ -71,6 +71,7 @@
     * [HTML](dashboard-widgets/overview/date-widget/html.md)
     * [CSS](dashboard-widgets/overview/date-widget/css.md)
     * [JS](dashboard-widgets/overview/date-widget/js.md)
+  * [Web Cam](dashboard-widgets/overview/web-cam.md)
   * [Weather Widget](dashboard-widgets/overview/weather-widget/README.md)
     * [Query Strings](dashboard-widgets/overview/weather-widget/query-strings.md)
     * [Open Weather API](dashboard-widgets/overview/weather-widget/open-weather-api.md)

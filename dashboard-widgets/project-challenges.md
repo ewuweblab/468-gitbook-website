@@ -1,11 +1,12 @@
 ---
-description: ...for Dashboard Widgets.
 cover: >-
   https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/372b0e12748107.562e65ae4f019.jpg
 coverY: 0
 ---
 
 # 💯 Project Challenges
+
+{% embed url="https://github.com/ewuweblab/dashboard-widgets-smart-mirror" %}
 
 ### Challenge 1 : Content
 
@@ -20,7 +21,7 @@ coverY: 0
 * [ ] Define a custom Art Direction for your widgets
 * [ ] Apply your own layout with either CSS Flexbox and/or Grid modules.
 
-### Challenge 3 : CSS Grid
+### Challenge 3 : Visual Design
 
 #### Option A:
 
@@ -30,19 +31,6 @@ coverY: 0
 
 * [CSS Layout Challenges with Mort](https://www.linkedin.com/learning/css-layout-code-challenges/) via Linked In Learning
 * [CSS Layouts via LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid)
-
-
-
-#### Option B:
-
-Use a generator OR alternative source. Apply it, then cite your source. E.g. Codeine Pen, YouTube tutorial, website generator, etc.
-
-* [ ] Generators for CSS Grid layouts:
-
-<!---->
-
-* [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
-* [Angry Tools](https://angrytools.com/css-grid/)
 
 ### Challenge 4 : JavaScript
 

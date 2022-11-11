@@ -18,19 +18,13 @@ coverY: 0
 
 ### Challenge 2 : Art Direction
 
-* [ ] Define a custom Art Direction for your widgets
-* [ ] Apply your own layout with either CSS Flexbox and/or Grid modules.
+* [ ] Define a custom _Art Direction_ for your widgets
 
 ### Challenge 3 : Visual Design
 
-#### Option A:
-
-* [ ] Create your own DIY custom layout with CSS, Flexbox and/or Grid
-
-<!---->
-
-* [CSS Layout Challenges with Mort](https://www.linkedin.com/learning/css-layout-code-challenges/) via Linked In Learning
-* [CSS Layouts via LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid)
+* [ ] Apply your defined _Art Direction._ [See past Student Examples](https://uxlab.gitbook.io/468/dashboard-widgets/ship.-revise.-restart)
+* [ ] Do your choices for color, type, imagery, etc. support the _Art Direction?_
+* [ ] Optionally, adjust the layout. Again, [See past Student Examples](https://uxlab.gitbook.io/468/dashboard-widgets/ship.-revise.-restart) and reference [CSS Layout Challenges with Mort](https://www.linkedin.com/learning/css-layout-code-challenges/) via Linked In Learning
 
 ### Challenge 4 : JavaScript
 

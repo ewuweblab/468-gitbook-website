@@ -9,6 +9,23 @@
   * [Version Control](tools-and-process/version-control.md)
   * [Deployment](tools-and-process/deployment.md)
 
+## 🗃 APIs
+
+* [Overview](apis/overview.md)
+* [URL Query Strings](apis/url-query-strings.md)
+* [JSON](apis/json.md)
+
+## ⭐ Class Roster API
+
+* [Setup](class-roster-api/setup/README.md)
+  * [Data](class-roster-api/setup/data.md)
+  * [HTML](class-roster-api/setup/html.md)
+  * [CSS](class-roster-api/setup/css.md)
+  * [JS](class-roster-api/setup/js.md)
+  * [In Class Example](class-roster-api/setup/in-class-example.md)
+* [🎉 Ship. Revise. Restart](class-roster-api/ship.-revise.-restart.md)
+* [💯 Project Challenges](class-roster-api/project-challenges.md)
+
 ## ⭐ Dashboard Widgets
 
 * [Overview](dashboard-widgets/overview/README.md)
@@ -80,24 +97,3 @@
 
 * [Practice Pens](giphy-api/practice-pens.md)
 * [💯 Project Challenges](giphy-api/project-challenges.md)
-
-## ⭐ Class Roster API
-
-* [🎉 Ship. Revise. Restart](class-roster-api/ship.-revise.-restart.md)
-* [Setup](class-roster-api/setup/README.md)
-  * [Data](class-roster-api/setup/data.md)
-  * [HTML](class-roster-api/setup/html.md)
-  * [CSS](class-roster-api/setup/css.md)
-  * [JS](class-roster-api/setup/js.md)
-  * [In Class Example](class-roster-api/setup/in-class-example.md)
-* [💯 Project Challenges](class-roster-api/project-challenges.md)
-
-## 🗃 APIs
-
-* [Overview](apis/overview.md)
-* [URL Query Strings](apis/url-query-strings.md)
-* [JSON](apis/json.md)
-
-## 🗃 CMS
-
-* [Overview](cms/overview.md)

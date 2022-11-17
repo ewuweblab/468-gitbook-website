@@ -1,5 +1,13 @@
 # JS
 
+## Query Strings
+
+Using this reference, practice writing _Query Strings_ to:&#x20;
+
+* Search website EWU.edu for PDFs that contain the word "design"
+
+{% embed url="https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters" %}
+
 ## JSON Data
 
 {% embed url="https://codepen.io/manikoth/pen/pozModJ?editors=1010" %}

@@ -15,7 +15,11 @@
 * [URL Query Strings](apis/url-query-strings.md)
 * [JSON](apis/json.md)
 
-## ⭐ Class Roster API
+## ⭐ GitHub Web Portfolio
+
+* [Overview](github-web-portfolio/overview.md)
+
+## Class Roster API
 
 * [Setup](class-roster-api/setup/README.md)
   * [Data](class-roster-api/setup/data.md)
@@ -26,7 +30,7 @@
 * [🎉 Ship. Revise. Restart](class-roster-api/ship.-revise.-restart.md)
 * [💯 Project Challenges](class-roster-api/project-challenges.md)
 
-## ⭐ Dashboard Widgets
+## Dashboard Widgets
 
 * [Overview](dashboard-widgets/overview/README.md)
   * [Setup](dashboard-widgets/overview/setup.md)
@@ -49,7 +53,7 @@
 * [💯 Project Challenges](dashboard-widgets/project-challenges.md)
 * [🎉 Ship. Revise. Restart](dashboard-widgets/ship.-revise.-restart.md)
 
-## ⭐ Sound Board
+## Sound Board
 
 * [Overview](sound-board/overview.md)
 * [Art Direction](<sound-board/art-direction (1).md>)
@@ -93,7 +97,7 @@
 * [Animate](two.js-animation-library/animate.md)
 * [💯 Project Challenges](two.js-animation-library/project-challenges.md)
 
-## ⭐ Giphy API
+## Giphy API
 
 * [Practice Pens](giphy-api/practice-pens.md)
 * [💯 Project Challenges](giphy-api/project-challenges.md)

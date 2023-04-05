@@ -18,6 +18,7 @@
 ## ⭐ GitHub Web Portfolio
 
 * [Overview](github-web-portfolio/overview.md)
+* [GitHub Profile](github-web-portfolio/github-profile.md)
 
 ## Class Roster API
 

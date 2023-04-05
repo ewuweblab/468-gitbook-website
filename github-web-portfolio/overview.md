@@ -1,29 +1,19 @@
 # Overview
 
-### Setup
+## What is this?
 
-1. Create new repo
-2. Name it with `YourUserName`
-3. Edit `README.md`
+* A custom profile-page for yourself, employers, and clients
+* A special repo that utilizes your GitHub username
+* [See examples Awesome GitHub Profile READMEs](https://zzetao.github.io/awesome-github-profile/)
 
-### Markdown Refresher
+## Why use it?
 
-{% embed url="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" %}
+* An "About me" page that describes your work and interests
+* Highlight your best work. Sell yourself.
+* A permanent home to sell your web projects
 
-### Customize Settings
+## How do I use it?
 
-* Go to Settings -> Appearance
-* Note how limited visual appearance options are
-* THIS is a FEATURE. Not a bug.
-
-### Tutorials
-
-{% embed url="https://www.sitepoint.com/github-profile-readme/" %}
-
-### Awesome Examples
-
-{% embed url="https://dev.to/github/10-standout-github-profile-readmes-h2o" %}
-
-{% embed url="https://github.com/abhisheknaiidu/awesome-github-profile-readme" %}
-
-{% embed url="https://zzetao.github.io/awesome-github-profile/" %}
+* Create a repo named after your GitHub username
+* Edit `README.md` file
+* See provided references

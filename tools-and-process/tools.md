@@ -2,7 +2,7 @@
 
 > What you use, is less important, than what you made.
 
-Modern Web Design requires a lot of tools, services, and accounts. Stop looking for one-tool-to rule-them-all. Find the best-suited tool for each task. 🤔 __ Photoshop has a pen tool, why does Illustrator exist? Illustrator has UI Design features, but why does Figmaexist?
+Modern Web Design requires a lot of tools, services, and accounts. Stop looking for one-tool-to rule-them-all. Find the best-suited tool for each task. 🤔 Photoshop has a pen tool, why does Illustrator exist? Illustrator has UI Design features, but why does Figmaexist?
 
 Software is selected based on availability on both Mac and PC operating systems. Create the following account(s). **Do NOT upgrade to Paid plans.** All accounts are _free-to-try._
 

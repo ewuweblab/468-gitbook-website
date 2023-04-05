@@ -43,7 +43,7 @@ You are encouraged to add additional content, links, images, etc.
 
 ### Submission
 
-* [ ] Provide URL to your _Style Tile_ on __ Figma. Double check the Figma link is publicly accessible.
+* [ ] Provide URL to your _Style Tile_ on Figma. Double check the Figma link is publicly accessible.
 * [ ] Provide URL to your project _repo_ stored on _GitHub_
   * Example: _https://github.com/**YourUserName**/**RepoName**_
 * [ ] Provide URL to your project website deployed via _Netflify_

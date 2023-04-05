@@ -20,6 +20,11 @@
 * [Overview](github-web-portfolio/overview.md)
 * [GitHub Profile](github-web-portfolio/github-profile.md)
 
+## Markdown Resume
+
+* [Overview](markdown-resume/overview.md)
+* [Markdown Resume](markdown-resume/markdown-resume.md)
+
 ## Class Roster API
 
 * [Setup](class-roster-api/setup/README.md)
@@ -102,8 +107,3 @@
 
 * [Practice Pens](giphy-api/practice-pens.md)
 * [💯 Project Challenges](giphy-api/project-challenges.md)
-
-## Markdown Resume
-
-* [Overview](markdown-resume/overview.md)
-* [Markdown Resume](markdown-resume/markdown-resume.md)

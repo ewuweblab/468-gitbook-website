@@ -11,13 +11,13 @@
 
 ## P0 : GitHub Web Portfolio
 
-* [Overview](p0-github-web-portfolio/overview.md)
-* [💯 Challenges : GitHub Profile](p0-github-web-portfolio/challenges-github-profile.md)
+* [Overview](github-web-portfolio/overview.md)
+* [💯 Challenges : GitHub Profile](github-web-portfolio/github-profile.md)
 
 ## P1 : Markdown Resume
 
-* [Overview](p1-markdown-resume/overview.md)
-* [Markdown Resume](p1-markdown-resume/markdown-resume.md)
+* [Overview](markdown-resume/overview.md)
+* [Markdown Resume](markdown-resume/markdown-resume.md)
 * [💯 Challenges : Markdown Resume](p1-markdown-resume/challenges-markdown-resume.md)
 
 ## 🗃 APIs

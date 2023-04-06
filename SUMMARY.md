@@ -9,21 +9,21 @@
   * [Version Control](tools-and-process/version-control.md)
   * [Deployment](tools-and-process/deployment.md)
 
+## P0 : GitHub Web Portfolio
+
+* [Overview](p0-github-web-portfolio/overview.md)
+* [💯 Challenges : GitHub Profile](p0-github-web-portfolio/challenges-github-profile.md)
+
+## P1 : Markdown Resume
+
+* [Overview](p1-markdown-resume/overview.md)
+* [Markdown Resume](p1-markdown-resume/markdown-resume.md)
+
 ## 🗃 APIs
 
 * [Overview](apis/overview.md)
 * [URL Query Strings](apis/url-query-strings.md)
 * [JSON](apis/json.md)
-
-## ⭐ GitHub Web Portfolio
-
-* [Overview](github-web-portfolio/overview.md)
-* [GitHub Profile](github-web-portfolio/github-profile.md)
-
-## Markdown Resume
-
-* [Overview](markdown-resume/overview.md)
-* [Markdown Resume](markdown-resume/markdown-resume.md)
 
 ## Class Roster API
 

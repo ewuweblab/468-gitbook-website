@@ -18,6 +18,7 @@
 
 * [Overview](p1-markdown-resume/overview.md)
 * [Markdown Resume](p1-markdown-resume/markdown-resume.md)
+* [💯 Challenges : Markdown Resume](p1-markdown-resume/challenges-markdown-resume.md)
 
 ## 🗃 APIs
 

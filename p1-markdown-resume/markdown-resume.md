@@ -1,5 +1,7 @@
 # Markdown Resume
 
+> One source. Many formats.
+
 ### Setup Private Repo
 
 * Setup version control on a PRIVATE repo
@@ -13,7 +15,7 @@
 * [Install VS Code extension Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
   * [`https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf`](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
 
-### `Custo`mize Settings
+### Customize Settings
 
 * Open `Settings` for VS Code
   * File -> Preferences -> Settings
@@ -23,7 +25,7 @@
 
 <figure><img src="../.gitbook/assets/markdown pdf settings 1.png" alt=""><figcaption></figcaption></figure>
 
-* Under `Markdown-pdf: Styles`. Click `Add Item` and put name of stylesheet e.g. `styles.css`
+* Under `Markdown-pdf: Styles`. Click `Add Item` and put name of stylesheet e.g. `style.css`
 
 <figure><img src="../.gitbook/assets/markdown pdf settings 2.png" alt=""><figcaption></figcaption></figure>
 

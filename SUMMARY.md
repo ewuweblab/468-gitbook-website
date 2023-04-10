@@ -13,6 +13,7 @@
 
 * [Overview](github-web-portfolio/overview.md)
 * [💯 Challenges : GitHub Profile](github-web-portfolio/github-profile.md)
+* [🎉 Ship. Revise. Restart](p0-github-web-portfolio/ship.-revise.-restart.md)
 
 ## P1 : Markdown Resume
 

@@ -8,8 +8,24 @@ Again (and again). This does **NOT** influence grading, but is a reflection of g
 
 Project is complete and met objectives. Ready to show, promote, and deliver to intended audiences. Version 1.0 is ready to go live!
 
-### ​ <a href="#revise-it." id="revise-it."></a>
+* [Amanda M.](https://github.com/amigala)
+* [Morgan W.](https://github.com/mwhapeles)
+* [Hunter Z.](https://github.com/HunterZepp24)
 
-### Revise it. <a href="#revise-it." id="revise-it."></a>
+## [♻️](https://www.notion.so/0b46380355494e829f5aa6b07a946760) Revise it.
 
-Project will not ship — YET — but is complete. Additional revisions to the content and/or visual design could make it _shippable_.Gabriella Alvarez​Emily A.​Yicel D. C.​Lindsay D.​Katie Y.​🤔Restart?Project was attempted. Potential areas of improvement may include:Define more compelling contentEstablish a clear _Art Direction_Meet the objectives of the Project
+Project will not ship — YET — but is complete. Additional revisions to the content and/or visual design could make it _shippable_.
+
+* [Karson S.​](https://github.com/Speedy1414)
+* [Robert S. ](https://github.com/rsherman1)
+* [Ian G.](https://github.com/IanEGoss)
+* [Cael F. ](https://github.com/CaelFoster)
+* [Whitney F.](https://github.com/WhitneyL808)
+
+## 🤔Restart?
+
+Project was attempted. Potential areas of improvement may include:
+
+* Define more compelling content
+* Establish a clear _Art Direction_
+* Meet the objectives of the Project

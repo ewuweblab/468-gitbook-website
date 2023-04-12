@@ -1,8 +1,8 @@
 # Print Style Sheets
 
-### Example Repo
+### Resume Example
 
-{% embed url="https://github.com/mikepqr/resume.md" %}
+{% embed url="https://github.com/ewuweblab/resume-example" %}
 
 ### Previewing
 

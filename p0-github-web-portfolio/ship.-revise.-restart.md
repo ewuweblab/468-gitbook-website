@@ -20,7 +20,7 @@ Project will not ship — YET — but is complete. Additional revisions to the c
 * [Robert S. ](https://github.com/rsherman1)
 * [Ian G.](https://github.com/IanEGoss)
 * [Cael F. ](https://github.com/CaelFoster)
-* [Whitney F.](https://github.com/WhitneyL808)
+* [Whitney L.](https://github.com/WhitneyL808)
 
 ## 🤔Restart?
 

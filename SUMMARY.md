@@ -22,6 +22,10 @@
 * [Print Style Sheets](p1-markdown-resume/print-style-sheets.md)
 * [💯 Challenges : Markdown Resume](p1-markdown-resume/challenges-markdown-resume.md)
 
+## P2 : 3D Certificate Cards&#x20;
+
+* [Setup](p2-3d-certificate-cards/setup.md)
+
 ## 🗃 APIs
 
 * [Overview](apis/overview.md)
@@ -110,3 +114,7 @@
 
 * [Practice Pens](giphy-api/practice-pens.md)
 * [💯 Project Challenges](giphy-api/project-challenges.md)
+
+***
+
+* [Page 1](page-1.md)

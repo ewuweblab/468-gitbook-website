@@ -25,7 +25,7 @@
 ## P2 : 3D Certificate Cards&#x20;
 
 * [Overview](p2-3d-certificate-cards/overview.md)
-* [Setup](p2-3d-certificate-cards/setup/README.md)
+* [Setup](p2-3d-certificate-cards/setup.md)
   * [💯 Challenges : 3D Certificate Cards](p2-3d-certificate-cards/setup/challenges-3d-certificate-cards.md)
 
 ## 🗃 APIs

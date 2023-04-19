@@ -10,7 +10,7 @@
   * Present a summary and link to additional details
   * Flexible layouts and interactions
 * See examples on CodePen
-  * https://codepen.io/search/pens?q=cards
+  * [https://codepen.io/search/pens?q=cards](https://codepen.io/search/pens?q=cards)
 
 ### Why use it?
 

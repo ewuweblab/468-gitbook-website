@@ -32,7 +32,6 @@ display: none
 ```
 
 a[href]::after {
-    // empty space then print url
     content: " " attr(href); 
 }
 ```

@@ -24,6 +24,8 @@
 ### Challenge 4: Code
 
 * [ ] Optionally modify `scripts.js` with any JS plugins, interactions, etc.
+* [ ] Change Favicons
+  * [ ] [https://favicon.io/](https://favicon.io/)
 * [ ] Cite your sources in `README.md`
 
 ### Challenge 5: Process

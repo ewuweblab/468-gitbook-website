@@ -9,7 +9,7 @@ layout: editorial
 
 ### DESN Logo
 
-{% file src="../.gitbook/assets/DESN_Family.png" %}
+<figure><img src="../.gitbook/assets/dod logo.webp" alt=""><figcaption></figcaption></figure>
 
 ### Design a Theme
 

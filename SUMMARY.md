@@ -28,6 +28,13 @@
 * [Setup](p2-3d-certificate-cards/setup.md)
 * [💯 Challenges : 3D Certificate Cards](p2-3d-certificate-cards/challenges-3d-certificate-cards.md)
 
+## P3 : VS Code Theme
+
+* [Colo(u)r Theory 101](p3-vs-code-theme/colo-u-r-theory-101.md)
+* [The Why](p3-vs-code-theme/the-why.md)
+* [The What](p3-vs-code-theme/the-what.md)
+* [💯 The How (Challenges)](p3-vs-code-theme/the-how-challenges.md)
+
 ## 🗃 APIs
 
 * [Overview](apis/overview.md)
@@ -77,13 +84,6 @@
 * [Code Concepts](sound-board/code-concepts.md)
 * [💯 Challenges](sound-board/challenges.md)
 
-## VS Code Theme
-
-* [Colo(u)r Theory 101](vs-code-theme/colo-u-r-theory-101.md)
-* [The Why](vs-code-theme/the-why.md)
-* [The What](vs-code-theme/the-what.md)
-* [💯 The How (Challenges)](vs-code-theme/the-how-challenges.md)
-
 ## JS Libraries Are Fun
 
 * [Overview](js-libraries-are-fun/overview.md)
@@ -116,7 +116,3 @@
 
 * [Practice Pens](giphy-api/practice-pens.md)
 * [💯 Project Challenges](giphy-api/project-challenges.md)
-
-***
-
-* [Page 1](page-1.md)

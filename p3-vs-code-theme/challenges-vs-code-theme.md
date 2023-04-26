@@ -14,8 +14,8 @@ layout: editorial
 ### Challenge 1: Colo(u)r Theory Primer
 
 * [ ] Play ONE the following games to get up to speed on colo(u)r theory
-  * https://tallys.github.io/color-theory/
-  * https://color.method.ac/
+  * [https://tallys.github.io/color-theory/](https://tallys.github.io/color-theory/)
+  * [https://color.method.ac/](https://color.method.ac/)
 
 ### Challenge 2: JSON Generator
 

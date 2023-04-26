@@ -30,10 +30,9 @@
 
 ## P3 : VS Code Theme
 
-* [Colo(u)r Theory 101](p3-vs-code-theme/colo-u-r-theory-101.md)
-* [The Why](p3-vs-code-theme/the-why.md)
-* [The What](p3-vs-code-theme/the-what.md)
-* [💯 The How (Challenges)](p3-vs-code-theme/the-how-challenges.md)
+* [Overview](p3-vs-code-theme/overview.md)
+* [Syntax Highlight Exercise](p3-vs-code-theme/syntax-highlight-exercise.md)
+* [💯 Challenges: VS Code Theme](p3-vs-code-theme/challenges-vs-code-theme.md)
 
 ## 🗃 APIs
 

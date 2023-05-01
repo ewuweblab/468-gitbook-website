@@ -35,6 +35,16 @@
 * [Syntax Highlight Exercise](p3-vs-code-theme/syntax-highlight-exercise.md)
 * [💯 Challenges: VS Code Theme](p3-vs-code-theme/challenges-vs-code-theme.md)
 
+## P4: Quote Carousel
+
+* [Overview](p4-quote-carousel/overview.md)
+* [Practice Pens](p4-quote-carousel/practice-pens/README.md)
+  * [Listen for Next Button](p4-quote-carousel/practice-pens/listen-for-next-button.md)
+  * [Background Image Cover](p4-quote-carousel/practice-pens/background-image-cover.md)
+  * [Array of Data: Quote](p4-quote-carousel/practice-pens/array-of-data-quote.md)
+  * [Loop Slideshow Count](p4-quote-carousel/practice-pens/loop-slideshow-count.md)
+  * [# Manipulate DOM Content](p4-quote-carousel/practice-pens/manipulate-dom-content.md)
+
 ## 🗃 APIs
 
 * [Overview](apis/overview.md)

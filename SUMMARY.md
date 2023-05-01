@@ -21,6 +21,7 @@
 * [Markdown Resume](markdown-resume/markdown-resume.md)
 * [Print Style Sheets](p1-markdown-resume/print-style-sheets.md)
 * [💯 Challenges : Markdown Resume](p1-markdown-resume/challenges-markdown-resume.md)
+* [🎉 Ship. Revise. Restart](p1-markdown-resume/ship.-revise.-restart.md)
 
 ## P2 : 3D Certificate Cards&#x20;
 

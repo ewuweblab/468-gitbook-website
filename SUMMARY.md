@@ -44,6 +44,7 @@
   * [Array of Data: Quote](p4-quote-carousel/practice-pens/array-of-data-quote.md)
   * [Loop Slideshow Count](p4-quote-carousel/practice-pens/loop-slideshow-count.md)
   * [# Manipulate DOM Content](p4-quote-carousel/practice-pens/manipulate-dom-content.md)
+  * [Test Array of Data](p4-quote-carousel/practice-pens/test-array-of-data.md)
 
 ## 🗃 APIs
 

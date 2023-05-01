@@ -39,6 +39,7 @@
 
 * [Overview](p4-quote-carousel/overview.md)
 * [Practice Pens](p4-quote-carousel/practice-pens/README.md)
+  * [Initial Content & Styling](p4-quote-carousel/practice-pens/initial-content-and-styling.md)
   * [Listen for Next Button](p4-quote-carousel/practice-pens/listen-for-next-button.md)
   * [Background Image Cover](p4-quote-carousel/practice-pens/background-image-cover.md)
   * [Array of Data: Quote](p4-quote-carousel/practice-pens/array-of-data-quote.md)

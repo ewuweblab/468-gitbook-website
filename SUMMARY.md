@@ -9,6 +9,11 @@
   * [Version Control](tools-and-process/version-control.md)
   * [Deployment](tools-and-process/deployment.md)
 
+## JS Essential Training
+
+* [🟨 Objects](js-essential-training/objects/README.md)
+  * [Object Properties](js-essential-training/objects/object-properties.md)
+
 ## P0 : GitHub Web Portfolio
 
 * [Overview](github-web-portfolio/overview.md)

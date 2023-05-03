@@ -13,6 +13,7 @@
 
 * [🟨 Objects](js-essential-training/objects/README.md)
   * [Object Properties](js-essential-training/objects/object-properties.md)
+  * [Object Methods](js-essential-training/objects/object-methods.md)
 
 ## P0 : GitHub Web Portfolio
 

@@ -11,8 +11,8 @@
 
 Create a separate CodePen _Pen_ for each of the following.&#x20;
 
-* What is your favorite food? Create an _object_ to for your favorite food
-* Who is your favorite musician? Create an object to store their information
+* What is your favorite food? Create an _object_ with properties to for your favorite food
+* Who is your favorite musician? Create an object with properties to store their information
 
 
 

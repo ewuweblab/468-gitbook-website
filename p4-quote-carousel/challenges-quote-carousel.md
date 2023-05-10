@@ -1,6 +1,8 @@
 # 💯 Challenges : Quote Carousel
 
-Quote Show Project Challenges
+{% hint style="info" %}
+[https://github.com/ewuweblab/quote-carousel](https://github.com/ewuweblab/quote-carousel)
+{% endhint %}
 
 ### Challenge 1: Content
 
@@ -23,8 +25,9 @@ Quote Show Project Challenges
 * [ ] Incorporate a [Font Share](https://www.fontshare.com/) font
 * [ ] Cite your sources in `README.md`
 
-### Challenge 4: Spacebar Randomization
+### Challenge 4: Code Spacebar Randomization
 
+* [ ] Fork and Deploy from this repo: [https://github.com/ewuweblab/quote-carousel](https://github.com/ewuweblab/quote-carousel)
 * [ ] Listen for events on spacebar, on the keyboard
 * [ ] Pressing the spacebar will show a random slide item
 * [ ] Cite your sources in `README.md`

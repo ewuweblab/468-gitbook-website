@@ -11,7 +11,7 @@
 * [ ] Replace **all** template slide-item-content — with **your** content
   * Images
   * Quotes
-  * Emojis
+* [ ] 1 or more additional content: Emojis, video, gifs, etc.&#x20;
 
 ### Challenge 2: Data Array
 

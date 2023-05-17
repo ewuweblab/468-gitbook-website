@@ -56,14 +56,14 @@
 
 ## P5: Class Roster API
 
-* [Setup](p5-class-roster-api/setup/README.md)
-  * [Data](p5-class-roster-api/setup/data.md)
-  * [HTML](p5-class-roster-api/setup/html.md)
-  * [CSS](p5-class-roster-api/setup/css.md)
-  * [JS](p5-class-roster-api/setup/js.md)
-  * [In Class Example](p5-class-roster-api/setup/in-class-example.md)
-* [🎉 Ship. Revise. Restart](p5-class-roster-api/ship.-revise.-restart.md)
-* [💯 Project Challenges](p5-class-roster-api/project-challenges.md)
+* [Setup](class-roster-api/setup/README.md)
+  * [Data](class-roster-api/setup/data.md)
+  * [HTML](class-roster-api/setup/html.md)
+  * [CSS](class-roster-api/setup/css.md)
+  * [JS](class-roster-api/setup/js.md)
+  * [In Class Example](class-roster-api/setup/in-class-example.md)
+* [🎉 Ship. Revise. Restart](class-roster-api/ship.-revise.-restart.md)
+* [💯 Project Challenges](class-roster-api/project-challenges.md)
 
 ## 🗃 APIs
 

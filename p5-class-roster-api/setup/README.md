@@ -1,8 +1,6 @@
 # Setup
 
-###
-
-### GitHub and Netlify
+## GitHub and Netlify
 
 Use "One Click" _Deploy to Netlify_ button to setup hosting and version control on _GitHub._ Then configure deployment with Netlify.
 

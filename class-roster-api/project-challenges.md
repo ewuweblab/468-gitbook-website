@@ -8,6 +8,8 @@ coverY: 3.887323065332171
 
 ### Challenge 1 : Content
 
+* [ ] Display the fields of content for:&#x20;
+  * [ ] Name, Image, Emoji, Quote, Superpower, and Favorite Color
 * [ ] Use more semantic `figure` and `figcaption` elements for group images with text i.e. captions, descriptions, headers, etc.&#x20;
 
 Reminders:
@@ -15,21 +17,36 @@ Reminders:
 * DO NOT statically (or “hard code”) by modifying the `index.html`
 * Dynamically output the data to the template in `scripts.js`
 
-### Challenge 2 : Style
+### Challenge 2: Style Tile
 
-Apply your own layout with either CSS Flexbox and/or Grid modules.
+{% hint style="info" %}
+[Style Tile Template](https://www.figma.com/file/HTQXrZJ0sPu7af8wT4YSWw/Style-Tile-Template?node-id=0%3A1\&t=NJEi1nKexF7VPhrY-1)
+{% endhint %}
 
-* [ ] &#x20; Option A: Create your own DIY custom layout with CSS, _Flexbox_ and/or _Grid_
-* [ ] &#x20; Option B: Find alternative source. Apply it, then cite your source. E.g. Codeine _Pen_, YouTube tutorial, website generator, etc.
+* [ ] Create an _Art Direction_ for this project by creating a Style Tile
+* [ ] Use the provided template and complete all the sections
 
-### Challenge 3 : JavaScript
+### Challenge 2 : Styling
 
-* [ ] Modify `scripts.js` to display each-Students' name from API data
-* [ ] Note: Webflow returns data in array named `items`
+{% hint style="info" %}
+[CSS Grid Layouts by Morten Rand-Hendriksen](https://www.linkedin.com/learning/level-up-css-layout/)
+{% endhint %}
+
+* [ ] &#x20;Review the possible CSS Grid layout options, then pick **ONE**
+* [ ] Create a _Pen_ demsonstrating (and testing) layout using CSS grid
+* [ ] Apply this _Pen_ to your project.&#x20;
+* [ ] Customize to reflect your _Style Tile_
 
 ### Challenge 4 : Code
 
-* [ ] &#x20; Fork starter project from [https://github.com/ewuweblab/class-roster-via-api ](https://github.com/ewuweblab/class-roster-via-api)
+{% hint style="info" %}
+[Fork starter project for Class Roster API](https://github.com/ewuweblab/class-roster-via-api)
+{% endhint %}
+
+* [ ] Modify `scripts.js` to display each-Students' data
+  * [ ] Name, Image, Emoji, Quote, Superpower, and Favorite Color
+* [ ] Use provided API data source: [https://assets.codepen.io/16425/spring23web3.json](https://assets.codepen.io/16425/spring23web3.json)
+* [ ] Fork starter project from [https://github.com/ewuweblab/class-roster-via-api ](https://github.com/ewuweblab/class-roster-via-api)
 
 ### Challenge 5 : Process
 

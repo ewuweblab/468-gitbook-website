@@ -54,6 +54,7 @@
   * [# Manipulate DOM Content](p4-quote-carousel/practice-pens/manipulate-dom-content.md)
   * [Test Array of Data](p4-quote-carousel/practice-pens/test-array-of-data.md)
 * [💯 Challenges : Quote Carousel](p4-quote-carousel/challenges-quote-carousel.md)
+* [🎉 Ship. Revise. Restart](p4-quote-carousel/ship.-revise.-restart.md)
 
 ## P5: Class Roster API
 

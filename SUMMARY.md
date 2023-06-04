@@ -34,6 +34,7 @@
 * [Overview](p2-3d-certificate-cards/overview.md)
 * [Setup](p2-3d-certificate-cards/setup.md)
 * [💯 Challenges : 3D Certificate Cards](p2-3d-certificate-cards/challenges-3d-certificate-cards.md)
+* [🎉 Ship. Revise. Restart](p2-3d-certificate-cards/ship.-revise.-restart.md)
 
 ## P3 : VS Code Theme
 

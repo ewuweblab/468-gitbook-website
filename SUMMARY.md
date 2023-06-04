@@ -73,67 +73,50 @@
 * [URL Query Strings](apis/url-query-strings.md)
 * [JSON](apis/json.md)
 
-## Dashboard Widgets
-
-* [Overview](dashboard-widgets/overview/README.md)
-  * [Setup](dashboard-widgets/overview/setup.md)
-  * [Data](dashboard-widgets/overview/data.md)
-  * [Clock Widget](dashboard-widgets/overview/clock-widget/README.md)
-    * [HTML](dashboard-widgets/overview/clock-widget/html.md)
-    * [CSS](dashboard-widgets/overview/clock-widget/css.md)
-    * [JS](dashboard-widgets/overview/clock-widget/js.md)
-  * [Weather Widget](dashboard-widgets/overview/weather-widget/README.md)
-    * [Query Strings](dashboard-widgets/overview/weather-widget/query-strings.md)
-    * [Open Weather API](dashboard-widgets/overview/weather-widget/open-weather-api.md)
-    * [Fetch Weather](dashboard-widgets/overview/weather-widget/fetch-weather.md)
-    * [Icons](dashboard-widgets/overview/weather-widget/icons.md)
-    * [JS Concepts](dashboard-widgets/overview/weather-widget/js-concepts.md)
-  * [Date Widget](dashboard-widgets/overview/date-widget/README.md)
-    * [HTML](dashboard-widgets/overview/date-widget/html.md)
-    * [CSS](dashboard-widgets/overview/date-widget/css.md)
-    * [JS](dashboard-widgets/overview/date-widget/js.md)
-  * [Web Cam](dashboard-widgets/overview/web-cam.md)
-* [💯 Project Challenges](dashboard-widgets/project-challenges.md)
-* [🎉 Ship. Revise. Restart](dashboard-widgets/ship.-revise.-restart.md)
-
-## Sound Board
-
-* [Overview](sound-board/overview.md)
-* [Art Direction](<sound-board/art-direction (1).md>)
-* [The Sounds](sound-board/art-direction.md)
-* [Edit Sounds](sound-board/edit-sounds.md)
-* [Code Concepts](sound-board/code-concepts.md)
-* [💯 Challenges](sound-board/challenges.md)
-
-## JS Libraries Are Fun
-
-* [Overview](js-libraries-are-fun/overview.md)
-* [Practice Pens](js-libraries-are-fun/practice-pens.md)
-* [💯 Project Challenges](js-libraries-are-fun/project-challenges.md)
-
-## DIY Landing Page
-
-* [Overview](diy-landing-page/overview.md)
-* [💯 Project Challenges](diy-landing-page/project-challenges.md)
-* [🎉 Ship. Revise. Restart](diy-landing-page/ship.-revise.-restart.md)
-
 ## Course Information
 
 * [Syllabus](course-information/syllabus.md)
 
-## Canvas
+***
 
-* [Primer](canvas/primer.md)
-
-## Two.js (Animation Library)
-
-* [Why?](two.js-animation-library/why.md)
-* [Installation & Setup](two.js-animation-library/installation-and-setup.md)
-* [Properties vs. Methods](two.js-animation-library/properties-vs.-methods.md)
-* [Animate](two.js-animation-library/animate.md)
-* [💯 Project Challenges](two.js-animation-library/project-challenges.md)
-
-## Giphy API
-
-* [Practice Pens](giphy-api/practice-pens.md)
-* [💯 Project Challenges](giphy-api/project-challenges.md)
+* [🗄 Archive](archive/README.md)
+  * [Overview](archive/overview/README.md)
+    * [Setup](archive/overview/setup.md)
+    * [Data](archive/overview/data.md)
+    * [Clock Widget](archive/overview/clock-widget/README.md)
+      * [HTML](archive/overview/clock-widget/html.md)
+      * [CSS](archive/overview/clock-widget/css.md)
+      * [JS](archive/overview/clock-widget/js.md)
+    * [Weather Widget](archive/overview/weather-widget/README.md)
+      * [Query Strings](archive/overview/weather-widget/query-strings.md)
+      * [Open Weather API](archive/overview/weather-widget/open-weather-api.md)
+      * [Fetch Weather](archive/overview/weather-widget/fetch-weather.md)
+      * [Icons](archive/overview/weather-widget/icons.md)
+      * [JS Concepts](archive/overview/weather-widget/js-concepts.md)
+    * [Date Widget](archive/overview/date-widget/README.md)
+      * [HTML](archive/overview/date-widget/html.md)
+      * [CSS](archive/overview/date-widget/css.md)
+      * [JS](archive/overview/date-widget/js.md)
+    * [Web Cam](archive/overview/web-cam.md)
+  * [💯 Project Challenges](archive/project-challenges.md)
+  * [🎉 Ship. Revise. Restart](archive/ship.-revise.-restart.md)
+  * [Overview](archive/overview-1.md)
+  * [Art Direction](archive/art-direction.md)
+  * [The Sounds](archive/the-sounds.md)
+  * [Edit Sounds](archive/edit-sounds.md)
+  * [Code Concepts](archive/code-concepts.md)
+  * [💯 Challenges](archive/challenges.md)
+  * [Overview](archive/overview-2.md)
+  * [Practice Pens](archive/practice-pens.md)
+  * [💯 Project Challenges](archive/project-challenges-1.md)
+  * [Overview](archive/overview-3.md)
+  * [💯 Project Challenges](archive/project-challenges-2.md)
+  * [🎉 Ship. Revise. Restart](archive/ship.-revise.-restart-1.md)
+  * [Installation & Setup](archive/installation-and-setup.md)
+  * [Animate](archive/animate/README.md)
+    * [Properties vs. Methods](archive/animate/properties-vs.-methods.md)
+  * [Practice Pens](archive/practice-pens-1.md)
+  * [💯 Project Challenges](archive/project-challenges-3/README.md)
+    * [💯 Project Challenges](archive/project-challenges-3/project-challenges.md)
+  * [Why?](archive/why.md)
+  * [Primer](archive/primer.md)

@@ -64,7 +64,7 @@
   * [CSS](class-roster-api/setup/css.md)
   * [JS](class-roster-api/setup/js.md)
   * [In Class Example](class-roster-api/setup/in-class-example.md)
-* [🎉 Ship. Revise. Restart](class-roster-api/ship.-revise.-restart.md)
+* [🎉 Ship. Revise. Restart](p5-class-roster-api/ship.-revise.-restart.md)
 * [💯 Project Challenges](class-roster-api/project-challenges.md)
 
 ## 🗃 APIs

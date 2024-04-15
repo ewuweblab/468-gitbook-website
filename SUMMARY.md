@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Homepage](README.md)
+* [Web Design 3](README.md)
 * [⚙️ Tools and Process](tools-and-process/README.md)
   * [Tools](tools-and-process/tools.md)
   * [Accounts](tools-and-process/accounts.md)

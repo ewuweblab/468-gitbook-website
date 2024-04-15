@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Homepage](README.md)
-* [⚙ Tools and Process](tools-and-process/README.md)
+* [⚙️ Tools and Process](tools-and-process/README.md)
   * [Tools](tools-and-process/tools.md)
   * [Accounts](tools-and-process/accounts.md)
   * [Primer](tools-and-process/primer.md)
@@ -67,7 +67,7 @@
 * [🎉 Ship. Revise. Restart](p5-class-roster-api/ship.-revise.-restart.md)
 * [💯 Project Challenges](class-roster-api/project-challenges.md)
 
-## 🗃 APIs
+## 🗃️ APIs
 
 * [Overview](apis/overview.md)
 * [URL Query Strings](apis/url-query-strings.md)
@@ -79,7 +79,7 @@
 
 ***
 
-* [🗄 Archive](archive/README.md)
+* [🗄️ Archive](archive/README.md)
   * [Overview](archive/overview/README.md)
     * [Setup](archive/overview/setup.md)
     * [Data](archive/overview/data.md)

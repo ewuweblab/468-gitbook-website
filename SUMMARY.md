@@ -37,28 +37,28 @@
 
 ## P3: Class Roster API
 
-* [Setup](p3-class-roster-api/setup/README.md)
-  * [Data](p3-class-roster-api/setup/data.md)
-  * [HTML](p3-class-roster-api/setup/html.md)
-  * [CSS](p3-class-roster-api/setup/css.md)
-  * [JS](p3-class-roster-api/setup/js.md)
-  * [In Class Example](p3-class-roster-api/setup/in-class-example.md)
-* [🎉 Ship. Revise. Restart](p3-class-roster-api/ship.-revise.-restart.md)
-* [💯 Project Challenges](p3-class-roster-api/project-challenges.md)
+* [Setup](class-roster-api/setup/README.md)
+  * [Data](class-roster-api/setup/data.md)
+  * [HTML](class-roster-api/setup/html.md)
+  * [CSS](class-roster-api/setup/css.md)
+  * [JS](class-roster-api/setup/js.md)
+  * [In Class Example](class-roster-api/setup/in-class-example.md)
+* [🎉 Ship. Revise. Restart](p5-class-roster-api/ship.-revise.-restart.md)
+* [💯 Project Challenges](class-roster-api/project-challenges.md)
 
 ## P4: Slider Carousel
 
-* [Overview](p4-slider-carousel/overview.md)
-* [Practice Pens](p4-slider-carousel/practice-pens/README.md)
-  * [Initial Content & Styling](p4-slider-carousel/practice-pens/initial-content-and-styling.md)
-  * [Listen for Next Button](p4-slider-carousel/practice-pens/listen-for-next-button.md)
-  * [Background Image Cover](p4-slider-carousel/practice-pens/background-image-cover.md)
-  * [Array of Data: Quote](p4-slider-carousel/practice-pens/array-of-data-quote.md)
-  * [Loop Slideshow Count](p4-slider-carousel/practice-pens/loop-slideshow-count.md)
-  * [# Manipulate DOM Content](p4-slider-carousel/practice-pens/manipulate-dom-content.md)
-  * [Test Array of Data](p4-slider-carousel/practice-pens/test-array-of-data.md)
-* [💯 Challenges : Quote Carousel](p4-slider-carousel/challenges-quote-carousel.md)
-* [🎉 Ship. Revise. Restart](p4-slider-carousel/ship.-revise.-restart.md)
+* [Overview](p4-quote-carousel/overview.md)
+* [Practice Pens](p4-quote-carousel/practice-pens/README.md)
+  * [Initial Content & Styling](p4-quote-carousel/practice-pens/initial-content-and-styling.md)
+  * [Listen for Next Button](p4-quote-carousel/practice-pens/listen-for-next-button.md)
+  * [Background Image Cover](p4-quote-carousel/practice-pens/background-image-cover.md)
+  * [Array of Data: Quote](p4-quote-carousel/practice-pens/array-of-data-quote.md)
+  * [Loop Slideshow Count](p4-quote-carousel/practice-pens/loop-slideshow-count.md)
+  * [# Manipulate DOM Content](p4-quote-carousel/practice-pens/manipulate-dom-content.md)
+  * [Test Array of Data](p4-quote-carousel/practice-pens/test-array-of-data.md)
+* [💯 Challenges : Quote Carousel](p4-quote-carousel/challenges-quote-carousel.md)
+* [🎉 Ship. Revise. Restart](p4-quote-carousel/ship.-revise.-restart.md)
 
 ## 🗃️ APIs
 

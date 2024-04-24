@@ -29,18 +29,11 @@
 * [💯 Challenges : Markdown Resume](p1-markdown-resume/challenges-markdown-resume.md)
 * [🎉 Ship. Revise. Restart](p1-markdown-resume/ship.-revise.-restart.md)
 
-## P2 : 3D Certificate Cards&#x20;
+## P2 : VS Code Theme
 
-* [Overview](p2-3d-certificate-cards/overview.md)
-* [Setup](p2-3d-certificate-cards/setup.md)
-* [💯 Challenges : 3D Certificate Cards](p2-3d-certificate-cards/challenges-3d-certificate-cards.md)
-* [🎉 Ship. Revise. Restart](p2-3d-certificate-cards/ship.-revise.-restart.md)
-
-## P3 : VS Code Theme
-
-* [Overview](p3-vs-code-theme/overview.md)
-* [Syntax Highlight Exercise](p3-vs-code-theme/syntax-highlight-exercise.md)
-* [💯 Challenges: VS Code Theme](p3-vs-code-theme/challenges-vs-code-theme.md)
+* [Overview](p2-vs-code-theme/overview.md)
+* [Syntax Highlight Exercise](p2-vs-code-theme/syntax-highlight-exercise.md)
+* [💯 Challenges: VS Code Theme](p2-vs-code-theme/challenges-vs-code-theme.md)
 
 ## P4: Quote Carousel
 
@@ -120,3 +113,10 @@
     * [💯 Project Challenges](archive/project-challenges-3/project-challenges.md)
   * [Why?](archive/why.md)
   * [Primer](archive/primer.md)
+
+## P2 : 3D Certificate Cards&#x20;
+
+* [Overview](p2-3d-certificate-cards/overview.md)
+* [Setup](p2-3d-certificate-cards/setup.md)
+* [💯 Challenges : 3D Certificate Cards](p2-3d-certificate-cards/challenges-3d-certificate-cards.md)
+* [🎉 Ship. Revise. Restart](p2-3d-certificate-cards/ship.-revise.-restart.md)

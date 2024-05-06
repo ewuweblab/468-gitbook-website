@@ -113,10 +113,7 @@
     * [💯 Project Challenges](archive/project-challenges-3/project-challenges.md)
   * [Why?](archive/why.md)
   * [Primer](archive/primer.md)
-
-## P2 : 3D Certificate Cards&#x20;
-
-* [Overview](p2-3d-certificate-cards/overview.md)
-* [Setup](p2-3d-certificate-cards/setup.md)
-* [💯 Challenges : 3D Certificate Cards](p2-3d-certificate-cards/challenges-3d-certificate-cards.md)
-* [🎉 Ship. Revise. Restart](p2-3d-certificate-cards/ship.-revise.-restart.md)
+  * [💯 Challenges : 3D Certificate Cards](archive/challenges-3d-certificate-cards.md)
+  * [Overview](archive/overview-4.md)
+  * [Setup](archive/setup.md)
+  * [🎉 Ship. Revise. Restart](archive/ship.-revise.-restart-2.md)

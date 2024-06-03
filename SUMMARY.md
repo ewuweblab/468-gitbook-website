@@ -60,6 +60,10 @@
 * [💯 Challenges : Quote Carousel](p4-quote-carousel/challenges-quote-carousel.md)
 * [🎉 Ship. Revise. Restart](p4-quote-carousel/ship.-revise.-restart.md)
 
+## P5: Any API Listing
+
+* [💯 Challenges](p5-any-api-listing/challenges.md)
+
 ## 🗃️ APIs
 
 * [Overview](apis/overview.md)

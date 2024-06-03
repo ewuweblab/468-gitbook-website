@@ -8,20 +8,13 @@ Again (and again). This does **NOT** influence grading, but is a reflection of g
 
 Project is complete and met objectives. Ready to show, promote, and deliver to intended audiences. Version 1.0 is ready to go live!
 
-* Hunter Z.
+{% file src="../.gitbook/assets/sage norton.pdf" %}
 
-{% file src="../.gitbook/assets/HZepp_Resume.pdf" %}
+{% file src="../.gitbook/assets/Kat Pokorny.pdf" %}
 
 ## [♻️](https://www.notion.so/0b46380355494e829f5aa6b07a946760) Revise it.
 
 Project will not ship — YET — but is complete. Additional revisions to the content and/or visual design could make it _shippable_.
-
-* Morgan W.
-* Amanda M.
-
-{% file src="../.gitbook/assets/M_Amanda_MarkdownResume.pdf" %}
-
-{% file src="../.gitbook/assets/resume-1.pdf" %}
 
 ## 🤔Restart?
 

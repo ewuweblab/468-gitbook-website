@@ -64,6 +64,10 @@
 
 * [💯 Challenges](p5-any-api-listing/challenges.md)
 
+## Digital Garden (FINAL)
+
+* [💯 Challenges](digital-garden-final/challenges.md)
+
 ## 🗃️ APIs
 
 * [Overview](apis/overview.md)

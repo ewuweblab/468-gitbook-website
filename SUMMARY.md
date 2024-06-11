@@ -1,6 +1,13 @@
 # Table of contents
 
 * [Web Design 3](README.md)
+
+## Course Information
+
+* [Syllabus](course-information/syllabus.md)
+
+***
+
 * [⚙️ Tools and Process](tools-and-process/README.md)
   * [Tools](tools-and-process/tools.md)
   * [Accounts](tools-and-process/accounts.md)
@@ -14,6 +21,12 @@
 * [🟨 Objects](js-essential-training/objects/README.md)
   * [Object Properties](js-essential-training/objects/object-properties.md)
   * [Object Methods](js-essential-training/objects/object-methods.md)
+
+## 🗃️ APIs
+
+* [Overview](apis/overview.md)
+* [URL Query Strings](apis/url-query-strings.md)
+* [JSON](apis/json.md)
 
 ## P0 : GitHub Web Portfolio
 
@@ -35,49 +48,48 @@
 * [Syntax Highlight Exercise](p2-vs-code-theme/syntax-highlight-exercise.md)
 * [💯 Challenges: VS Code Theme](p2-vs-code-theme/challenges-vs-code-theme.md)
 
-## P3: Class Roster API
+## P3 + P4 : DESN FMLY (in class project)
 
-* [Setup](class-roster-api/setup/README.md)
-  * [Data](class-roster-api/setup/data.md)
-  * [HTML](class-roster-api/setup/html.md)
-  * [CSS](class-roster-api/setup/css.md)
-  * [JS](class-roster-api/setup/js.md)
-  * [In Class Example](class-roster-api/setup/in-class-example.md)
-* [🎉 Ship. Revise. Restart](p5-class-roster-api/ship.-revise.-restart.md)
-* [💯 Project Challenges](class-roster-api/project-challenges.md)
-
-## P4: Slider Carousel
-
-* [Overview](p4-quote-carousel/overview.md)
-* [Practice Pens](p4-quote-carousel/practice-pens/README.md)
-  * [Initial Content & Styling](p4-quote-carousel/practice-pens/initial-content-and-styling.md)
-  * [Listen for Next Button](p4-quote-carousel/practice-pens/listen-for-next-button.md)
-  * [Background Image Cover](p4-quote-carousel/practice-pens/background-image-cover.md)
-  * [Array of Data: Quote](p4-quote-carousel/practice-pens/array-of-data-quote.md)
-  * [Loop Slideshow Count](p4-quote-carousel/practice-pens/loop-slideshow-count.md)
-  * [# Manipulate DOM Content](p4-quote-carousel/practice-pens/manipulate-dom-content.md)
-  * [Test Array of Data](p4-quote-carousel/practice-pens/test-array-of-data.md)
-* [💯 Challenges : Quote Carousel](p4-quote-carousel/challenges-quote-carousel.md)
-* [🎉 Ship. Revise. Restart](p4-quote-carousel/ship.-revise.-restart.md)
+* [Overview](p3-+-p4-desn-fmly-in-class-project/overview.md)
+* [💯 Challenges](p3-+-p4-desn-fmly-in-class-project/challenges.md)
 
 ## P5: Any API Listing
 
 * [💯 Challenges](p5-any-api-listing/challenges.md)
 * [🎉 Ship. Revise. Restart](p5-any-api-listing/ship.-revise.-restart.md)
 
+## P6 : DYOP (DYOP) : Extra Credit
+
+* [💯 DYOP](p6-dyop-dyop-extra-credit/dyop.md)
+
 ## Digital Garden (FINAL)
 
 * [💯 Challenges](digital-garden-final/challenges.md)
 
-## 🗃️ APIs
+## In Class Demo: Slider Carousel
 
-* [Overview](apis/overview.md)
-* [URL Query Strings](apis/url-query-strings.md)
-* [JSON](apis/json.md)
+* [Overview](in-class-demo-slider-carousel/overview.md)
+* [Practice Pens](in-class-demo-slider-carousel/practice-pens/README.md)
+  * [Initial Content & Styling](in-class-demo-slider-carousel/practice-pens/initial-content-and-styling.md)
+  * [Listen for Next Button](in-class-demo-slider-carousel/practice-pens/listen-for-next-button.md)
+  * [Background Image Cover](in-class-demo-slider-carousel/practice-pens/background-image-cover.md)
+  * [Array of Data: Quote](in-class-demo-slider-carousel/practice-pens/array-of-data-quote.md)
+  * [Loop Slideshow Count](in-class-demo-slider-carousel/practice-pens/loop-slideshow-count.md)
+  * [# Manipulate DOM Content](in-class-demo-slider-carousel/practice-pens/manipulate-dom-content.md)
+  * [Test Array of Data](in-class-demo-slider-carousel/practice-pens/test-array-of-data.md)
+* [💯 Challenges : Quote Carousel](in-class-demo-slider-carousel/challenges-quote-carousel.md)
+* [🎉 Ship. Revise. Restart](in-class-demo-slider-carousel/ship.-revise.-restart.md)
 
-## Course Information
+## In Class Demo : Class Roster API
 
-* [Syllabus](course-information/syllabus.md)
+* [Setup](in-class-demo-class-roster-api/setup/README.md)
+  * [Data](in-class-demo-class-roster-api/setup/data.md)
+  * [HTML](in-class-demo-class-roster-api/setup/html.md)
+  * [CSS](in-class-demo-class-roster-api/setup/css.md)
+  * [JS](in-class-demo-class-roster-api/setup/js.md)
+  * [In Class Example](in-class-demo-class-roster-api/setup/in-class-example.md)
+* [🎉 Ship. Revise. Restart](in-class-demo-class-roster-api/ship.-revise.-restart.md)
+* [💯 Project Challenges](in-class-demo-class-roster-api/project-challenges.md)
 
 ***
 

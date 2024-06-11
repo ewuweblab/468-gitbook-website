@@ -45,9 +45,11 @@ layout: editorial
 
 Answer the following questions in your `README.md` file
 
-* [ ] Is this a Light or Dark theme?
-* [ ] Is this a fork an _existing_ theme? Yes or No.
-* [ ] If Yes, provide URL to forked theme.
+{% hint style="info" %}
+Themes are like any app store, browser extension, etc. It's a multi-step process to get approved in the [official VS Code Themes Marketplace](https://marketplace.visualstudio.com/manage/publishers)
+{% endhint %}
+
+* [ ] Provide public URL to the Theme hosted on [https://themes.vscode.one/](https://themes.vscode.one/)
 
 ### Submission
 

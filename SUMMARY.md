@@ -91,6 +91,10 @@
 * [🎉 Ship. Revise. Restart](in-class-demo-class-roster-api/ship.-revise.-restart.md)
 * [💯 Project Challenges](in-class-demo-class-roster-api/project-challenges.md)
 
+## 🔟 10 Takeaways
+
+* [10 Takeaways](10-takeaways/10-takeaways.md)
+
 ***
 
 * [🗄️ Archive](archive/README.md)

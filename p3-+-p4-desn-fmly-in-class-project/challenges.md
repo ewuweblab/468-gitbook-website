@@ -20,6 +20,8 @@ Reminders:
   * [ ] [https://codepen.io/manikoth/pen/bGaZZKM](https://codepen.io/manikoth/pen/bGaZZKM)
 * [ ] Sprint 2: Static Site
   * [ ] [https://github.com/ewuweblab/class-roster-via-api](https://github.com/ewuweblab/class-roster-via-api)
+* [ ] Sprint 3: Swiper Slider
+  * [ ] [https://github.com/ewuweblab/web-3-roster-swiper-slider](https://github.com/ewuweblab/web-3-roster-swiper-slider)
 * [ ] Determine the pros of cons before moving
 
 ### Challenge 3 : Styling Template

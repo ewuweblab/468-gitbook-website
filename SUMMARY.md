@@ -62,6 +62,11 @@
 
 * [💯 DYOP](p6-dyop-dyop-extra-credit/dyop.md)
 
+## Smart Mirror
+
+* [🪞 Extra Project for Your Portolio](smart-mirror/extra-project-for-your-portolio.md)
+* [Smart Mirror (with Widgets )](smart-mirror/smart-mirror-with-widgets.md)
+
 ## Digital Garden (FINAL)
 
 * [💯 Challenges](digital-garden-final/challenges.md)

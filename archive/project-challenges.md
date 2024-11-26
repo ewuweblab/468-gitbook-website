@@ -8,6 +8,14 @@ coverY: 0
 
 {% embed url="https://github.com/ewuweblab/dashboard-widgets-smart-mirror" %}
 
+## 🎉 Student Examples
+
+Project is complete and met objectives. Ready to show, promote, and deliver to intended audiences. Version 1.0 is ready to go live!
+
+* Kate C. [https://dashboard-widgets-web3.netlify.app/](https://dashboard-widgets-web3.netlify.app/)
+* June L. [https://ulawless-dashboard-widgets.netlify.app/](https://ulawless-dashboard-widgets.netlify.app/)
+* Cesar M.A. [https://dashboard-widgets-cesar.netlify.app/](https://dashboard-widgets-cesar.netlify.app/)
+
 ### Challenge 1 : Content
 
 * [ ] Show current time in your preferred format e.g. _03:00_ vs _3:00_
@@ -22,9 +30,7 @@ coverY: 0
 
 ### Challenge 3 : Visual Design
 
-* [ ] Apply your defined _Art Direction._ [See past Student Examples](https://uxlab.gitbook.io/468/dashboard-widgets/ship.-revise.-restart)
-* [ ] Do your choices for color, type, imagery, etc. support the _Art Direction?_
-* [ ] Optionally, adjust the layout. Again, [See past Student Examples](https://uxlab.gitbook.io/468/dashboard-widgets/ship.-revise.-restart) and reference [CSS Layout Challenges with Mort](https://www.linkedin.com/learning/css-layout-code-challenges/) via Linked In Learning
+* [ ] Design it with Tailwind and/or Daisy UI
 
 ### Challenge 4 : JavaScript
 

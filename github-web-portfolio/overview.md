@@ -1,7 +1,5 @@
 # Overview
 
-View the source. Borrow the good ideas.
-
 ## What is this?
 
 * A custom profile-page for yourself, employers, and clients

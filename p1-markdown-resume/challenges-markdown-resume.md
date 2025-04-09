@@ -1,5 +1,9 @@
 # 💯 Challenges : Markdown Resume
 
+{% hint style="info" %}
+[https://github.com/ewuweblab/markdown-resume-template](https://github.com/ewuweblab/markdown-resume-template)
+{% endhint %}
+
 ### Challenge 1: Required Content
 
 * [ ] Name

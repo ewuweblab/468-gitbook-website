@@ -1,2 +1,6 @@
-# 🗄 Archive
+---
+hidden: true
+---
+
+# 🗄️ Archive
 

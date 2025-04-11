@@ -1,4 +1,4 @@
-# 🪞 Extra Project for Your Portolio
+# Overview
 
 ## Dashboard Widgets
 
@@ -20,7 +20,7 @@ The concept of a _Dashboard_ appears nearly everywhere. Most obvious are car das
 
 Applications of these concepts can be seen in:
 
-* [Search for Dashboard on Codepen](https://codepen.io/search/pens?q=dashboard\&depth=title\_desc\_tags)
+* [Search for Dashboard on Codepen](https://codepen.io/search/pens?q=dashboard\&depth=title_desc_tags)
 * [Fast Food restaurants](https://www.forbes.com/sites/aliciakelso/2019/07/30/self-order-kiosks-are-finally-having-a-moment-in-the-fast-food-space/?sh=520061934275)
 * [Samsung Smart displays](http://displaysolutions.samsung.com/main/index)
 * [Panic Status Boards](https://panic.com/blog/the-panic-status-board/)

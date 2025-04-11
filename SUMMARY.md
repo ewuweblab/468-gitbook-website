@@ -16,85 +16,66 @@
   * [Version Control](tools-and-process/version-control.md)
   * [Deployment](tools-and-process/deployment.md)
 
-## JS Essential Training
+## HTML Concepts
 
-* [🟨 Objects](js-essential-training/objects/README.md)
-  * [Object Properties](js-essential-training/objects/object-properties.md)
-  * [Object Methods](js-essential-training/objects/object-methods.md)
+* [Markdown](html-concepts/markdown.md)
 
-## 🗃️ APIs
+## CSS Concepts
 
-* [Overview](apis/overview.md)
-* [URL Query Strings](apis/url-query-strings.md)
-* [JSON](apis/json.md)
+* [Print Style Sheets](css-concepts/print-style-sheets.md)
 
-## P0 : GitHub Web Portfolio
+## JS Concepts
 
-* [Overview](github-web-portfolio/overview.md)
-* [💯 Challenges : GitHub Profile](github-web-portfolio/github-profile.md)
-* [🎉 Ship. Revise. Restart](p0-github-web-portfolio/ship.-revise.-restart.md)
+* [Objects](js-concepts/objects/README.md)
+  * [Object Properties](js-concepts/objects/object-properties.md)
+  * [Object Methods](js-concepts/objects/object-methods.md)
 
-## P1 : Markdown Resume
+***
 
-* [Overview](markdown-resume/overview.md)
-* [Markdown Resume](markdown-resume/markdown-resume.md)
-* [Print Style Sheets](p1-markdown-resume/print-style-sheets.md)
-* [💯 Challenges : Markdown Resume](p1-markdown-resume/challenges-markdown-resume.md)
-* [🎉 Ship. Revise. Restart](p1-markdown-resume/ship.-revise.-restart.md)
+* [URL Query Strings](url-query-strings.md)
+* [JSON](json.md)
 
-## P2 : VS Code Theme
+## ⭐ Projects
 
-* [Overview](p2-vs-code-theme/overview.md)
-* [Syntax Highlight Exercise](p2-vs-code-theme/syntax-highlight-exercise.md)
-* [💯 Challenges: VS Code Theme](p2-vs-code-theme/challenges-vs-code-theme.md)
+* [GitHub Profile & Portfolio](projects/github-profile-and-portfolio/README.md)
+  * [Overview](projects/github-profile-and-portfolio/overview.md)
+  * [💯 Challenges : GitHub Profile](projects/github-profile-and-portfolio/challenges-github-profile.md)
+  * [🎉 Ship. Revise. Restart](projects/github-profile-and-portfolio/ship.-revise.-restart.md)
 
-## P3 + P4 : DESN FMLY (in class project)
+***
 
-* [Overview](p3-+-p4-desn-fmly-in-class-project/overview.md)
-* [💯 Challenges](p3-+-p4-desn-fmly-in-class-project/challenges.md)
+* [Markdown Resume](markdown-resume/README.md)
+  * [Overview](markdown-resume/overview.md)
+  * [💯 Challenges : Markdown Resume](markdown-resume/challenges-markdown-resume.md)
+  * [🎉 Ship. Revise. Restart](markdown-resume/ship.-revise.-restart.md)
+* [Class Roster API](class-roster-api/README.md)
+  * [Overview](class-roster-api/overview.md)
+  * [Setup](class-roster-api/setup/README.md)
+    * [Data](class-roster-api/setup/data.md)
+    * [HTML](class-roster-api/setup/html.md)
+    * [CSS](class-roster-api/setup/css.md)
+    * [JS](class-roster-api/setup/js.md)
+    * [In Class Example](class-roster-api/setup/in-class-example.md)
+  * [🎉 Ship. Revise. Restart](class-roster-api/ship.-revise.-restart.md)
+  * [💯 Project Challenges](class-roster-api/project-challenges.md)
+* [Smart Mirror](smart-mirror/README.md)
+  * [Overview](smart-mirror/overview.md)
+  * [Smart Mirror (with Widgets )](smart-mirror/smart-mirror-with-widgets.md)
+* [Any API Listing](any-api-listing/README.md)
+  * [💯 Challenges](any-api-listing/challenges.md)
+  * [🎉 Ship. Revise. Restart](any-api-listing/ship.-revise.-restart.md)
+  * [Overview](any-api-listing/overview.md)
+* [Audio Player](audio-player.md)
+* [Generative Art](generative-art.md)
 
-## P5: Any API Listing
+## Digital Garden (Final)
 
-* [💯 Challenges](p5-any-api-listing/challenges.md)
-* [🎉 Ship. Revise. Restart](p5-any-api-listing/ship.-revise.-restart.md)
+* [Overview](digital-garden-final/overview.md)
 
-## P6 : DYOP (DYOP) : Extra Credit
+***
 
-* [💯 DYOP](p6-dyop-dyop-extra-credit/dyop.md)
-
-## Smart Mirror
-
-* [🪞 Extra Project for Your Portolio](smart-mirror/extra-project-for-your-portolio.md)
-* [Smart Mirror (with Widgets )](smart-mirror/smart-mirror-with-widgets.md)
-
-## Digital Garden (FINAL)
-
-* [💯 Challenges](digital-garden-final/challenges.md)
-
-## In Class Demo: Slider Carousel
-
-* [Overview](in-class-demo-slider-carousel/overview.md)
-* [Practice Pens](in-class-demo-slider-carousel/practice-pens/README.md)
-  * [Initial Content & Styling](in-class-demo-slider-carousel/practice-pens/initial-content-and-styling.md)
-  * [Listen for Next Button](in-class-demo-slider-carousel/practice-pens/listen-for-next-button.md)
-  * [Background Image Cover](in-class-demo-slider-carousel/practice-pens/background-image-cover.md)
-  * [Array of Data: Quote](in-class-demo-slider-carousel/practice-pens/array-of-data-quote.md)
-  * [Loop Slideshow Count](in-class-demo-slider-carousel/practice-pens/loop-slideshow-count.md)
-  * [# Manipulate DOM Content](in-class-demo-slider-carousel/practice-pens/manipulate-dom-content.md)
-  * [Test Array of Data](in-class-demo-slider-carousel/practice-pens/test-array-of-data.md)
-* [💯 Challenges : Quote Carousel](in-class-demo-slider-carousel/challenges-quote-carousel.md)
-* [🎉 Ship. Revise. Restart](in-class-demo-slider-carousel/ship.-revise.-restart.md)
-
-## In Class Demo : Class Roster API
-
-* [Setup](in-class-demo-class-roster-api/setup/README.md)
-  * [Data](in-class-demo-class-roster-api/setup/data.md)
-  * [HTML](in-class-demo-class-roster-api/setup/html.md)
-  * [CSS](in-class-demo-class-roster-api/setup/css.md)
-  * [JS](in-class-demo-class-roster-api/setup/js.md)
-  * [In Class Example](in-class-demo-class-roster-api/setup/in-class-example.md)
-* [🎉 Ship. Revise. Restart](in-class-demo-class-roster-api/ship.-revise.-restart.md)
-* [💯 Project Challenges](in-class-demo-class-roster-api/project-challenges.md)
+* [Setup Astro](setup-astro.md)
+* [💯 Challenges](challenges.md)
 
 ## 🔟 10 Takeaways
 
@@ -147,3 +128,6 @@
   * [Overview](archive/overview-4.md)
   * [Setup](archive/setup.md)
   * [🎉 Ship. Revise. Restart](archive/ship.-revise.-restart-2.md)
+  * [Overview](archive/overview-5.md)
+  * [Syntax Highlight Exercise](archive/syntax-highlight-exercise.md)
+  * [💯 Challenges: VS Code Theme](archive/challenges-vs-code-theme.md)

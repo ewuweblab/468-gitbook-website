@@ -22,49 +22,49 @@
 
 ## CSS Concepts
 
-* [Print Style Sheets](css-concepts/print-style-sheets.md)
+* [Print Style Sheets](p1-markdown-resume/print-style-sheets.md)
 
 ## JS Concepts
 
-* [Objects](js-concepts/objects/README.md)
-  * [Object Properties](js-concepts/objects/object-properties.md)
-  * [Object Methods](js-concepts/objects/object-methods.md)
+* [Objects](js-essential-training/objects/README.md)
+  * [Object Properties](js-essential-training/objects/object-properties.md)
+  * [Object Methods](js-essential-training/objects/object-methods.md)
 
 ***
 
-* [URL Query Strings](url-query-strings.md)
-* [JSON](json.md)
+* [URL Query Strings](apis/url-query-strings.md)
+* [JSON](apis/json.md)
 
 ## ⭐ Projects
 
 * [GitHub Profile & Portfolio](projects/github-profile-and-portfolio/README.md)
-  * [Overview](projects/github-profile-and-portfolio/overview.md)
-  * [💯 Challenges : GitHub Profile](projects/github-profile-and-portfolio/challenges-github-profile.md)
-  * [🎉 Ship. Revise. Restart](projects/github-profile-and-portfolio/ship.-revise.-restart.md)
+  * [Overview](github-web-portfolio/overview.md)
+  * [💯 Challenges : GitHub Profile](github-web-portfolio/github-profile.md)
+  * [🎉 Ship. Revise. Restart](p0-github-web-portfolio/ship.-revise.-restart.md)
 
 ***
 
 * [Markdown Resume](markdown-resume/README.md)
   * [Overview](markdown-resume/overview.md)
-  * [💯 Challenges : Markdown Resume](markdown-resume/challenges-markdown-resume.md)
-  * [🎉 Ship. Revise. Restart](markdown-resume/ship.-revise.-restart.md)
+  * [💯 Challenges : Markdown Resume](p1-markdown-resume/challenges-markdown-resume.md)
+  * [🎉 Ship. Revise. Restart](p1-markdown-resume/ship.-revise.-restart.md)
 * [Class Roster API](class-roster-api/README.md)
-  * [Overview](class-roster-api/overview.md)
-  * [Setup](class-roster-api/setup/README.md)
-    * [Data](class-roster-api/setup/data.md)
-    * [HTML](class-roster-api/setup/html.md)
-    * [CSS](class-roster-api/setup/css.md)
-    * [JS](class-roster-api/setup/js.md)
-    * [In Class Example](class-roster-api/setup/in-class-example.md)
-  * [🎉 Ship. Revise. Restart](class-roster-api/ship.-revise.-restart.md)
-  * [💯 Project Challenges](class-roster-api/project-challenges.md)
+  * [Overview](p3-+-p4-desn-fmly-in-class-project/overview.md)
+  * [Setup](in-class-demo-class-roster-api/setup/README.md)
+    * [Data](in-class-demo-class-roster-api/setup/data.md)
+    * [HTML](in-class-demo-class-roster-api/setup/html.md)
+    * [CSS](in-class-demo-class-roster-api/setup/css.md)
+    * [JS](in-class-demo-class-roster-api/setup/js.md)
+    * [In Class Example](in-class-demo-class-roster-api/setup/in-class-example.md)
+  * [🎉 Ship. Revise. Restart](in-class-demo-class-roster-api/ship.-revise.-restart.md)
+  * [💯 Project Challenges](in-class-demo-class-roster-api/project-challenges.md)
 * [Smart Mirror](smart-mirror/README.md)
-  * [Overview](smart-mirror/overview.md)
+  * [Overview](smart-mirror/extra-project-for-your-portolio.md)
   * [Smart Mirror (with Widgets )](smart-mirror/smart-mirror-with-widgets.md)
 * [Any API Listing](any-api-listing/README.md)
-  * [💯 Challenges](any-api-listing/challenges.md)
-  * [🎉 Ship. Revise. Restart](any-api-listing/ship.-revise.-restart.md)
-  * [Overview](any-api-listing/overview.md)
+  * [💯 Challenges](p5-any-api-listing/challenges.md)
+  * [🎉 Ship. Revise. Restart](p5-any-api-listing/ship.-revise.-restart.md)
+  * [Overview](apis/overview.md)
 * [Audio Player](audio-player.md)
 * [Generative Art](generative-art.md)
 
@@ -75,7 +75,7 @@
 ***
 
 * [Setup Astro](setup-astro.md)
-* [💯 Challenges](challenges.md)
+* [💯 Challenges](digital-garden-final/challenges.md)
 
 ## 🔟 10 Takeaways
 
@@ -128,6 +128,6 @@
   * [Overview](archive/overview-4.md)
   * [Setup](archive/setup.md)
   * [🎉 Ship. Revise. Restart](archive/ship.-revise.-restart-2.md)
-  * [Overview](archive/overview-5.md)
-  * [Syntax Highlight Exercise](archive/syntax-highlight-exercise.md)
-  * [💯 Challenges: VS Code Theme](archive/challenges-vs-code-theme.md)
+  * [Overview](p2-vs-code-theme/overview.md)
+  * [Syntax Highlight Exercise](p2-vs-code-theme/syntax-highlight-exercise.md)
+  * [💯 Challenges: VS Code Theme](p2-vs-code-theme/challenges-vs-code-theme.md)

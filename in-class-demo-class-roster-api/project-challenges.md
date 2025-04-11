@@ -59,6 +59,6 @@ Reminders:
 ### **Submission**
 
 * \[ ] Provide URL to your project _repo_ stored on _GitHub_
-  * Example: \*[https://github.com/\*\*YourUserName\*\*/\*\*RepoName\*\*\*](https://github.com/\*\*YourUserName\*\*/\*\*RepoName\*\*\*)
+  * Example: \*[https://github.com/\*\*YourUserName\*\*/\*\*RepoName\*\*\*](https://github.com/**YourUserName**/**RepoName***)
 * \[ ] Provide URL to your project website deployed via _Netflify_
   * Example: _https://**YourAppName**.netlify.com_

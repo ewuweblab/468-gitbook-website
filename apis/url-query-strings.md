@@ -12,7 +12,7 @@
 
 ### What?
 
-* _A query string is a part of a uniform resource locator (URL) that assigns values to specified parameters._ - [WikiPedia](https://en.wikipedia.org/wiki/Query\_string)
+* _A query string is a part of a uniform resource locator (URL) that assigns values to specified parameters._ - [WikiPedia](https://en.wikipedia.org/wiki/Query_string)
 * Also known as “URL Parameters” or “URL query parameters”
 
 ### How?

@@ -11,7 +11,7 @@
 ## What?
 
 * A username.github.io domain is a free web hosting service provided by GitHub called _GitHub Pages_
-* A repository named `username.github.io` (where "username" is your actual GitHub username), GitHub automatically publishes the content to \[https://username.github.io]\(https://username.github.io
+* A repository named `username.github.io`&#x20;
 
 ### How do I use it?
 

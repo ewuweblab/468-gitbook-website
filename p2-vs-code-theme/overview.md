@@ -14,7 +14,7 @@
 * Essential to modern web design and development. It's on by default
 * Use GUI generators to for JSON, and also understand the code produced
 * _VS Code_ is the most popular text editor. Many text editors exist, but few have this level of adoption and integration.
-* Create a custom VS Code Theme and understand [importance of syntax highlighting](https://en.wikipedia.org/wiki/Syntax\_highlighting)
+* Create a custom VS Code Theme and understand [importance of syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting)
 
 ### How do I use it?
 

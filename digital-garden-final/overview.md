@@ -13,9 +13,7 @@
 * A username.github.io domain is a free web hosting service provided by GitHub called _GitHub Pages_
 * A repository named `username.github.io`&#x20;
 
-### How do I use it?
+## Reference
 
-* Get your GitHub username
-* Create a repo with your username using this format `username.github.io`
-  * Example: `EwuWebLab.github.io`
-* Add your code and have fun.
+{% embed url="https://maggieappleton.com/garden-history/" %}
+

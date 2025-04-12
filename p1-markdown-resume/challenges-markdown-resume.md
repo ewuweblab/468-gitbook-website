@@ -4,36 +4,45 @@
 [https://github.com/ewuweblab/markdown-resume-template](https://github.com/ewuweblab/markdown-resume-template)
 {% endhint %}
 
-### Challenge 1: Required Content
+### Challenge 1: Content
 
-* [ ] Name
-* [ ] Objective
-* [ ] Education
-* [ ] Experience
-* [ ] Skills
+* [ ] Resume in markdown format in `resume.md`
+* [ ] Content
+  * [ ] Name
+  * [ ] Bio/Objectives/etc.
+  * [ ] Education
+  * [ ] Experience
+  * [ ] Skills
 * [ ] Any additional content you'd like
 
-### Challenge 2: Print Styling&#x20;
+### Challenge 2: Design
 
-* [ ] Apply Print Styling methods via CSS
-  * [ ] Refer to [CSS: Print Style Sheets](https://www.linkedin.com/learning/css-print-style-sheets)
+* [ ] [See CodePen Pens tagged "resume"](https://codepen.io/search/pens?q=resume) for design inspiration
+* [ ] On Figma, create a _Style Tile_ for:&#x20;
+  * [ ] Typography
+  * [ ] Color
+  * [ ] Embellishments e.g. styled horizontal rules, bullet styles, borders, etc.&#x20;
 
-### Challenge 3: Design&#x20;
+### Challenge 3: Code&#x20;
 
-* [ ] Add a custom design with CSS
-* [ ] Change default typography, colors, layout, and general Art Direction&#x20;
-* [ ] Optionally, reference the Art Direction for your website
+* [ ] Create a CodePen _Collection_ named `Markdown to PDF`&#x20;
+* [ ] Practice by creating and save 5 or more _Pens_ to `Markdown to PDF`&#x20;
+* [ ] [Apply CSS `print` styling techniques](https://colin.manikoth.fun/desn-468-web-design-3/css-concepts/print-style-sheets)
+* [ ] Add a custom designs in `style.css`&#x20;
 
-### Challenge 4: PDF Export
+### Challenge 4: Process
 
-* [ ] Export a PDF from _VS Code_
-* [ ] Use _Markdown PDF_ extension
-* [ ] Upload PDF to Canvas by due date
+* [ ] Style Tile on Figma
+* [ ] _Collection of 5+ Pens_ on CodePen
+* [ ] Use and customize provided template
+  * [ ] [https://github.com/ewuweblab/markdown-resume-template](https://github.com/ewuweblab/markdown-resume-template)
+* [ ] Version Controlled on GitHub
+* [ ] Print to physical paper your exported PDF
 
-### Challenge 5: Process
+### Challenge 5: Deployment
 
-* [ ] Crete a repo named `resume`
-* [ ] Setup version control on a PRIVATE repo
-* [ ] Use _VS Code_ to edit your files
+* [ ] Provide URL to your project _repo_ stored on _GitHub_
 
-###
+- Example: _https://github.com/**YourUserName**/**RepoName**_
+- Export `resume.md` to PDF format and print to physical-paper
+

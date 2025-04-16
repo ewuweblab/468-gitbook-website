@@ -19,10 +19,12 @@
 ## HTML Concepts
 
 * [Markdown](html-concepts/markdown.md)
+* [Picture Element](html-concepts/picture-element.md)
 
 ## CSS Concepts
 
 * [Print Style Sheets](p1-markdown-resume/print-style-sheets.md)
+* [Grid Layouts](css-concepts/grid-layouts.md)
 
 ## JS Concepts
 
@@ -53,7 +55,6 @@
   * [Setup](in-class-demo-class-roster-api/setup/README.md)
     * [Data](in-class-demo-class-roster-api/setup/data.md)
     * [HTML](in-class-demo-class-roster-api/setup/html.md)
-    * [CSS](in-class-demo-class-roster-api/setup/css.md)
     * [JS](in-class-demo-class-roster-api/setup/js.md)
     * [In Class Example](in-class-demo-class-roster-api/setup/in-class-example.md)
   * [🎉 Ship. Revise. Restart](in-class-demo-class-roster-api/ship.-revise.-restart.md)

@@ -8,8 +8,14 @@ coverY: 3.887323065332171
 
 ### Challenge 1 : Content
 
+* [ ] Complete this form
+  * [ ] [https://airtable.com/shr1enZM665uOcIit](https://airtable.com/shr1enZM665uOcIit)
 * [ ] Display the fields of content for:&#x20;
-  * [ ] Name, Image, Emoji, Quote, Superpower, and Favorite Color
+  * [ ] Required fields
+    * [ ] Name
+    * [ ] Image
+  * [ ] Pick 2 or more fields from
+    * [ ] Emoji, Quote, Superpower, Favorite Color, etc.&#x20;
 * [ ] Use more semantic `figure` and `figcaption` elements for group images with text i.e. captions, descriptions, headers, etc.&#x20;
 
 Reminders:
@@ -17,23 +23,17 @@ Reminders:
 * DO NOT statically (or “hard code”) by modifying the `index.html`
 * Dynamically output the data to the template in `scripts.js`
 
-### Challenge 2: Style Tile
-
-{% hint style="info" %}
-[Style Tile Template](https://www.figma.com/file/HTQXrZJ0sPu7af8wT4YSWw/Style-Tile-Template?node-id=0%3A1\&t=NJEi1nKexF7VPhrY-1)
-{% endhint %}
+### Challenge 2: Design
 
 * [ ] Create an _Art Direction_ for this project by creating a Style Tile
-* [ ] Use the provided template and complete all the sections
+* [ ] _**Duplicate to your Drafts**_ the provided template
+  * [ ] [Style Tile Template](https://www.figma.com/file/HTQXrZJ0sPu7af8wT4YSWw/Style-Tile-Template?node-id=0%3A1\&t=NJEi1nKexF7VPhrY-1)
+* [ ] Complete all the sections
 
-### Challenge 2 : Styling
-
-{% hint style="info" %}
-[CSS Grid Layouts by Morten Rand-Hendriksen](https://www.linkedin.com/learning/level-up-css-layout/)
-{% endhint %}
+### Challenge 2 : Code
 
 * [ ] &#x20;Review the possible CSS Grid layout options, then pick **ONE**
-* [ ] Create a _Pen_ demsonstrating (and testing) layout using CSS grid
+* [ ] Create a _Pen_ demonstrating (and testing) layout using CSS grid
 * [ ] Apply this _Pen_ to your project.&#x20;
 * [ ] Customize to reflect your _Style Tile_
 

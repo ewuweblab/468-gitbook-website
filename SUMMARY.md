@@ -20,6 +20,7 @@
 
 * [Markdown](html-concepts/markdown.md)
 * [Picture Element](html-concepts/picture-element.md)
+* [Figure Element](html-concepts/figure-element.md)
 
 ## CSS Concepts
 
@@ -28,6 +29,7 @@
 
 ## JS Concepts
 
+* [Fetch Data](js-concepts/fetch-data.md)
 * [Objects](js-essential-training/objects/README.md)
   * [Object Properties](js-essential-training/objects/object-properties.md)
   * [Object Methods](js-essential-training/objects/object-methods.md)
@@ -52,11 +54,7 @@
   * [🎉 Ship. Revise. Restart](p1-markdown-resume/ship.-revise.-restart.md)
 * [Class Roster API](class-roster-api/README.md)
   * [Overview](p3-+-p4-desn-fmly-in-class-project/overview.md)
-  * [Setup](in-class-demo-class-roster-api/setup/README.md)
-    * [Data](in-class-demo-class-roster-api/setup/data.md)
-    * [HTML](in-class-demo-class-roster-api/setup/html.md)
-    * [JS](in-class-demo-class-roster-api/setup/js.md)
-    * [In Class Example](in-class-demo-class-roster-api/setup/in-class-example.md)
+  * [In Class Example](class-roster-api/in-class-example.md)
   * [🎉 Ship. Revise. Restart](in-class-demo-class-roster-api/ship.-revise.-restart.md)
   * [💯 Project Challenges](in-class-demo-class-roster-api/project-challenges.md)
 * [Smart Mirror](smart-mirror/README.md)

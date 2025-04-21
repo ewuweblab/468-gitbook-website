@@ -25,7 +25,8 @@ coverY: 3.887323065332171
   * [ ] [Style Tile Template](https://www.figma.com/file/HTQXrZJ0sPu7af8wT4YSWw/Style-Tile-Template?node-id=0%3A1\&t=NJEi1nKexF7VPhrY-1)
 * [ ] Complete all the sections
 * [ ] Pick **ONE** CSS grid layout from&#x20;
-  * [ ] [https://colin.manikoth.fun/desn-468-web-design-3/css-concepts/grid-layouts](https://colin.manikoth.fun/desn-468-web-design-3/css-concepts/grid-layouts)
+  * [ ] Code for CodeSpace: [https://github.com/LinkedInLearning/css-layout-code-challenges-3155794/codespaces](https://github.com/LinkedInLearning/css-layout-code-challenges-3155794/codespaces)
+    * [ ] For more info[https://colin.manikoth.fun/desn-468-web-design-3/css-concepts/grid-layouts](https://colin.manikoth.fun/desn-468-web-design-3/css-concepts/grid-layouts)
 
 ### Challenge 3 : Code
 

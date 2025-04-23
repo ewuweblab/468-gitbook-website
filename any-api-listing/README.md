@@ -1,5 +1,5 @@
 ---
-icon: circle-small
+icon: '3'
 ---
 
 # Any API Listing

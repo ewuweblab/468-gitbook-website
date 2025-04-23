@@ -9,7 +9,7 @@ coverY: 3.887323065332171
 ### Challenge 1 : Content
 
 * [ ] Complete this form
-  * [ ] [https://airtable.com/shr1enZM665uOcIit](https://airtable.com/shr1enZM665uOcIit)
+  * [ ] JSON Source : [https://assets.codepen.io/16425/Spring-2025-Roster.json](https://assets.codepen.io/16425/Spring-2025-Roster.json)
 * [ ] Display the fields of content for:&#x20;
   * [ ] Required fields
     * [ ] Name
@@ -34,6 +34,7 @@ coverY: 3.887323065332171
 Use[ starter project for Class Roster API](https://github.com/ewuweblab/class-roster-via-api) template
 {% endhint %}
 
+* [ ] JSON Source: [https://assets.codepen.io/16425/Spring-2025-Roster.json](https://assets.codepen.io/16425/Spring-2025-Roster.json)
 * [ ] _**Use this template**_ button
   * [ ] [https://github.com/ewuweblab/class-roster-via-api](https://github.com/ewuweblab/class-roster-via-api)
 * [ ] Change placeholder favicon with this SVG

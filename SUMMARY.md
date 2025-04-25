@@ -38,6 +38,7 @@
 
 * [URL Query Strings](apis/url-query-strings.md)
 * [JSON](apis/json.md)
+* [(web) APIs](web-apis.md)
 
 ## ⭐ Projects
 

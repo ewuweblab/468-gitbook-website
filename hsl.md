@@ -21,6 +21,8 @@ HSL (Hue, Saturation, Lightness) color notation offers several advantages over h
 
 ## # HSL and Design Tokens
 
+{% embed url="https://codepen.io/manikoth/pen/VYYrRba" %}
+
 
 
 ## # FYI

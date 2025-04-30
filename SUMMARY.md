@@ -30,6 +30,7 @@
 ***
 
 * [HSL](hsl.md)
+* [(Design) Tokens](design-tokens.md)
 
 ## JS Concepts
 

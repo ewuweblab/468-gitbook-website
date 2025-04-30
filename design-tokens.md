@@ -27,7 +27,7 @@ Key characteristics of design tokens:
 Design tokens bridge the gap between designers and developers by creating a shared language for design decisions, enabling more consistent implementations and making system-wide changes more efficient.
 
 {% hint style="warning" %}
-Figma defaults to HEX values for color pickers **and variables**
+Figma defaults to HEX values for color pickers **and variables. Switch to Dev Mode.**
 {% endhint %}
 
 ## Figma Dev Mode

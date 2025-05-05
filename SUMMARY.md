@@ -26,6 +26,7 @@
 
 * [Print Style Sheets](p1-markdown-resume/print-style-sheets.md)
 * [Grid Layouts](css-concepts/grid-layouts.md)
+* [Nesting](css-concepts/nesting.md)
 
 ***
 

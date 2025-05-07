@@ -24,6 +24,10 @@
 
 ## Challenge 3 : Style It.
 
+{% hint style="info" %}
+[Optionally: See Grid Layouts for Repeating Content](https://codepen.io/collection/pjvgQG)
+{% endhint %}
+
 * Determine styling for your chosen content
 * Use CSS Flexbox module -- see template
 * Use CSS Grid module module -- see template

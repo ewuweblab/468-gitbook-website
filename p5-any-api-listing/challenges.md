@@ -35,12 +35,13 @@
 
 ## Challenge 4 : Code
 
+* Refactor using Astro concepts of
+  * [Layouts](https://docs.astro.build/en/basics/layouts/)
+  * [Components](https://docs.astro.build/en/basics/astro-components/)
 * Understand API concepts
 * Use JSON data
 * Reminders:
   * DO NOT statically “hard code” the data
-* Review concepts here
-  * https://colin.manikoth.fun/desn-468-web-design-3/apis/overview
 
 ## Challenge 5 : Process
 

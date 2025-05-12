@@ -23,25 +23,46 @@ Project is complete and met objectives. Ready to show, promote, and deliver to i
 * [ ] Weather: Show current weather for your location e.g. _Sunny_ vs _Sunny, 75°F_
   * Pick any location you like
   * Display **ONE-or-more** data point(s) e.g. wind, humidity, pressure, etc.
+* [ ] Use web-camera to as mirror
 
-### Challenge 2 : Art Direction
+### Challenge 2 : Design
 
-* [ ] Define a custom _Art Direction_ for your widgets
+* [ ] Create an Art Direction for this project by creating a Style Tile
+* [ ] Duplicate to your Drafts the provided template and complete all the sections
+  * [ ] [https://www.figma.com/design/HTQXrZJ0sPu7af8wT4YSWw/%E2%AD%90-Art-Direction-Template?node-id=0-1\&p=f](https://www.figma.com/design/HTQXrZJ0sPu7af8wT4YSWw/%E2%AD%90-Art-Direction-Template?node-id=0-1\&p=f)
 
-### Challenge 3 : Visual Design
+### Challenge 3 : Code
 
-* [ ] Design it with Tailwind and/or Daisy UI
+* [ ] Modify provide template
+  * [ ] [https://github.com/ewuweblab/dashboard-widgets-smart-mirror](https://github.com/ewuweblab/dashboard-widgets-smart-mirror)
+* [ ] Use this favicon
+  * [ ] [https://lucide.dev/icons/layout-dashboard](https://lucide.dev/icons/layout-dashboard)
 
-### Challenge 4 : JavaScript
+### Challenge 4 : Process
 
-* [ ] Use Open Weather API to display **ONE-or-more** additional data point(s) e.g. wind, humidity, pressure, etc.
-* [ ] Apply full screen video to your design
+**Art Direction**
 
-### Challenge 5 : Process
+* [ ] Complete Style Tile
 
-* [ ] Add custom favicons using the [favicon.ico](https://www.favicon.cc/)
+**CodePen Collection**
+
+* [ ] Complete _Collection of 5+ Pens_ on CodePen
+
+**GitHub Repo**
+
 * [ ] _Version Control_ is used with multiple commits, over multiple days
-* [ ] Project is stored on GitHub
-* [ ] Project is deployed via Netlify
-* [ ] Remove “Deploy with Netlify” button from `README.md`
 * [ ] `README.md` file edited with your-own-content e.g. name, citations, notes, links, or any relevant information
+* [ ] Link to public Netlify Deployment
+
+**Netlify Deployment**
+
+* [ ] Deploy to Netlify
+
+### Challenge 5 : Submission
+
+* [ ] URL to Figma Style Tile
+* [ ] URL to CodePen Pens
+* [ ] URL to your project _repo_ stored on _GitHub_
+* [ ] Example: \*[https://github.com/\*\*YourUserName\*\*/\*\*RepoName\*\*\*](https://github.com/**YourUserName**/**RepoName***)
+* [ ] Provide URL to your project website deployed via _Netflify_
+* [ ] Example: _https://**YourAppName**.netlify.com_

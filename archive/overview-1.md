@@ -1,28 +1,42 @@
 # Overview
 
-> Concepts are similar, but the experience can be very different.
 
-### Why Does this Project Exist?
 
-Call it a sound board, drum machine, ambient noise generator, keyboard-piano, or randomized music. The concepts behind all of these projects are similar.
+> JS Libraries are Fun, Helpful, and Saves Time.&#x20;
 
-The design, the execution, and the _experience_ are all very different.
+## Why JS Libraries?&#x20;
 
-### Examples
+JavaScript cannot - _and should not_ - have everything. Slowly (very slowly) it will become a standard in HTML and CSS. Libraries help push the web forward. E.g. [HTML dialog element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
 
-Exceptional examples of websites applying the concepts of this project.
+* Very quickly produce small proof of concept or larger rapid prototype
+* Extend JavaScript's built-in functionality
+* Pros: Write less code, do more, in less time.
+* Cons: Files size, trust, bugs, performance, flexibility, etc.
+* If possible, find libraries that do not have dependencies - from other libraries:
+  * Other libraries e.g GSAP
+  * Other frameworks e.g React
 
-{% embed url="https://www.patatap.com/" %}
+## Library vs. Plugin
 
-### [https://www.patatap.com/  https://coffitivity.com/  https://www.onlinepianist.com/virtual-piano  https://drumbit.app/  https://experiments.withgoogle.com/ai/drum-machine/view/  http://typedrummer.com/  https://neal.fun/ambient-chaos/](https://www.patatap.com/https://coffitivity.com/https://www.onlinepianist.com/virtual-pianohttps://drumbit.app/https://experiments.withgoogle.com/ai/drum-machine/view/http://typedrummer.com/https://neal.fun/ambient-chaos/)
+* Both terms are interchangable
+* A _plugin_ is typically smaller in files size, scope, and features
+* A _library_ is large in size, scope, and features -- and contain its own _plugins_
+  * For example, GSAP is a _library_ with an effects _plugin, a scrolling plugin, etc._
 
-### References
+## Where to find Libraries?
 
-This project is a fork of original code by Wes Bos and the [JavaScript 30 projects.](https://javascript30.com/)
+Curated collections like these.&#x20;
 
-[JavaScript 30](https://javascript30.com/)
+{% embed url="https://vanillalist.top/" %}
 
-[wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
+{% embed url="https://github.com/davidhund/awesome-vanilla-js" %}
 
-[Welcome - JavaScript Video Tutorial | LinkedIn Learning, formerly Lynda.com](https://www.linkedin.com/learning/javascript-essential-training-3/welcome)
-
+* Search Engine
+* Libaries CDNs
+  * [NPM](https://www.npmjs.com/)
+  * [Sky Pack](https://www.skypack.dev/)
+  * [JS Deliver](https://www.jsdelivr.com/)
+  * ...too many to list
+* Websites like [CoDrops](https://www.coderdrops.com/). Too many to list.
+* Search [CodePen](https://codepen.io/search)
+* View the source code

@@ -1,47 +1,53 @@
----
-cover: >-
-  https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/372b0e12748107.562e65ae4f019.jpg
-coverY: 0
----
-
 # 💯 Project Challenges
 
-{% embed url="https://github.com/ewuweblab/dashboard-widgets-smart-mirror" %}
+### Challenge 1: Understand Circle Type Library
 
-## 🎉 Student Examples
+{% hint style="info" %}
+Source Code for Plugin : [https://github.com/peterhry/CircleType/blob/master/dist/circletype.min.js](https://github.com/peterhry/CircleType/blob/master/dist/circletype.min.js)
+{% endhint %}
 
-Project is complete and met objectives. Ready to show, promote, and deliver to intended audiences. Version 1.0 is ready to go live!
+### Challenge 2: Create Practice Pens
 
-* Kate C. [https://dashboard-widgets-web3.netlify.app/](https://dashboard-widgets-web3.netlify.app/)
-* June L. [https://ulawless-dashboard-widgets.netlify.app/](https://ulawless-dashboard-widgets.netlify.app/)
-* Cesar M.A. [https://dashboard-widgets-cesar.netlify.app/](https://dashboard-widgets-cesar.netlify.app/)
+* Use this content for sample pens
 
-### Challenge 1 : Content
+`Decisions define the Direction of the Design. Design without Direction -- is just Decoration. Anyone who makes Decisions is a: Designer.`
 
-* [ ] Show current time in your preferred format e.g. _03:00_ vs _3:00_
-* [ ] Date: Show current date your preferred format e.g. _January 1, 2000_ vs _1/1/2000_
-* [ ] Weather: Show current weather for your location e.g. _Sunny_ vs _Sunny, 75°F_
-  * Pick any location you like
-  * Display **ONE-or-more** data point(s) e.g. wind, humidity, pressure, etc.
+* Create three(3) practice pens
+* Install [Circle Type](https://circletype.labwire.ca/) plugin
+  * Option A: Download to Project as JS file
+  * Option B: External CodePen **JS** Pen
+  * Option C: [Use developer CDN file](https://circletype.labwire.ca/dist/circletype.min.js)
+* Create three(3) uniquely different pens utilizing Circle type methods and/or options
+* Submit three(3) Pens to Canvas
 
-### Challenge 2 : Art Direction
+### Challenge 3: Use Web 3 Boilerplate
 
-* [ ] Define a custom _Art Direction_ for your widgets
+{% embed url="https://github.com/ewuweblab/web-3-boilerplate" %}
 
-### Challenge 3 : Visual Design
+### Challenge 4: Design & FontShare Font&#x20;
 
-* [ ] Design it with Tailwind and/or Daisy UI
+* Find and install a Font Share font
+  * [https://fontshare.com](https://fontshare.com)
+* Add your own visual design elements
 
-### Challenge 4 : JavaScript
+### Challenge 5: Go Live
 
-* [ ] Use Open Weather API to display **ONE-or-more** additional data point(s) e.g. wind, humidity, pressure, etc.
-* [ ] Apply full screen video to your design
+Pick ONE(1) pen from the three(3) _Practice Pens_ and apply our Process
 
-### Challenge 5 : Process
+* _Version Control_ is used with multiple commits, over multiple days
+* Project is stored on GitHub
+* Project is deployed via Netlify
+* Remove “Deploy with Netlify” button from `README.md`
+* `README.md` file edited with your-own-content e.g. name, citations, notes, links, or any relevant information
 
-* [ ] Add custom favicons using the [favicon.ico](https://www.favicon.cc/)
-* [ ] _Version Control_ is used with multiple commits, over multiple days
-* [ ] Project is stored on GitHub
-* [ ] Project is deployed via Netlify
-* [ ] Remove “Deploy with Netlify” button from `README.md`
-* [ ] `README.md` file edited with your-own-content e.g. name, citations, notes, links, or any relevant information
+### Extra Credit: Lettering JS
+
+* Install and apply \*vanilla\* Lettering JS plugin from this source
+  * [https://gist.github.com/cferdinandi/68bae3f551d7daff8d442e232c499307](https://gist.github.com/cferdinandi/68bae3f551d7daff8d442e232c499307)
+
+### Submission
+
+* Provide URL to your project _repo_ stored on _GitHub_
+  * Example: _https://github.com/**YourUserName**/**RepoName**_
+* Provide URL to your project website deployed via _Netflify_
+  * Example: \_https://**YourAppName**.netlify.com

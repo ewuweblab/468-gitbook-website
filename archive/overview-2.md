@@ -1,42 +1,31 @@
+---
+description: Why does this Project exist?
+---
+
 # Overview
 
+### What is this?
 
+Watch these product demos. Understand the goals of each service. What are the differences between the services?
 
-> JS Libraries are Fun, Helpful, and Saves Time.&#x20;
+* [What is Linktree?](https://www.youtube.com/watch?v=laYDavPh7Uw)
+* [Say Hello to Znaplink](https://www.youtube.com/watch?v=E5D8uRYd9aM)
+* See promo video at https://milkshake.app/
 
-## Why JS Libraries?&#x20;
+### Landing Page Services
 
-JavaScript cannot - _and should not_ - have everything. Slowly (very slowly) it will become a standard in HTML and CSS. Libraries help push the web forward. E.g. [HTML dialog element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
+Many services offer a single-page-landing. These "web portals" have existed for decades before [Linktree](https://linktr.ee/), [About.Me](https://about.me), [Card](https://carrd.co/), etc.
 
-* Very quickly produce small proof of concept or larger rapid prototype
-* Extend JavaScript's built-in functionality
-* Pros: Write less code, do more, in less time.
-* Cons: Files size, trust, bugs, performance, flexibility, etc.
-* If possible, find libraries that do not have dependencies - from other libraries:
-  * Other libraries e.g GSAP
-  * Other frameworks e.g React
+There are too many services to choose from. Each one has minor differences, and benefits with premium paid upgrades.
 
-## Library vs. Plugin
+* [7 Best Linktree Alternatives](https://www.znaplink.com/blog/best-link-tools)
 
-* Both terms are interchangable
-* A _plugin_ is typically smaller in files size, scope, and features
-* A _library_ is large in size, scope, and features -- and contain its own _plugins_
-  * For example, GSAP is a _library_ with an effects _plugin, a scrolling plugin, etc._
+### DIY Alternative
 
-## Where to find Libraries?
+Let's create our DIY Landing Page with these features.
 
-Curated collections like these.&#x20;
-
-{% embed url="https://vanillalist.top/" %}
-
-{% embed url="https://github.com/davidhund/awesome-vanilla-js" %}
-
-* Search Engine
-* Libaries CDNs
-  * [NPM](https://www.npmjs.com/)
-  * [Sky Pack](https://www.skypack.dev/)
-  * [JS Deliver](https://www.jsdelivr.com/)
-  * ...too many to list
-* Websites like [CoDrops](https://www.coderdrops.com/). Too many to list.
-* Search [CodePen](https://codepen.io/search)
-* View the source code
+* Your content. Your design.
+* Customizable, and persistant URL e.g. `YourCustomName.Netlify.app`
+* Portable. Take it to any web host.
+* Future proof, and easy to maintain. You own the code via GitHub
+* Secure, and scalable to many CDNs worldwide via Netlify

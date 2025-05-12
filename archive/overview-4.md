@@ -1,34 +1,25 @@
 # Overview
 
-## DIY Landing Page
-
 ### What is this?
 
-* &#x20;A “card” is a UI design pattern that groups related information in a flexible-size container
-* Characteristics
-  * Cards are used for grouping information
-  * Present a summary and link to additional details
-  * Flexible layouts and interactions
-* See examples on CodePen
-  * [https://codepen.io/search/pens?q=cards](https://codepen.io/search/pens?q=cards)
+* Many plain text editors have existed previously, and new ones continue to be created
+* Understand differences between plain text, rich text, and binary formats
+* Thousands of themes exists for customization of: text editors, browsers, tex
+* Syntax highlighting is a key feature of any good text editor
+* Light and Dark modes are user options in: apps, websites, and at the system level
 
 ### Why use it?
 
-* Cards are a very common UI pattern
-  * https://www.nngroup.com/articles/cards-component/
-* Easily display and group information
-* Basis for many mobile apps and also web apps
+* Design a VS Code theme for the _DESN FMLY_ brand
+* Essential to modern web design and development. It's on by default
+* Use GUI generators to for JSON, and also understand the code produced
+* _VS Code_ is the most popular text editor. Many text editors exist, but few have this level of adoption and integration.
+* Create a custom VS Code Theme and understand [importance of syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting)
 
 ### How do I use it?
 
-* CSS transforms and animation
-* Make accessible with print style sheet
-* Make available on all devices via responsive web design
-
-### Alternatives
-
-Most no-code graphical tools offer _Cards_ as a drag-and=drop component. See examples:
-
-* https://webflow.com/made-in-webflow/cards
-* https://forum.squarespace.com/topic/167824-71-card-style-blog-layout/
-* https://wordpress.org/themes/search/card/
+* You already are. Now, make a _custom theme_ for the Department of Design
+* Use a GUI (graphical user interface) to create the required JSON file
+  * https://themes.vscode.one/faq/welcome/
+* See "Welcome" video
+  * https://themes.vscode.one/faq/welcome/

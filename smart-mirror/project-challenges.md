@@ -26,6 +26,7 @@ coverY: 0
 ### Challenge 3 : Code
 
 * [ ] Use your own Open Weather API key
+* [ ] Apply CSS and JS concepts learned
 * [ ] Modify provide template
   * [ ] [https://github.com/ewuweblab/smart-mirror-astro](https://github.com/ewuweblab/smart-mirror-astro)
 * [ ] Use this favicon

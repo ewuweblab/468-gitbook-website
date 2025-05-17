@@ -6,15 +6,7 @@ coverY: 0
 
 # 💯 Project Challenges
 
-{% embed url="https://github.com/ewuweblab/dashboard-widgets-smart-mirror" %}
-
-## 🎉 Student Examples
-
-Project is complete and met objectives. Ready to show, promote, and deliver to intended audiences. Version 1.0 is ready to go live!
-
-* Kate C. [https://dashboard-widgets-web3.netlify.app/](https://dashboard-widgets-web3.netlify.app/)
-* June L. [https://ulawless-dashboard-widgets.netlify.app/](https://ulawless-dashboard-widgets.netlify.app/)
-* Cesar M.A. [https://dashboard-widgets-cesar.netlify.app/](https://dashboard-widgets-cesar.netlify.app/)
+## [https://github.com/ewuweblab/smart-mirror-astro](https://github.com/ewuweblab/smart-mirror-astro)
 
 ### Challenge 1 : Content
 
@@ -33,8 +25,9 @@ Project is complete and met objectives. Ready to show, promote, and deliver to i
 
 ### Challenge 3 : Code
 
+* [ ] Use your own Open Weather API key
 * [ ] Modify provide template
-  * [ ] [https://github.com/ewuweblab/dashboard-widgets-smart-mirror](https://github.com/ewuweblab/dashboard-widgets-smart-mirror)
+  * [ ] [https://github.com/ewuweblab/smart-mirror-astro](https://github.com/ewuweblab/smart-mirror-astro)
 * [ ] Use this favicon
   * [ ] [https://lucide.dev/icons/layout-dashboard](https://lucide.dev/icons/layout-dashboard)
 
@@ -63,6 +56,6 @@ Project is complete and met objectives. Ready to show, promote, and deliver to i
 * [ ] URL to Figma Style Tile
 * [ ] URL to CodePen Pens
 * [ ] URL to your project _repo_ stored on _GitHub_
-* [ ] Example: \*[https://github.com/\*\*YourUserName\*\*/\*\*RepoName\*\*\*](https://github.com/**YourUserName**/**RepoName***)
+  * [ ] Example: \*[https://github.com/\*\*YourUserName\*\*/\*\*RepoName\*\*\*](https://github.com/**YourUserName**/**RepoName***)
 * [ ] Provide URL to your project website deployed via _Netflify_
-* [ ] Example: _https://**YourAppName**.netlify.com_
+  * [ ] Example: _https://**YourAppName**.netlify.com_

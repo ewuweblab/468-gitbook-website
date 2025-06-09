@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 💯 Challenges
 
 ### Challenge 1 : Content. Content. Content.

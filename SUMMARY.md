@@ -98,6 +98,7 @@
 
 ***
 
+* [💯 Challenges : Digital Garden](challenges-digital-garden.md)
 * [Setup Astro](setup-astro.md)
 * [💯 Challenges](digital-garden-final/challenges.md)
 

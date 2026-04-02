@@ -7,72 +7,46 @@
 ## Do
 
 1. Go to your GitHub profile repo e.g. github.com/ewuweblab/ewuweblab/
-2. Open CodeSpace
+2. Open a CodeSpace
 3. Create new file name `practice.md`
 4. Semantically markup the following content using GitHub Flavored Markdown
 
 ```
-My GitHub Project
+Markdown
 
-Quick Start Guide
+Inventor
+"The best way to predict the future is to invent it." - John Gruber
 
-"The best way to predict the future is to invent it." - Alan Kay
+Example Code
+A code example of an unordered list in markdown: 
 
-Installation
-
-To install this project, run the following command:
-
-npm install my-awesome-project
-cd my-awesome-project
-npm start
+- List Item A
+- List Item B
+- List Item C
 
 Features
+The top 3 reasons for Markdown are:
 
-Here's what makes this project great:
-
-1. Fast and efficient
-2. Easy to use
-3. Well documented
-4. Active community support
-5. Regular updates
+Easy to use
+Well documented
+Active community support
 
 Documentation
-
-For more information, visit our official documentation (https://github.com/username/project).
-
-You can also check out the contributing guidelines (https://github.com/username/project/blob/main/CONTRIBUTING.md).
-
-Screenshots
+For more information, visit our official documentation https://github.com/username/project.
 
 Markdown Logo
-https://assets.codepen.io/16425/image-placeholder.png
+https://assets.codepen.io/16425/markdown-logo.png
 
 Tasks
-
 Set up project structure (completed)
 Write initial documentation (completed)
 Add unit tests
-Deploy to production
-Create tutorial videos
 
 Emojis
-
-We love open source! Let's build something amazing together!
-
-Feel free to contribute and don't forget to star the repo!
+We HEARTEMOJI open source! Let's build something amazing together! ROCKETSHIP
 
 Important Notes
-
-NOTE: This is a note alert. Useful for highlighting important information.
-
-TIP: Pro tip: Use keyboard shortcuts to speed up your workflow!
-
-Comparison Table
-
-Feature    Basic Plan    Pro Plan    Enterprise
-Users      1-5           6-50        Unlimited
-Storage    10 GB         100 GB      Custom
-Support    Email         Priority    24/7 Phone
-Price      Free          $29/mo      Contact Us
+NOTE: Markdown will not appear exactly the same on all browsers and platforms. 
 
 ```
+

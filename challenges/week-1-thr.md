@@ -9,7 +9,8 @@
 1. Go to your GitHub profile repo e.g. github.com/ewuweblab/ewuweblab/
 2. Open a CodeSpace
 3. Create new file name `practice.md`
-4. Semantically markup the following content using GitHub Flavored Markdown
+4. Copy the **content** below into `practice.md`
+5. Semantically **markup** the following content using GitHub Flavored **Markdown**
 
 ```
 Markdown

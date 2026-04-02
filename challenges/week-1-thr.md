@@ -1,5 +1,16 @@
 # Week 1 : THR
 
+## Reference
+
+{% embed url="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" %}
+
+## Do
+
+1. Go to your GitHub profile repo e.g. github.com/ewuweblab/ewuweblab/
+2. Open CodeSpace
+3. Create new file name `practice.md`
+4. Semantically markup the following content using GitHub Flavored Markdown
+
 ```
 My GitHub Project
 

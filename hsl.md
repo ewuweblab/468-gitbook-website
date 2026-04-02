@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # HSL
 
 HSL (Hue, Saturation, Lightness) color notation offers several advantages over hexadecimal notation in CSS. Here are the key benefits:

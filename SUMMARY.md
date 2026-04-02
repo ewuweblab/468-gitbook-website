@@ -6,6 +6,14 @@
 
 * [Syllabus](course-information/syllabus.md)
 
+## Challenges
+
+* [Week 1 : THR](challenges/week-1-thr.md)
+
+## Concepts
+
+* [Markdown](concepts/markdown.md)
+
 ***
 
 * [⚙️ Tools and Process](tools-and-process/README.md)
@@ -18,7 +26,6 @@
 
 ## HTML Concepts
 
-* [Markdown](html-concepts/markdown.md)
 * [Picture Element](html-concepts/picture-element.md)
 * [Figure Element](html-concepts/figure-element.md)
 
@@ -100,7 +107,7 @@
 
 * [💯 Challenges : Digital Garden](challenges-digital-garden.md)
 * [Setup Astro](setup-astro.md)
-* [💯 Challenges](digital-garden-final/challenges.md)
+* [💯 Challenges](challenges-1.md)
 
 ## 🔟 10 Takeaways
 

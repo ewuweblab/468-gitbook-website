@@ -1,4 +1,4 @@
-# JS
+# Fetch Data
 
 ## JSON Data
 
@@ -9,8 +9,7 @@
 {% embed url="https://codepen.io/manikoth/pen/WWqXJJ?editors=0010" %}
 
 {% embed url="https://codepen.io/manikoth/pen/eYgboZP" %}
-\
-
+<br>
 {% endembed %}
 
 ## Template Literal

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # (web) APIs
 
 ## What is a web API?

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # URL Query Strings
 
 ## URL Query Strings

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Grid Layouts
 
 > 15 CSS layout challenges exploring the opportunities and intricacies presented by modern CSS layout modules.

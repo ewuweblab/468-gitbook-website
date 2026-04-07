@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Web Design 3](README.md)
+* [Code + Design 3](README.md)
 
 ## Course Information
 
@@ -9,6 +9,7 @@
 ## Challenges
 
 * [Week 1 : THR](challenges/week-1-thr.md)
+* [Week 2 : TUE](challenges/week-2-tue.md)
 
 ## Concepts
 

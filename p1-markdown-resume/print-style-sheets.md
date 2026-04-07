@@ -1,10 +1,8 @@
 # Print Style Sheets
 
-### Resume Example
 
-{% embed url="https://github.com/ewuweblab/resume-example" %}
 
-### Previewing
+## Previewing
 
 This is a cumbersome process. May require lots of refreshing without cache. View results with:&#x20;
 

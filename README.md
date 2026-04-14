@@ -6,9 +6,11 @@
 
 ## Challenges
 
-**Week 2, Tuesday April 7th**
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td>TUE April 14</td><td><a href="https://potpourri-mini-sites.pmanikoth.workers.dev/css-2">CSS 2: Selector Basics</a></td><td></td></tr><tr><td>THR April 9</td><td><a href="https://potpourri-mini-sites.pmanikoth.workers.dev/css-1">CSS 1: CSS Primer</a></td><td></td></tr><tr><td>TUE April 7</td><td><a href="https://potpourri-mini-sites.pmanikoth.workers.dev/rare-html-elements-exercise">Rare HTML Elements</a></td><td></td></tr></tbody></table>
 
 {% embed url="https://potpourri-mini-sites.pmanikoth.workers.dev/rare-html-elements-exercise" %}
+
+**Week 2, Tuesday April 7th**
 
 ## Syllabus
 

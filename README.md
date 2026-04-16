@@ -6,7 +6,7 @@
 
 ## In-Class Challenges
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>TUE April 14</strong></td><td><a href="https://potpourri-mini-sites.pmanikoth.workers.dev/css-2">CSS 2: Selector Basics</a></td><td></td></tr><tr><td>THR April 9</td><td><a href="https://potpourri-mini-sites.pmanikoth.workers.dev/css-1">CSS 1: CSS Primer</a></td><td></td></tr><tr><td>TUE April 7</td><td><a href="https://potpourri-mini-sites.pmanikoth.workers.dev/rare-html-elements-exercise">Rare HTML Elements</a></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>THR April 16</strong></td><td><ul><li><a href="https://potpourri-mini-sites.pmanikoth.workers.dev/css-3">CSS 3: Cascade, Inheritance &#x26; Specificity Exercises</a></li><li><a href="https://codepen.io/manikoth/pen/VeBxJV?editors=1100">Extra Specificity Challenge</a></li></ul></td><td></td></tr><tr><td>TUE April 14</td><td><a href="https://potpourri-mini-sites.pmanikoth.workers.dev/css-2">CSS 2: Selector Basics</a></td><td></td></tr><tr><td>THR April 9</td><td><a href="https://potpourri-mini-sites.pmanikoth.workers.dev/css-1">CSS 1: CSS Primer</a></td><td></td></tr><tr><td>TUE April 7</td><td><a href="https://potpourri-mini-sites.pmanikoth.workers.dev/rare-html-elements-exercise">Rare HTML Elements</a></td><td></td></tr></tbody></table>
 
 ## Syllabus
 

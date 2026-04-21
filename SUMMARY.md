@@ -6,16 +6,6 @@
 
 * [Syllabus](course-information/syllabus.md)
 
-## Challenges
-
-* [Week 1 : THR](challenges/week-1-thr.md)
-* [Week 2 : TUE](challenges/week-2-tue.md)
-
-## Concepts
-
-* [Markdown](concepts/markdown.md)
-* [Physical Web](concepts/physical-web.md)
-
 ***
 
 * [⚙️ Tools and Process](tools-and-process/README.md)
@@ -25,6 +15,11 @@
   * [Text Editor](tools-and-process/text-editor.md)
   * [Version Control](tools-and-process/version-control.md)
   * [Deployment](tools-and-process/deployment.md)
+
+## Concepts
+
+* [Markdown](concepts/markdown.md)
+* [Physical Web](concepts/physical-web.md)
 
 ## HTML Concepts
 
@@ -115,7 +110,7 @@
 
 * [💯 Challenges : Digital Garden](challenges-digital-garden.md)
 * [Setup Astro](setup-astro.md)
-* [💯 Challenges](challenges-1.md)
+* [💯 Challenges](challenges.md)
 
 ## 🔟 10 Takeaways
 

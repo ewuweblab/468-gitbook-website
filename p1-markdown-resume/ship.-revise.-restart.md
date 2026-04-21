@@ -8,9 +8,9 @@ Again (and again). This does **NOT** influence grading, but is a reflection of g
 
 Project is complete and met objectives. Ready to show, promote, and deliver to intended audiences. Version 1.0 is ready to go live!
 
-{% file src="/broken/files/G0Coop5mEVI7Y1mClZa4" %}
+{% file src="../.gitbook/assets/CodeToPDFPractice_TEliason.pdf" %}
 
-{% file src="/broken/files/S7xXLLz22v2Hev2OV11b" %}
+{% file src="../.gitbook/assets/wallace-markdown-resume.pdf" %}
 
 ## [♻️](https://www.notion.so/0b46380355494e829f5aa6b07a946760) Revise it.
 

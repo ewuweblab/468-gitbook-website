@@ -45,10 +45,12 @@
 
 ## JS Concepts
 
-* [Fetch Data](js-concepts/fetch-data.md)
 * [Objects](js-essential-training/objects/README.md)
   * [Object Properties](js-essential-training/objects/object-properties.md)
   * [Object Methods](js-essential-training/objects/object-methods.md)
+* [DOM Manipulation](js-concepts/dom-manipulation.md)
+* [Template Literals](js-concepts/template-literals.md)
+* [Fetch Data](js-concepts/fetch-data.md)
 
 ***
 

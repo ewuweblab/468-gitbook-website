@@ -64,6 +64,7 @@
 
 * [Markdown Resume](markdown-resume/README.md)
   * [Overview](markdown-resume/overview.md)
+  * [vCard Generator](markdown-resume/vcard-generator.md)
   * [💯 Challenges : Markdown Resume](p1-markdown-resume/challenges-markdown-resume.md)
   * [🎉 Ship. Revise. Restart](p1-markdown-resume/ship.-revise.-restart.md)
 * [PX : Design System (Astro)](px-design-system-astro/README.md)

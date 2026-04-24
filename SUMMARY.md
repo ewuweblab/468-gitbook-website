@@ -28,6 +28,7 @@
 
 ## CSS Concepts
 
+* [CSS Fundamentals](css-concepts/css-fundamentals.md)
 * [Print Style Sheets](p1-markdown-resume/print-style-sheets.md)
 * [CSS Primer](css-concepts/css-primer.md)
 * [Grid Layouts](css-concepts/grid-layouts.md)
@@ -40,6 +41,7 @@
 
 ## JS Concepts
 
+* [JS Fundamentals](js-concepts/js-fundamentals.md)
 * [Objects](js-essential-training/objects/README.md)
   * [Object Properties](js-essential-training/objects/object-properties.md)
   * [Object Methods](js-essential-training/objects/object-methods.md)

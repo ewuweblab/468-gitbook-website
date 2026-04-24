@@ -1,0 +1,425 @@
+1
+00:00:00,006 --> 00:00:02,000
+- [Instructor] Welcome back.
+
+2
+00:00:02,000 --> 00:00:06,006
+Today we're going to learn about closures in JavaScript.
+
+3
+00:00:06,006 --> 00:00:11,000
+Closures are a powerful feature that allow an inner function
+
+4
+00:00:11,000 --> 00:00:13,007
+to access variables from its outer function.
+
+5
+00:00:13,007 --> 00:00:16,003
+This is especially useful for managing state
+
+6
+00:00:16,003 --> 00:00:20,001
+and keeping track of data over time.
+
+7
+00:00:20,001 --> 00:00:23,003
+Let's learn a little bit more about closures.
+
+8
+00:00:23,003 --> 00:00:26,004
+A closure is a function that remembers the variables
+
+9
+00:00:26,004 --> 00:00:28,006
+from the place where it was created,
+
+10
+00:00:28,006 --> 00:00:32,000
+even when the function is executed in a different context.
+
+11
+00:00:32,000 --> 00:00:33,008
+Think of it like a backpack.
+
+
+12
+00:00:33,008 --> 00:00:35,005
+When the function is created,
+
+13
+00:00:35,005 --> 00:00:38,000
+it packs some variables in its backpack.
+
+14
+00:00:38,000 --> 00:00:39,006
+No matter where the function goes,
+
+15
+00:00:39,006 --> 00:00:42,006
+it carries those variables with it.
+
+16
+00:00:42,006 --> 00:00:45,000
+Let's talk about why we need closures.
+
+17
+00:00:45,000 --> 00:00:47,005
+I mentioned before that closures allow us
+
+18
+00:00:47,005 --> 00:00:49,006
+to keep track of data over time,
+
+19
+00:00:49,006 --> 00:00:53,002
+and this is really key in situations where we're working
+
+20
+00:00:53,002 --> 00:00:55,008
+with asynchronous operations,
+
+21
+00:00:55,008 --> 00:00:57,006
+which we'll learn about a little later,
+
+22
+00:00:57,006 --> 00:01:01,002
+or when dealing with event listeners.
+
+23
+00:01:01,002 --> 00:01:04,000
+In our draggable terrarium, we need to keep track
+
+24
+00:01:04,000 --> 00:01:05,004
+of the position of the mouse
+
+25
+00:01:05,004 --> 00:01:08,001
+and the element while it's being dragged.
+
+
+26
+00:01:08,001 --> 00:01:11,001
+So what we'll need to do is keep track of some state
+
+27
+00:01:11,001 --> 00:01:15,001
+between the start and end of this operation,
+
+28
+00:01:15,001 --> 00:01:20,007
+and this is where our closure will be particularly useful.
+
+29
+00:01:20,007 --> 00:01:24,009
+In our last lesson, we talked about event handling
+
+30
+00:01:24,009 --> 00:01:27,000
+and how specific functions carry out
+
+31
+00:01:27,000 --> 00:01:30,006
+specific event handling tasks for us.
+
+32
+00:01:30,006 --> 00:01:34,004
+As we can see in our code, quite a few of our functions here
+
+33
+00:01:34,004 --> 00:01:37,006
+need to know the mouse position.
+
+34
+00:01:37,006 --> 00:01:40,001
+However, dragElement is a function
+
+35
+00:01:40,001 --> 00:01:43,009
+that stores our cursor position variables.
+
+
+36
+00:01:43,009 --> 00:01:46,001
+How can we reconfigure our code
+
+37
+00:01:46,001 --> 00:01:48,007
+so that all functions have access
+
+38
+00:01:48,007 --> 00:01:52,001
+to these four position variables?
+
+39
+00:01:52,001 --> 00:01:54,001
+This is where closures come in.
+
+40
+00:01:54,001 --> 00:01:58,004
+We said that closures consist of outer and inner functions.
+
+41
+00:01:58,004 --> 00:02:00,004
+So in this case, since dragElement
+
+42
+00:02:00,004 --> 00:02:02,004
+is storing these four variables,
+
+43
+00:02:02,004 --> 00:02:06,009
+we'll want to make dragElement the outer function.
+
+44
+00:02:06,009 --> 00:02:08,003
+So let's get coding.
+
+45
+00:02:08,003 --> 00:02:11,001
+First thing I'm going to do is take my cursor over here
+
+46
+00:02:11,001 --> 00:02:13,003
+and confirm that the curly braces
+
+47
+00:02:13,003 --> 00:02:17,007
+for my dragElement function are where I expect them to be.
+
+
+48
+00:02:17,007 --> 00:02:20,007
+I can rely on Visual Studio Code to do this.
+
+49
+00:02:20,007 --> 00:02:23,002
+And I can see here that when I put my cursor
+
+50
+00:02:23,002 --> 00:02:25,004
+next to my closing curly brace,
+
+51
+00:02:25,004 --> 00:02:28,004
+my opening curly brace is highlighted.
+
+52
+00:02:28,004 --> 00:02:31,006
+Since I verified my closing curly brace,
+
+53
+00:02:31,006 --> 00:02:34,008
+I'll go ahead and delete that curly brace.
+
+54
+00:02:34,008 --> 00:02:38,007
+Then I'll scroll all the way to the bottom
+
+55
+00:02:38,007 --> 00:02:42,006
+and add my closing curly brace at the bottom of my code.
+
+56
+00:02:42,006 --> 00:02:46,001
+You probably notice that when I deleted that curly brace,
+
+57
+00:02:46,001 --> 00:02:48,008
+I had a bunch of squiggly lines all over my code.
+
+
+58
+00:02:48,008 --> 00:02:51,008
+That's just letting me know I'm missing a line of code.
+
+59
+00:02:51,008 --> 00:02:54,008
+Visual Studio Code is really great at letting us know
+
+60
+00:02:54,008 --> 00:02:56,008
+when our syntax is off.
+
+61
+00:02:56,008 --> 00:03:00,002
+Okay, so I've added my curly brace,
+
+62
+00:03:00,002 --> 00:03:02,001
+and now all of my inner functions
+
+63
+00:03:02,001 --> 00:03:05,007
+are inside of the dragElement outer function.
+
+64
+00:03:05,007 --> 00:03:08,007
+We've successfully created closure.
+
+65
+00:03:08,007 --> 00:03:11,004
+Let's go back to that backpack analogy.
+
+66
+00:03:11,004 --> 00:03:14,002
+You put your items, which we can consider as variables
+
+67
+00:03:14,002 --> 00:03:17,007
+in your backpack, which is our closure.
+
+68
+00:03:17,007 --> 00:03:20,002
+So during our trip, no matter where you are,
+
+69
+00:03:20,002 --> 00:03:22,002
+you can take your items out of your backpack
+
+70
+00:03:22,002 --> 00:03:24,000
+when it's needed.
+
+
+71
+00:03:24,000 --> 00:03:27,002
+And in this case, the functions inside dragElement
+
+72
+00:03:27,002 --> 00:03:29,002
+carry the position variables with them
+
+73
+00:03:29,002 --> 00:03:33,006
+and use them as needed during the dragging process.
+
+74
+00:03:33,006 --> 00:03:36,008
+So in the case of a function like elementDrag,
+
+75
+00:03:36,008 --> 00:03:40,001
+which is called repeatedly adjusting the element's position,
+
+76
+00:03:40,001 --> 00:03:43,008
+it uses the same pos1, 2, 3, and 4 variables
+
+77
+00:03:43,008 --> 00:03:46,008
+to calculate the new position.
+
+78
+00:03:46,008 --> 00:03:51,007
+This is the case for pointerDrag as well as stopElementDrag.
+
+79
+00:03:51,007 --> 00:03:53,002
+One last step I want to take here
+
+80
+00:03:53,002 --> 00:03:56,003
+is move the two dragElement function calls
+
+81
+00:03:56,003 --> 00:04:01,003
+on line six and seven outside of my closure.
+
+
+82
+00:04:01,003 --> 00:04:05,001
+I hope you understand now why these two lines of code
+
+83
+00:04:05,001 --> 00:04:07,008
+didn't work in our prior lesson.
+
+84
+00:04:07,008 --> 00:04:10,002
+Without closures, the inner functions
+
+85
+00:04:10,002 --> 00:04:12,004
+would lose track of the position variables,
+
+86
+00:04:12,004 --> 00:04:15,008
+and the drag and drop functionality wouldn't work.
+
+87
+00:04:15,008 --> 00:04:18,007
+Closures allow these inner functions to maintain access
+
+88
+00:04:18,007 --> 00:04:20,005
+to the necessary variables,
+
+89
+00:04:20,005 --> 00:04:24,007
+ensuring the elements can be correctly dragged and dropped.
+
+90
+00:04:24,007 --> 00:04:27,004
+So let's go ahead and give our terrarium a spin.
+
+91
+00:04:27,004 --> 00:04:31,000
+We can see in our code here that only plant1 and plant2
+
+92
+00:04:31,000 --> 00:04:33,002
+are draggable at this time.
+
+
+93
+00:04:33,002 --> 00:04:35,007
+And don't worry, we'll fix this up soon
+
+94
+00:04:35,007 --> 00:04:40,004
+so that the other plants also have the same functionality.
+
+95
+00:04:40,004 --> 00:04:43,007
+For now, let's test plants one and two,
+
+96
+00:04:43,007 --> 00:04:49,004
+and those plants are at the top left of our page.
+
+97
+00:04:49,004 --> 00:04:52,002
+And we can see here that we were easily able
+
+98
+00:04:52,002 --> 00:04:56,007
+to drag our two plants into our terrarium.
+
+99
+00:04:56,007 --> 00:04:58,004
+We can also see that we can't drag
+
+100
+00:04:58,004 --> 00:05:02,007
+these other plants quite yet, but we'll get there shortly.
+
+101
+00:05:02,007 --> 00:05:06,007
+Congratulations, we've made our terrarium interactive,
+
+102
+00:05:06,007 --> 00:05:08,004
+thanks to closures.
+
+
+103
+00:05:08,004 --> 00:05:10,007
+In the next lesson, we'll put it all together.
+
+104
+00:05:10,007 --> 00:05:20,007
+See you there.
+

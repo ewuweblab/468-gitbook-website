@@ -1,0 +1,719 @@
+1
+00:00:00,005 --> 00:00:01,006
+- [Instructor] Today, we're going to learn
+
+2
+00:00:01,006 --> 00:00:05,000
+about event handling in JavaScript.
+
+3
+00:00:05,000 --> 00:00:07,003
+Event handling allows us to listen for and respond
+
+4
+00:00:07,003 --> 00:00:11,009
+to user actions like clicks, drags and more.
+
+5
+00:00:11,009 --> 00:00:16,003
+This is a key part of making our webpage interactive.
+
+6
+00:00:16,003 --> 00:00:18,006
+In this lesson, we'll add event listeners
+
+7
+00:00:18,006 --> 00:00:21,004
+to our plant elements to handle the drag event.
+
+8
+00:00:21,004 --> 00:00:25,001
+we'll update our script.js file to listen for when the user
+
+9
+00:00:25,001 --> 00:00:28,006
+clicks on a plant element and starts dragging it.
+
+10
+00:00:28,006 --> 00:00:32,003
+Before we continue on, let's talk about event listeners.
+
+11
+00:00:32,003 --> 00:00:33,006
+Event listeners are functions
+
+12
+00:00:33,006 --> 00:00:36,006
+that wait for specific events to occur,
+
+13
+00:00:36,006 --> 00:00:38,006
+and then execute a predefined code
+
+14
+00:00:38,006 --> 00:00:41,008
+in response to those events.
+
+
+15
+00:00:41,008 --> 00:00:45,009
+Let's break down some key components of event listeners.
+
+16
+00:00:45,009 --> 00:00:48,008
+First, there's event types.
+
+17
+00:00:48,008 --> 00:00:51,006
+Events in JavaScript can be triggered by user interactions
+
+18
+00:00:51,006 --> 00:00:54,000
+like clicks or key presses,
+
+19
+00:00:54,000 --> 00:00:58,003
+or even changes in the document, like resizing.
+
+20
+00:00:58,003 --> 00:01:00,008
+Next, there's targets.
+
+21
+00:01:00,008 --> 00:01:02,002
+Every event is associated
+
+22
+00:01:02,002 --> 00:01:06,000
+with a particular element in the DOM.
+
+23
+00:01:06,000 --> 00:01:08,001
+We call this the event target.
+
+24
+00:01:08,001 --> 00:01:10,007
+For example, if you click on a button,
+
+25
+00:01:10,007 --> 00:01:15,001
+the button is the event target for the click event.
+
+
+26
+00:01:15,001 --> 00:01:17,009
+Next is the event handler function.
+
+27
+00:01:17,009 --> 00:01:19,007
+It contains code that should be executed
+
+28
+00:01:19,007 --> 00:01:24,000
+when that particular event occurs.
+
+29
+00:01:24,000 --> 00:01:26,007
+Another crucial step in event handling
+
+30
+00:01:26,007 --> 00:01:30,000
+is adding the event listener.
+
+31
+00:01:30,000 --> 00:01:31,006
+And this process really is about attaching
+
+32
+00:01:31,006 --> 00:01:36,006
+an event listener to a particular element.
+
+33
+00:01:36,006 --> 00:01:39,001
+In our code, we'll add an event listener
+
+34
+00:01:39,001 --> 00:01:42,004
+for the pointer down event.
+
+35
+00:01:42,004 --> 00:01:45,001
+This event is triggered when the user presses
+
+36
+00:01:45,001 --> 00:01:49,000
+a pointer button like a mouse click on the element.
+
+
+37
+00:01:49,000 --> 00:01:51,007
+Notice, the onpointerdown property
+
+38
+00:01:51,007 --> 00:01:54,004
+is set to our pointerDrag function.
+
+39
+00:01:54,004 --> 00:01:58,004
+This is notated by the equal sign in between the two.
+
+40
+00:01:58,004 --> 00:02:01,003
+We haven't created our pointerDrag function yet,
+
+41
+00:02:01,003 --> 00:02:03,001
+but we'll do that next.
+
+42
+00:02:03,001 --> 00:02:07,000
+What pointerDrag will do will handle the initial actions
+
+43
+00:02:07,000 --> 00:02:09,008
+when the user starts dragging the element.
+
+44
+00:02:09,008 --> 00:02:14,000
+So, let's go ahead and add it now.
+
+45
+00:02:14,000 --> 00:02:17,000
+Our pointerDrag function is ready to go.
+
+46
+00:02:17,000 --> 00:02:17,008
+The pointerDrag function
+
+47
+00:02:17,008 --> 00:02:22,002
+takes an event object (e) as its parameter.
+
+
+48
+00:02:22,002 --> 00:02:24,003
+The e.preventDefault method
+
+49
+00:02:24,003 --> 00:02:26,008
+prevents any default actions that might occur
+
+50
+00:02:26,008 --> 00:02:29,002
+when the event is triggered.
+
+51
+00:02:29,002 --> 00:02:32,000
+The console.log statement logs the event object
+
+52
+00:02:32,000 --> 00:02:36,006
+to the console, which is useful for debugging.
+
+53
+00:02:36,006 --> 00:02:40,004
+Let's break this function down even further.
+
+54
+00:02:40,004 --> 00:02:43,008
+First, let's talk about the parameter (e).
+
+55
+00:02:43,008 --> 00:02:47,003
+This parameter represents the event object.
+
+56
+00:02:47,003 --> 00:02:49,002
+It contains information about the event
+
+57
+00:02:49,002 --> 00:02:51,002
+that triggered the function.
+
+
+58
+00:02:51,002 --> 00:02:55,007
+In this case, the event is a pointer or mouse press.
+
+59
+00:02:55,007 --> 00:02:58,007
+You're probably wondering, what's an object?
+
+60
+00:02:58,007 --> 00:03:00,007
+Objects allow you to store multiple values
+
+61
+00:03:00,007 --> 00:03:03,004
+in a single variable.
+
+62
+00:03:03,004 --> 00:03:06,002
+Each are identified by a unique key
+
+63
+00:03:06,002 --> 00:03:09,006
+and come in a collection of key value pairs.
+
+64
+00:03:09,006 --> 00:03:11,007
+Objects are used to model and represent
+
+65
+00:03:11,007 --> 00:03:15,000
+real world entities and their properties,
+
+66
+00:03:15,000 --> 00:03:19,004
+making it easier to manage and manipulate related data.
+
+67
+00:03:19,004 --> 00:03:22,003
+Another key point about objects,
+
+68
+00:03:22,003 --> 00:03:25,000
+especially as they relate to events,
+
+69
+00:03:25,000 --> 00:03:29,000
+is that objects come with predefined functions,
+
+70
+00:03:29,000 --> 00:03:31,007
+also maybe known as methods.
+
+
+71
+00:03:31,007 --> 00:03:36,006
+Objects also come with methods or functions.
+
+72
+00:03:36,006 --> 00:03:38,003
+And functions when they relate to objects
+
+73
+00:03:38,003 --> 00:03:42,002
+have a specific mission and goal.
+
+74
+00:03:42,002 --> 00:03:44,000
+For example, we've been working
+
+75
+00:03:44,000 --> 00:03:47,002
+with document.getElementById.
+
+76
+00:03:47,002 --> 00:03:51,000
+getElementByIdwhich is part of the document object
+
+77
+00:03:51,000 --> 00:03:55,008
+looks in the DOM for an element of a particular ID,
+
+78
+00:03:55,008 --> 00:03:57,008
+in the case of our plants.
+
+79
+00:03:57,008 --> 00:04:02,003
+That brings us to the e.preventDefault line.
+
+80
+00:04:02,003 --> 00:04:05,003
+This line prevents the default behavior of the event.
+
+
+81
+00:04:05,003 --> 00:04:08,002
+For instance, when you click and drag an image,
+
+82
+00:04:08,002 --> 00:04:12,001
+the browser might try to drag the image as a default action.
+
+83
+00:04:12,001 --> 00:04:13,002
+We don't want that to happen,
+
+84
+00:04:13,002 --> 00:04:16,005
+so we use this line to stop it.
+
+85
+00:04:16,005 --> 00:04:19,004
+Next, we log the event.
+
+86
+00:04:19,004 --> 00:04:22,002
+This logs the event object to the console.
+
+87
+00:04:22,002 --> 00:04:25,002
+The console is a tool built in the browsers
+
+88
+00:04:25,002 --> 00:04:27,002
+that allows developers to see information
+
+89
+00:04:27,002 --> 00:04:29,004
+about their code as it runs.
+
+90
+00:04:29,004 --> 00:04:33,000
+You might have seen a little bit of this in the CSS chapter.
+
+91
+00:04:33,000 --> 00:04:36,007
+By logging e, we can see details about the pointer event,
+
+92
+00:04:36,007 --> 00:04:39,000
+which is useful for debugging and understanding
+
+93
+00:04:39,000 --> 00:04:42,000
+what's happening when the function is triggered.
+
+
+94
+00:04:42,000 --> 00:04:44,002
+We'll see this in action shortly.
+
+95
+00:04:44,002 --> 00:04:48,002
+Next, we're using the pos3 and the pos4 variables
+
+96
+00:04:48,002 --> 00:04:51,000
+that we defined earlier.
+
+97
+00:04:51,000 --> 00:04:54,000
+Remember, pos3 and the pos4
+
+98
+00:04:54,000 --> 00:04:59,007
+store the current cursor position on the X and Y axis.
+
+99
+00:04:59,007 --> 00:05:02,000
+Summing up what these lines do,
+
+100
+00:05:02,000 --> 00:05:05,005
+they store the initial position of the mouse cursor.
+
+101
+00:05:05,005 --> 00:05:10,000
+So, e.clientX gives a horizontal coordinate
+
+102
+00:05:10,000 --> 00:05:13,002
+on the X axis of the mouse pointer.
+
+
+103
+00:05:13,002 --> 00:05:18,009
+And e.clientY gives a vertical coordinate or on the Y axis.
+
+104
+00:05:18,009 --> 00:05:21,009
+This all happens when the event occurs.
+
+105
+00:05:21,009 --> 00:05:23,009
+We save them in our variables
+
+106
+00:05:23,009 --> 00:05:27,009
+and this helps us calculate how far the cursor moves.
+
+107
+00:05:27,009 --> 00:05:30,004
+Finally, in these last two lines,
+
+108
+00:05:30,004 --> 00:05:34,000
+we're setting up event listeners for dragging.
+
+109
+00:05:34,000 --> 00:05:35,002
+The first one,
+
+110
+00:05:35,002 --> 00:05:39,004
+onpointermove means that while the pointer is moving,
+
+111
+00:05:39,004 --> 00:05:43,004
+the element drag function will be called continuously.
+
+112
+00:05:43,004 --> 00:05:45,000
+This function will handle updating
+
+113
+00:05:45,000 --> 00:05:48,004
+the position of the elements as you drag it.
+
+
+114
+00:05:48,004 --> 00:05:51,007
+The way that document.onpointerup works
+
+115
+00:05:51,007 --> 00:05:54,004
+is that when you release the pointer button,
+
+116
+00:05:54,004 --> 00:05:58,002
+the stopElementDrag function will be called.
+
+117
+00:05:58,002 --> 00:06:01,007
+And this function will stop the dragging process.
+
+118
+00:06:01,007 --> 00:06:03,004
+We haven't written these functions yet,
+
+119
+00:06:03,004 --> 00:06:08,007
+so let's go ahead and do that.
+
+120
+00:06:08,007 --> 00:06:10,007
+Let's break down what these two functions,
+
+121
+00:06:10,007 --> 00:06:14,000
+elementDrag and stopElementDrag do.
+
+122
+00:06:14,000 --> 00:06:17,000
+elementDrag is responsible for updating the position
+
+123
+00:06:17,000 --> 00:06:20,007
+of the terrariumElement as a user drags it.
+
+
+124
+00:06:20,007 --> 00:06:25,000
+First, it calculates the new cursor position.
+
+125
+00:06:25,000 --> 00:06:26,007
+The math here that you're seeing
+
+126
+00:06:26,007 --> 00:06:29,004
+represents how much the mouse has moved
+
+127
+00:06:29,004 --> 00:06:32,004
+since the last mouse move event.
+
+128
+00:06:32,004 --> 00:06:34,009
+And then in the next two lines,
+
+129
+00:06:34,009 --> 00:06:38,009
+we update the stored cursor position.
+
+130
+00:06:38,009 --> 00:06:43,000
+The next two lines are responsible for moving the element.
+
+131
+00:06:43,000 --> 00:06:49,004
+And here, we're actually manipulating the DOM through CSS.
+
+132
+00:06:49,004 --> 00:06:53,002
+terrariumElement.style.top sets the top position
+
+133
+00:06:53,002 --> 00:06:56,004
+of the element by adjusting its current top position
+
+134
+00:06:56,004 --> 00:07:00,002
+by the amount the mouse has moved vertically.
+
+
+135
+00:07:00,002 --> 00:07:03,007
+terrariumElement.style.left does the same thing
+
+136
+00:07:03,007 --> 00:07:06,002
+except on the left position.
+
+137
+00:07:06,002 --> 00:07:09,002
+So it adjusts its current left position
+
+138
+00:07:09,002 --> 00:07:13,002
+by the amount the mouse has moved horizontally.
+
+139
+00:07:13,002 --> 00:07:15,004
+And all this really here is doing
+
+140
+00:07:15,004 --> 00:07:19,004
+is moving the element to follow the mouse movement.
+
+141
+00:07:19,004 --> 00:07:21,005
+So, every time you drag a plant,
+
+142
+00:07:21,005 --> 00:07:24,004
+it follows your mouse cursor.
+
+143
+00:07:24,004 --> 00:07:26,007
+Let's talk about stopElementDrag.
+
+144
+00:07:26,007 --> 00:07:29,007
+This function is responsible for stopping
+
+145
+00:07:29,007 --> 00:07:33,007
+the drag operation when the user releases the mouse button.
+
+
+146
+00:07:33,007 --> 00:07:37,002
+onpointerup = null removes the event listener
+
+147
+00:07:37,002 --> 00:07:39,007
+for the pointer up event.
+
+148
+00:07:39,007 --> 00:07:40,007
+And what this really means
+
+149
+00:07:40,007 --> 00:07:42,004
+is that the stopElementDrag function
+
+150
+00:07:42,004 --> 00:07:47,002
+will no longer be called when the mouse button is released.
+
+151
+00:07:47,002 --> 00:07:49,002
+Same thing for onpointermove.
+
+152
+00:07:49,002 --> 00:07:52,009
+It removes the event listener for the pointermove event
+
+153
+00:07:52,009 --> 00:07:55,007
+so that the elementDrag function will no longer be called
+
+154
+00:07:55,007 --> 00:07:57,007
+when the mouse moves.
+
+155
+00:07:57,007 --> 00:08:00,004
+All this really means here is that the element
+
+156
+00:08:00,004 --> 00:08:02,002
+will stay in its new position,
+
+157
+00:08:02,002 --> 00:08:05,004
+and no further updates to its position will be made
+
+158
+00:08:05,004 --> 00:08:09,002
+until a new drag operation is initiated.
+
+
+159
+00:08:09,002 --> 00:08:11,004
+And that's it for this lesson.
+
+160
+00:08:11,004 --> 00:08:15,000
+If we go ahead and try and run our terrarium,
+
+161
+00:08:15,000 --> 00:08:20,000
+what we'll find is that things don't work quite yet,
+
+162
+00:08:20,000 --> 00:08:21,005
+and that's okay.
+
+163
+00:08:21,005 --> 00:08:23,004
+We have a couple more steps here
+
+164
+00:08:23,004 --> 00:08:27,004
+before we make this terrarium come to life.
+
+165
+00:08:27,004 --> 00:08:30,000
+In this lesson, we learned about event handling
+
+166
+00:08:30,000 --> 00:08:33,004
+and added event listeners to our plant elements.
+
+167
+00:08:33,004 --> 00:08:35,005
+This allows us to respond to user actions
+
+168
+00:08:35,005 --> 00:08:38,003
+like clicks and drags.
+
+
+169
+00:08:38,003 --> 00:08:40,001
+We spent a lot of time here
+
+170
+00:08:40,001 --> 00:08:43,006
+and that's because understanding event handling is crucial
+
+171
+00:08:43,006 --> 00:08:46,008
+for creating interactive webpage.
+
+172
+00:08:46,008 --> 00:08:49,001
+In the next lesson, we'll talk a little bit more
+
+173
+00:08:49,001 --> 00:08:51,001
+about things we need to add
+
+174
+00:08:51,001 --> 00:08:54,003
+to make our terrarium come to life.
+
+175
+00:08:54,003 --> 00:08:56,000
+And that'll be closures.
+
+176
+00:08:56,000 --> 00:09:06,000
+See you soon.
+

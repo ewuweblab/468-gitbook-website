@@ -1,0 +1,257 @@
+1
+00:00:00,001 --> 00:00:03,005
+- [Instructor] Today, I have a special topic for you.
+
+2
+00:00:03,005 --> 00:00:05,009
+Today, we're going to learn about manipulating the DOM
+
+3
+00:00:05,009 --> 00:00:07,001
+using JavaScript.
+
+4
+00:00:07,001 --> 00:00:11,000
+The DOM or Document Object Model represents the structure
+
+5
+00:00:11,000 --> 00:00:13,005
+of our webpage as a tree of objects.
+
+6
+00:00:13,005 --> 00:00:16,007
+JavaScript allows us to interact with the DOM,
+
+7
+00:00:16,007 --> 00:00:19,001
+making our webpages dynamic and interactive.
+
+8
+00:00:19,001 --> 00:00:22,003
+In this lesson, we'll use JavaScript
+
+9
+00:00:22,003 --> 00:00:24,007
+to select our plant elements by their Id,
+
+10
+00:00:24,007 --> 00:00:28,000
+so we can make them draggable.
+
+11
+00:00:28,000 --> 00:00:31,007
+Recall in our HTML chapter that we gave
+
+12
+00:00:31,007 --> 00:00:35,002
+all of our elements, these Id attributes.
+
+
+13
+00:00:35,002 --> 00:00:37,003
+Those are going to come into play now.
+
+14
+00:00:37,003 --> 00:00:40,006
+So let's get into it.
+
+15
+00:00:40,006 --> 00:00:42,008
+Here in our script.js file,
+
+16
+00:00:42,008 --> 00:00:45,009
+we'll be using the document.getElementbyId
+
+17
+00:00:45,009 --> 00:00:48,002
+method to select our plant elements.
+
+18
+00:00:48,002 --> 00:00:51,006
+Let's add our line of code and talk about it.
+
+19
+00:00:51,006 --> 00:00:55,009
+What document.getElementbId does
+
+20
+00:00:55,009 --> 00:00:57,006
+is it looks for an element
+
+21
+00:00:57,006 --> 00:01:01,000
+with a matching Id in the parentheses.
+
+22
+00:01:01,000 --> 00:01:03,002
+This method returns the HTML element
+
+23
+00:01:03,002 --> 00:01:05,001
+with the specified Id.
+
+
+24
+00:01:05,001 --> 00:01:08,004
+Let's repeat this process for plant two.
+
+25
+00:01:08,004 --> 00:01:12,004
+What I've done here is copied line five, pasted it below
+
+26
+00:01:12,004 --> 00:01:15,007
+and updated the plant one string to plant two.
+
+27
+00:01:15,007 --> 00:01:19,009
+So now, here in this code, we'll be seeking elements
+
+28
+00:01:19,009 --> 00:01:25,007
+with an Id of plant one and an Id of plant two.
+
+29
+00:01:25,007 --> 00:01:27,007
+Let's take a step back
+
+30
+00:01:27,007 --> 00:01:30,009
+and talk a little bit more about functions and what they do.
+
+31
+00:01:30,009 --> 00:01:33,000
+We talked about how functions can take
+
+32
+00:01:33,000 --> 00:01:35,004
+in a particular thing called a parameter.
+
+33
+00:01:35,004 --> 00:01:38,006
+And in our case is taking in a terrarium element.
+
+
+34
+00:01:38,006 --> 00:01:42,003
+Here, we're actually using it.
+
+35
+00:01:42,003 --> 00:01:44,007
+So here, on line five and six,
+
+36
+00:01:44,007 --> 00:01:47,007
+we're passing the HTML elements with the Id
+
+37
+00:01:47,007 --> 00:01:52,004
+of plant one or plant two into drag element.
+
+38
+00:01:52,004 --> 00:01:54,009
+So now, these elements will be these
+
+39
+00:01:54,009 --> 00:01:59,006
+particular terrarium elements here.
+
+40
+00:01:59,006 --> 00:02:00,007
+In the function definition,
+
+41
+00:02:00,007 --> 00:02:03,006
+the terrarium element is called a parameter.
+
+42
+00:02:03,006 --> 00:02:07,007
+And here in the function when we're using it,
+
+43
+00:02:07,007 --> 00:02:11,003
+also known as calling it, we put the actual value
+
+44
+00:02:11,003 --> 00:02:14,008
+of the parameter.
+
+
+45
+00:02:14,008 --> 00:02:17,002
+And at this point it's called an argument
+
+46
+00:02:17,002 --> 00:02:18,001
+inside the parentheses.
+
+47
+00:02:18,001 --> 00:02:20,007
+And so, to work with a function
+
+48
+00:02:20,007 --> 00:02:23,004
+and to actually run the code that's inside of it,
+
+49
+00:02:23,004 --> 00:02:26,008
+in between the curly braces, we write down its name,
+
+50
+00:02:26,008 --> 00:02:29,001
+we add a pair of parentheses,
+
+51
+00:02:29,001 --> 00:02:32,003
+and if there's a parameter that needs to be passed in,
+
+52
+00:02:32,003 --> 00:02:35,003
+we put it in between the parentheses.
+
+53
+00:02:35,003 --> 00:02:37,006
+So let's wrap it up.
+
+54
+00:02:37,006 --> 00:02:40,007
+We learned about manipulating the DOM using JavaScript.
+
+55
+00:02:40,007 --> 00:02:44,001
+We use the document.getElementbyId method
+
+56
+00:02:44,001 --> 00:02:46,004
+to select our plant elements by their Id
+
+57
+00:02:46,004 --> 00:02:49,001
+and called the drag element function to make them draggable.
+
+
+58
+00:02:49,001 --> 00:02:52,008
+Understanding how to manipulate the DOM is essential
+
+59
+00:02:52,008 --> 00:02:55,004
+for creating dynamic and interactive webpages.
+
+60
+00:02:55,004 --> 00:02:57,003
+It's a lot of fun.
+
+61
+00:02:57,003 --> 00:02:59,008
+In the next lesson, we'll learn about event handling
+
+62
+00:02:59,008 --> 00:03:01,007
+and how to respond to user actions.
+
+63
+00:03:01,007 --> 00:03:11,007
+Stay tuned.
+

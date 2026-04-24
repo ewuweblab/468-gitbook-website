@@ -1,0 +1,228 @@
+1
+00:00:00,005 --> 00:00:02,001
+- [Instructor] So let's get back to our code
+
+2
+00:00:02,001 --> 00:00:04,008
+and add the functionality we need to make
+
+3
+00:00:04,008 --> 00:00:09,000
+the rest of our plants draggable.
+
+4
+00:00:09,000 --> 00:00:11,007
+We're back in our script.js file.
+
+5
+00:00:11,007 --> 00:00:14,006
+As we know, we've already added draggable functionality
+
+6
+00:00:14,006 --> 00:00:18,007
+to plant one and plant two with the drag element function.
+
+7
+00:00:18,007 --> 00:00:21,007
+All we need to do at this point is do the same thing
+
+8
+00:00:21,007 --> 00:00:26,004
+for the 12 other plants, and at this point,
+
+9
+00:00:26,004 --> 00:00:29,003
+copy and paste is our best friend.
+
+10
+00:00:29,003 --> 00:00:31,001
+So let's get to it.
+
+11
+00:00:31,001 --> 00:00:33,003
+I'm going to take a different approach here
+
+12
+00:00:33,003 --> 00:00:37,008
+and copy these two lines of code
+
+13
+00:00:37,008 --> 00:00:39,000
+and paste them,
+
+14
+00:00:39,000 --> 00:00:42,000
+because we have a lot of plants to add here.
+
+
+15
+00:00:42,000 --> 00:00:51,000
+So, 2, 4, 6, 8, 10, 12, 14.
+
+16
+00:00:51,000 --> 00:00:54,000
+We should have 14 lines of code here.
+
+17
+00:00:54,000 --> 00:00:56,002
+Just counting my lines here.
+
+18
+00:00:56,002 --> 00:01:00,005
+One, two, three, four, five, six, seven, eight, nine,
+
+19
+00:01:00,005 --> 00:01:04,006
+10, 11, 12, 13, 14.
+
+20
+00:01:04,006 --> 00:01:06,007
+Perfect.
+
+21
+00:01:06,007 --> 00:01:11,001
+And now I just need to renumber my plants.
+
+22
+00:01:11,001 --> 00:01:12,003
+If you're curious at this point,
+
+23
+00:01:12,003 --> 00:01:15,004
+you could try and experiment with this code,
+
+24
+00:01:15,004 --> 00:01:17,004
+but the functionality should remain the same.
+
+
+25
+00:01:17,004 --> 00:01:21,009
+Only plant one and plant two will be draggable.
+
+26
+00:01:21,009 --> 00:01:23,003
+And there we are.
+
+27
+00:01:23,003 --> 00:01:26,003
+All of our plants should be draggable at this point
+
+28
+00:01:26,003 --> 00:01:29,001
+because they've all been added as arguments
+
+29
+00:01:29,001 --> 00:01:31,001
+for the drag element function.
+
+30
+00:01:31,001 --> 00:01:35,004
+So they all should respond to my dragging behavior.
+
+31
+00:01:35,004 --> 00:01:36,007
+Let's give it a try.
+
+32
+00:01:36,007 --> 00:01:52,007
+After a refresh, we're giving our terrarium a spin.
+
+33
+00:01:52,007 --> 00:01:54,009
+I'm taking a moment here to be a little creative
+
+34
+00:01:54,009 --> 00:01:57,007
+with my terrarium,
+
+35
+00:01:57,007 --> 00:02:00,009
+make it look nice and pretty.
+
+
+36
+00:02:00,009 --> 00:02:05,001
+Notice that I can nest my plants on top or below each other.
+
+37
+00:02:05,001 --> 00:02:13,001
+That's thanks to CSS.
+
+38
+00:02:13,001 --> 00:02:15,000
+That looks pretty nice.
+
+39
+00:02:15,000 --> 00:02:16,008
+Let's go ahead and add maybe something
+
+40
+00:02:16,008 --> 00:02:20,008
+a little bit tall here.
+
+41
+00:02:20,008 --> 00:02:21,008
+Maybe not that one.
+
+42
+00:02:21,008 --> 00:02:27,000
+Let's go ahead and add this one at the end here.
+
+43
+00:02:27,000 --> 00:02:30,003
+Beautiful. I'm really happy with my little terrarium here.
+
+44
+00:02:30,003 --> 00:02:33,003
+Thanks to HTML CSS and JavaScript
+
+45
+00:02:33,003 --> 00:02:36,006
+we're able to make a beautiful terrarium
+
+46
+00:02:36,006 --> 00:02:39,004
+that's super interactive.
+
+
+47
+00:02:39,004 --> 00:02:41,000
+Now that we've tested it out,
+
+48
+00:02:41,000 --> 00:02:42,007
+made sure everything works properly,
+
+49
+00:02:42,007 --> 00:02:47,006
+we have successfully created our terrarium.
+
+50
+00:02:47,006 --> 00:02:50,000
+Thank you for following along with this series.
+
+51
+00:02:50,000 --> 00:02:53,000
+I hope this was a super fun project for you.
+
+52
+00:02:53,000 --> 00:02:55,004
+There's so much more to learn about JavaScript,
+
+53
+00:02:55,004 --> 00:02:57,002
+so keep practicing
+
+54
+00:02:57,002 --> 00:03:00,007
+and exploring more to enhance your web development skills,
+
+55
+00:03:00,007 --> 00:03:03,006
+and we'll be doing just that in our next chapter.
+
+56
+00:03:03,006 --> 00:03:13,006
+Happy coding.
+

@@ -1,0 +1,306 @@
+1
+00:00:00,005 --> 00:00:01,008
+- [Narrator] Welcome back.
+
+2
+00:00:01,008 --> 00:00:05,009
+We just went through a really amazing series on CSS
+
+3
+00:00:05,009 --> 00:00:09,000
+and really gave our terrarium life.
+
+4
+00:00:09,000 --> 00:00:12,006
+In this final section, we're going to walk through JavaScript.
+
+5
+00:00:12,006 --> 00:00:14,000
+It's the programming language
+
+6
+00:00:14,000 --> 00:00:18,009
+that gives our elements interactivity, so let's get started.
+
+7
+00:00:18,009 --> 00:00:22,000
+First, we're going to learn about variables.
+
+8
+00:00:22,000 --> 00:00:25,001
+Variables are fundamental in any programming language,
+
+9
+00:00:25,001 --> 00:00:27,000
+including JavaScript.
+
+10
+00:00:27,000 --> 00:00:29,006
+They're containers that hold data values,
+
+11
+00:00:29,006 --> 00:00:34,008
+which can be numbers, text, or even more complex data.
+
+12
+00:00:34,008 --> 00:00:36,005
+Before we continue on,
+
+13
+00:00:36,005 --> 00:00:40,003
+let's check out our container, our terrarium.
+
+
+14
+00:00:40,003 --> 00:00:42,003
+This is the state of our terrarium
+
+15
+00:00:42,003 --> 00:00:46,002
+after we finished up adding our CSS.
+
+16
+00:00:46,002 --> 00:00:49,009
+We have our plants on either side of our jar.
+
+17
+00:00:49,009 --> 00:00:53,003
+We have our jar in the middle with that nice little glow
+
+18
+00:00:53,003 --> 00:00:56,002
+and shine in the bottom left,
+
+19
+00:00:56,002 --> 00:01:00,000
+and we can see that everything is adequately positioned,
+
+20
+00:01:00,000 --> 00:01:02,003
+and we also know that we can't drag
+
+21
+00:01:02,003 --> 00:01:05,004
+and drop these plants in here just yet.
+
+22
+00:01:05,004 --> 00:01:07,004
+That's what JavaScript's for.
+
+23
+00:01:07,004 --> 00:01:09,001
+Let's get back to variables.
+
+
+24
+00:01:09,001 --> 00:01:12,007
+Think of a variable as a box that you can store things in.
+
+25
+00:01:12,007 --> 00:01:14,007
+You can put a value in the box.
+
+26
+00:01:14,007 --> 00:01:18,004
+You can take it out or change it to whatever you need to.
+
+27
+00:01:18,004 --> 00:01:21,007
+In JavaScript, we're can use a Let, Const
+
+28
+00:01:21,007 --> 00:01:25,000
+or Var keywords to declare a variable.
+
+29
+00:01:25,000 --> 00:01:27,007
+Choosing between Let, Var or Const
+
+30
+00:01:27,007 --> 00:01:30,003
+is like choosing between reusable
+
+31
+00:01:30,003 --> 00:01:32,004
+or single use containers.
+
+32
+00:01:32,004 --> 00:01:36,001
+We recommend Let, for most cases.
+
+33
+00:01:36,001 --> 00:01:38,001
+Let's talk about Const.
+
+34
+00:01:38,001 --> 00:01:40,007
+If you have a value that should always stay the same,
+
+35
+00:01:40,007 --> 00:01:42,000
+use Const.
+
+
+36
+00:01:42,000 --> 00:01:44,006
+It's like a locked box.
+
+37
+00:01:44,006 --> 00:01:46,006
+Let's move on to our terrarium.
+
+38
+00:01:46,006 --> 00:01:49,007
+For our draggable terrarium, we'll need to keep track
+
+39
+00:01:49,007 --> 00:01:52,009
+of the position of our elements as they are being dragged.
+
+40
+00:01:52,009 --> 00:01:56,000
+We'll use variables to store those positions.
+
+41
+00:01:56,000 --> 00:01:59,000
+Let's open up the script.js file,
+
+42
+00:01:59,000 --> 00:02:01,007
+Here, I've opened the script.js file.
+
+43
+00:02:01,007 --> 00:02:04,001
+We can see that it's empty.
+
+44
+00:02:04,001 --> 00:02:05,007
+That's where we come in.
+
+45
+00:02:05,007 --> 00:02:07,001
+Before we get started,
+
+46
+00:02:07,001 --> 00:02:10,003
+I just want to hop into my index.html file
+
+47
+00:02:10,003 --> 00:02:14,008
+and make sure my script.js file is referenced.
+
+48
+00:02:14,008 --> 00:02:18,008
+I'll add it here on line nine, great.
+
+
+49
+00:02:18,008 --> 00:02:21,002
+Let me give myself some more space.
+
+50
+00:02:21,002 --> 00:02:27,001
+Close my index.html file, and we are ready to go.
+
+51
+00:02:27,001 --> 00:02:30,008
+First things first, let's go ahead and add some variables.
+
+52
+00:02:30,008 --> 00:02:32,002
+At the top of the file,
+
+53
+00:02:32,002 --> 00:02:36,002
+we'll declare four variables using the Let keyword
+
+54
+00:02:36,002 --> 00:02:37,007
+and these variables will store the initial
+
+55
+00:02:37,007 --> 00:02:40,007
+and current positions of the mouse cursor.
+
+56
+00:02:40,007 --> 00:02:43,007
+Here's what each variable represents.
+
+57
+00:02:43,007 --> 00:02:47,003
+pos1 and pos2 will store the change
+
+58
+00:02:47,003 --> 00:02:51,002
+in cursor position on the X and Y axis.
+
+
+59
+00:02:51,002 --> 00:02:54,008
+pos3 and pos4 will store the current cursor
+
+60
+00:02:54,008 --> 00:02:57,008
+position on the X and Y axis.
+
+61
+00:02:57,008 --> 00:03:00,002
+By setting these variables to zero initially,
+
+62
+00:03:00,002 --> 00:03:02,006
+we ensure that they have a defined value
+
+63
+00:03:02,006 --> 00:03:03,008
+before we start using them
+
+64
+00:03:03,008 --> 00:03:07,000
+to track positions, and that's it.
+
+65
+00:03:07,000 --> 00:03:10,002
+In this lesson, we introduced variables, which are essential
+
+66
+00:03:10,002 --> 00:03:12,008
+for storing and manipulating data in JavaScript.
+
+67
+00:03:12,008 --> 00:03:14,004
+We declared four variables
+
+68
+00:03:14,004 --> 00:03:16,002
+that will help us track the position
+
+69
+00:03:16,002 --> 00:03:19,002
+of our elements while they are being dragged.
+
+70
+00:03:19,002 --> 00:03:21,002
+Understanding variables is crucial
+
+71
+00:03:21,002 --> 00:03:22,004
+because they allow us to store
+
+72
+00:03:22,004 --> 00:03:25,001
+and work with data dynamically.
+
+
+73
+00:03:25,001 --> 00:03:27,000
+In the next lesson, we'll learn about functions
+
+74
+00:03:27,000 --> 00:03:30,000
+and how they can perform tasks for us in JavaScript.
+
+75
+00:03:30,000 --> 00:03:40,000
+See you then.
+

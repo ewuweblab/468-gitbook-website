@@ -1,0 +1,118 @@
+1
+00:00:00,006 --> 00:00:03,007
+- Today we're stepping into the world of JavaScript.
+
+2
+00:00:03,007 --> 00:00:05,000
+- That's right, Jasmine.
+
+3
+00:00:05,000 --> 00:00:07,003
+If we think of our website as a house,
+
+4
+00:00:07,003 --> 00:00:10,002
+JavaScript is what turns it from a static structure
+
+5
+00:00:10,002 --> 00:00:13,006
+into a home with lights, doors that open, and much more.
+
+6
+00:00:13,006 --> 00:00:17,000
+- [Jasmine] So if HTML is the structure of our house
+
+7
+00:00:17,000 --> 00:00:19,000
+and CSS is the design,
+
+8
+00:00:19,000 --> 00:00:22,007
+JavaScript is the electricity that powers everything inside.
+
+9
+00:00:22,007 --> 00:00:23,007
+- Exactly.
+
+10
+00:00:23,007 --> 00:00:26,009
+JavaScript lets us interact with the elements on the page.
+
+11
+00:00:26,009 --> 00:00:29,004
+You can think of it as installing smart home devices
+
+12
+00:00:29,004 --> 00:00:31,004
+that react to your actions.
+
+13
+00:00:31,004 --> 00:00:33,003
+- With just a few lines of code,
+
+14
+00:00:33,003 --> 00:00:36,003
+you can make your website respond to user actions.
+
+
+15
+00:00:36,003 --> 00:00:38,008
+- It's like turning on a light with a switch.
+
+16
+00:00:38,008 --> 00:00:42,000
+JavaScript can show or hide information on a webpage,
+
+17
+00:00:42,000 --> 00:00:43,002
+change colors,
+
+18
+00:00:43,002 --> 00:00:46,000
+or even create new content dynamically.
+
+19
+00:00:46,000 --> 00:00:48,009
+- It's what makes the web feel alive.
+
+20
+00:00:48,009 --> 00:00:49,008
+Without JavaScript,
+
+21
+00:00:49,008 --> 00:00:52,003
+our house would be dark and unresponsive,
+
+22
+00:00:52,003 --> 00:00:55,009
+but with it, we can make it welcoming and interactive.
+
+23
+00:00:55,009 --> 00:00:57,003
+- And the best part?
+
+24
+00:00:57,003 --> 00:00:59,000
+You can start small
+
+25
+00:00:59,000 --> 00:01:02,000
+and gradually add more features as you learn.
+
+26
+00:01:02,000 --> 00:01:05,003
+It's like furnishing your house one room at a time.
+
+27
+00:01:05,003 --> 00:01:09,000
+- To sum up, JavaScript adds functionality to our websites.
+
+
+28
+00:01:09,000 --> 00:01:11,001
+It's an essential skill for web developers,
+
+29
+00:01:11,001 --> 00:01:21,001
+and we're excited to dive deeper into it with you.
+

@@ -18,11 +18,13 @@
 
 ## Concepts
 
+* [Tooling Fundamentals](concepts/tooling-fundamentals.md)
 * [Markdown](concepts/markdown.md)
 * [Physical Web](concepts/physical-web.md)
 
 ## HTML Concepts
 
+* [HTML Fundamentals](html-concepts/html-fundamentals.md)
 * [Picture Element](html-concepts/picture-element.md)
 * [Figure Element](html-concepts/figure-element.md)
 

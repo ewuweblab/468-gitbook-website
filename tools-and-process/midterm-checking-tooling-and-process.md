@@ -42,13 +42,13 @@
 
 **Deployment**
 
-* Setup CloudFlare Pages deployment to your repo: `pen-to-project-to-people`
+* Setup CloudFlare **PAGES** deployment to your repo: `pen-to-project-to-people`
   * [https://dash.cloudflare.com/login](https://dash.cloudflare.com/login)
 * Get publicly accessible URL to deployed project
 
 **Submission**
 
 * Submit URL to your GitHub repo e.g. `github.com/YourUserName/pen-to-project-to-people`
-* Submit URL to your CloudFlare deployment e.g. `YourCustomizeSubdomain.pages.dev`
+* Submit URL to your CloudFlare **PAGES** deployment e.g. `YourCustomizeSubdomain.pages.dev`
 * Double check submitted URLs are publicly accessible
 

@@ -15,6 +15,8 @@
   * [Text Editor](tools-and-process/text-editor.md)
   * [Version Control](tools-and-process/version-control.md)
   * [Deployment](tools-and-process/deployment.md)
+  * [Pen to Project to People](tools-and-process/pen-to-project-to-people.md)
+  * [Midterm Checking : Tooling & Process](tools-and-process/midterm-checking-tooling-and-process.md)
 
 ## Concepts
 

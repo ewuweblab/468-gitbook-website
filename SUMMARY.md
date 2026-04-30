@@ -49,14 +49,14 @@
 * [Objects](js-essential-training/objects/README.md)
   * [Object Properties](js-essential-training/objects/object-properties.md)
   * [Object Methods](js-essential-training/objects/object-methods.md)
+* [JSON](js-concepts/json.md)
 * [DOM Manipulation](js-concepts/dom-manipulation.md)
 * [Template Literals](js-concepts/template-literals.md)
-* [Fetch Data](js-concepts/fetch-data.md)
+* [Fetch and Template Data](js-concepts/fetch-and-template-data.md)
 
 ***
 
 * [URL Query Strings](apis/url-query-strings.md)
-* [JSON](apis/json.md)
 * [(web) APIs](web-apis.md)
 
 ## ⭐ Projects

@@ -78,7 +78,7 @@
   * [Setup](px-design-system-astro/setup.md)
 * [Class Roster API](class-roster-api/README.md)
   * [Overview](p3-+-p4-desn-fmly-in-class-project/overview.md)
-  * [💯 💯 Class Roster Astro (Challenges)](class-roster-api/class-roster-astro-challenges.md)
+  * [💯 Class Roster Astro (Challenges)](class-roster-api/class-roster-astro-challenges.md)
   * [In Class Example](class-roster-api/in-class-example.md)
   * [🎉 Ship. Revise. Restart](in-class-demo-class-roster-api/ship.-revise.-restart.md)
 * [Any API Listing](any-api-listing/README.md)

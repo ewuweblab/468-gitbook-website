@@ -40,6 +40,7 @@ coverY: 3.887323065332171
 * [ ] Version Control is used with multiple commits, over multiple days
 * [ ] Project is stored on GitHub
 * [ ] Project is deployed via CloudFlare _**PAGES**_
+* [ ] Add deployment URL to "About" section on the repo
 * [ ] `README.md` file edited with your-own-content e.g. name, citations, notes, links, or any relevant information
 
 ## **Submission**

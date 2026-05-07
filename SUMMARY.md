@@ -38,6 +38,20 @@
 * [Grid Layouts](css-concepts/grid-layouts.md)
 * [Nesting](css-concepts/nesting.md)
 
+## SVG Concepts
+
+* [Overview](svg-concepts/overview/README.md)
+  * [Primer](svg-concepts/overview/primer.md)
+  * [Primitives](svg-concepts/overview/primitives.md)
+  * [Composition](svg-concepts/overview/composition.md)
+* [GSAP](svg-concepts/gsap/README.md)
+  * [Why GSAP?](svg-concepts/gsap/why-gsap.md)
+  * [Setup](svg-concepts/gsap/setup.md)
+  * [Tweens](svg-concepts/gsap/tweens.md)
+  * [Special Properties](svg-concepts/gsap/special-properties.md)
+  * [Timelines](svg-concepts/gsap/timelines.md)
+  * [Practice Pens](svg-concepts/gsap/practice-pens.md)
+
 ***
 
 * [HSL](hsl.md)
@@ -65,22 +79,24 @@
   * [Overview](github-web-portfolio/overview.md)
   * [💯 Challenges : GitHub Profile](github-web-portfolio/github-profile.md)
   * [🎉 Ship. Revise. Restart](p0-github-web-portfolio/ship.-revise.-restart.md)
+* [Markdown Resume](projects/markdown-resume/README.md)
+  * [Overview](projects/markdown-resume/overview.md)
+  * [vCard Generator](projects/markdown-resume/vcard-generator.md)
+  * [💯 Challenges : Markdown Resume](projects/markdown-resume/challenges-markdown-resume.md)
+  * [🎉 Ship. Revise. Restart](projects/markdown-resume/ship.-revise.-restart.md)
+* [Class Roster API](projects/class-roster-api/README.md)
+  * [Overview](projects/class-roster-api/overview.md)
+  * [💯 Class Roster Astro (Challenges)](projects/class-roster-api/class-roster-astro-challenges.md)
+  * [In Class Example](projects/class-roster-api/in-class-example.md)
+  * [🎉 Ship. Revise. Restart](projects/class-roster-api/ship.-revise.-restart.md)
+* [Animated Icon Set](projects/animated-icon-set/README.md)
+  * [Student Examples](projects/animated-icon-set/student-examples.md)
+* [PX : Design System (Astro)](projects/px-design-system-astro/README.md)
+  * [Overview](projects/px-design-system-astro/overview.md)
+  * [Setup](projects/px-design-system-astro/setup.md)
 
 ***
 
-* [Markdown Resume](markdown-resume/README.md)
-  * [Overview](markdown-resume/overview.md)
-  * [vCard Generator](markdown-resume/vcard-generator.md)
-  * [💯 Challenges : Markdown Resume](p1-markdown-resume/challenges-markdown-resume.md)
-  * [🎉 Ship. Revise. Restart](p1-markdown-resume/ship.-revise.-restart.md)
-* [PX : Design System (Astro)](px-design-system-astro/README.md)
-  * [Overview](px-design-system-astro/overview.md)
-  * [Setup](px-design-system-astro/setup.md)
-* [Class Roster API](class-roster-api/README.md)
-  * [Overview](p3-+-p4-desn-fmly-in-class-project/overview.md)
-  * [💯 Class Roster Astro (Challenges)](class-roster-api/class-roster-astro-challenges.md)
-  * [In Class Example](class-roster-api/in-class-example.md)
-  * [🎉 Ship. Revise. Restart](in-class-demo-class-roster-api/ship.-revise.-restart.md)
 * [Any API Listing](any-api-listing/README.md)
   * [Overview](apis/overview.md)
   * [💯 Challenges](p5-any-api-listing/challenges.md)

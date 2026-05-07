@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # (Design) Tokens
 
 ## Tokens

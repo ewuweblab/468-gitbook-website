@@ -94,7 +94,7 @@
   * [💯 Animated Icon Set (Challenges)](projects/animated-icon-set/animated-icon-set-challenges.md)
 * [Google Doodle](projects/google-doodle/README.md)
   * [Overview](projects/google-doodle/overview.md)
-  * [Content and Art Direction](projects/google-doodle/content-and-art-direction.md)
+  * [Part 1: Topic, Art Direction, SVG.](projects/google-doodle/part-1-topic-art-direction-svg..md)
   * [Practice Example](projects/google-doodle/practice-example.md)
   * [Challenges](projects/google-doodle/challenges.md)
 * [PX : Design System (Astro)](projects/px-design-system-astro/README.md)

@@ -20,12 +20,7 @@ Project is complete and met objectives. Ready to show, promote, and deliver to i
 
 Project will not ship — YET — but is complete. Additional revisions to the content and/or visual design could make it _shippable_.
 
-* [Tristan H.](https://th-animated-icon-set.netlify.app/)
-* [Neon K.](https://githuboctowave.netlify.app/)
-* [Kelsee L.](https://icon-set-kl378.netlify.app/)
-* [Christopher N.](https://animated-icon-css-cn-368.netlify.app/)
-* [Keith R.](https://super-bienenstitch-79da14.netlify.app/)
-* [Cristian V.](https://3-icon-set-animation.netlify.app/)
+
 
 ## 🤔Restart?
 

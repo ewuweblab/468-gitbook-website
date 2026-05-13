@@ -91,6 +91,7 @@
   * [🎉 Ship. Revise. Restart](projects/class-roster-api/ship.-revise.-restart.md)
 * [Animated Icon Set](projects/animated-icon-set/README.md)
   * [Student Examples](projects/animated-icon-set/student-examples.md)
+  * [💯 Animated Icon Set (Challenges)](projects/animated-icon-set/animated-icon-set-challenges.md)
 * [Google Doodle](projects/google-doodle/README.md)
   * [Overview](projects/google-doodle/overview.md)
   * [Content and Art Direction](projects/google-doodle/content-and-art-direction.md)

@@ -148,6 +148,7 @@
 ***
 
 * [🗄️ Archive](archive/README.md)
+  * [.tmp Scratch Pad](archive/.tmp-scratch-pad.md)
   * [🎉 Ship. Revise. Restart](archive/ship.-revise.-restart.md)
   * [Overview](archive/overview.md)
   * [Art Direction](archive/art-direction.md)

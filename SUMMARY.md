@@ -49,8 +49,12 @@
   * [Setup](svg-concepts/gsap/setup.md)
   * [Tweens](svg-concepts/gsap/tweens.md)
   * [Special Properties](svg-concepts/gsap/special-properties.md)
+  * [Easing](svg-concepts/gsap/easing.md)
   * [Timelines](svg-concepts/gsap/timelines.md)
+  * [MotionPath Plugin](svg-concepts/gsap/motionpath-plugin.md)
+  * [MorphSVG plugin](svg-concepts/gsap/morphsvg-plugin.md)
   * [Practice Pens](svg-concepts/gsap/practice-pens.md)
+* [GSAP + SVG](svg-concepts/gsap-+-svg.md)
 
 ***
 

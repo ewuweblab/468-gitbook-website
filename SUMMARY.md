@@ -55,6 +55,7 @@
   * [MorphSVG plugin](svg-concepts/gsap/morphsvg-plugin.md)
   * [Practice Pens](svg-concepts/gsap/practice-pens.md)
 * [GSAP + SVG](svg-concepts/gsap-+-svg.md)
+* [View Transitions](svg-concepts/view-transitions.md)
 
 ***
 

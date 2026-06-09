@@ -15,6 +15,7 @@ coverY: 3.887323065332171
   * [ ] Components
   * [ ] Routing
   * [ ] Loading Content
+* [ ] Customize favicon
 * [ ] Use the provided source code via _**Use this Template**_
 
 - [https://github.com/ewuweblab/template-desn-fmly-seniors](https://github.com/ewuweblab/template-desn-fmly-seniors)

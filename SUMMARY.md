@@ -101,6 +101,7 @@
   * [Overview](projects/google-doodle/overview.md)
   * [Part 1: Topic, Art Direction, SVG.](projects/google-doodle/part-1-topic-art-direction-svg..md)
   * [Part 2: Google Doodle Pen](projects/google-doodle/part-2-google-doodle-pen.md)
+  * [Part 3: Astro + GSAP = Google Doodle](projects/google-doodle/part-3-astro-+-gsap-google-doodle.md)
   * [Practice Example](projects/google-doodle/practice-example.md)
   * [Challenges](projects/google-doodle/challenges.md)
 * [PX : Design System (Astro)](projects/px-design-system-astro/README.md)

@@ -1,5 +1,7 @@
 # Part 3: Astro + GSAP = Google Doodle
 
+{% embed url="https://www.youtube.com/watch?v=X4w5KTDWVS8" %}
+
 ## Setup Codespace
 
 * completely empty repo

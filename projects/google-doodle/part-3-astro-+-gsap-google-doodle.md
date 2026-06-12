@@ -57,8 +57,7 @@ gsap.registerPlugin(GSDevTools);
 ## Reference GSAP Plugins
 
 ```
-Core Plugins
-
+// Core Plugins
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { ScrollToPlugin } from "gsap/ScrollToPlugin";
 import { Observer } from "gsap/Observer";
@@ -67,8 +66,7 @@ import { Draggable } from "gsap/Draggable";
 import { MotionPathPlugin } from "gsap/MotionPathPlugin";
 import { TextPlugin } from "gsap/TextPlugin";
 
-Premium Plugsin
-
+// Premium Plugins
 import { SplitText } from "gsap/SplitText";
 import { DrawSVGPlugin } from "gsap/DrawSVGPlugin";
 import { MorphSVGPlugin } from "gsap/MorphSVGPlugin";

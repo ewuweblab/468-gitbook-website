@@ -51,7 +51,8 @@
 // Register once, before using them
 gsap.registerPlugin(GSDevTools);
   
-// GSAP Code 
+// GSAP Code
+GSDevTools.create();
 ```
 
 ## Reference GSAP Plugins

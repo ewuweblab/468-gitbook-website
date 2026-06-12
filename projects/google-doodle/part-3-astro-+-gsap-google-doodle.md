@@ -21,7 +21,7 @@
 
 ## Install GSAP
 
-* `npm install astro`
+* `npm install gsap`
 * confirm in `package.json`
 
 ## CodeSpace
